@@ -13,7 +13,7 @@ description: 'Ars Industrialis inaugural session (18 June 2005): minutes. Media,
 
 # Ars Industrialis inaugural session (18 June 2005): minutes
 
-**Nature of source.** These are written minutes (*compte rendu*) of the founding public meeting. They are not a transcript, and no audio was found on the page. Stiegler's words are paraphrased by the note-taker. I read the full page.
+**Nature of source.** These are written minutes (*compte rendu*) of the founding public meeting. They are not a transcript: Stiegler's words are paraphrased by the note-taker.
 
 ## Condensed account
 

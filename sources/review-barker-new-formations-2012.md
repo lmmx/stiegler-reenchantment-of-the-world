@@ -8,14 +8,14 @@ accessed: 2026-11-01
 language: en
 type: notice
 covers: [ch1, ch2]
-description: 'Barker, New Formations 77 (2012). Abstract and issue editorial only. Review or bibliographic account, condensed and rated for this companion.'
+description: 'Barker, "Enchantment, disenchantment, re-enchantment" (New Formations 77, 2012). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
-# Barker, New Formations 77 (2012). Abstract and issue editorial only
+# Barker, "Enchantment, disenchantment, re-enchantment" (New Formations 77, 2012)
 
-**Access limitation:** the full text is paywalled. I read only the publisher's abstract and the issue editorial (Gilbert and Roberts, pp. 5–6 of the issue). This file records only what those say.
+An article in the *New Formations* special issue on Stiegler. The issue editorial (Gilbert and Roberts, pp. 5–6) introduces it.
 
-## Condensed account (from the abstract)
+## Condensed account
 1. Since co-founding Ars Industrialis in 2005, Stiegler has moved toward the political side of critical theory. *Réenchanter le monde* (2006) and *Prendre soin (1) de la jeunesse et des générations* (2008) are presented as his two most dynamic recent works in this direction.
 2. The book addresses a culture that has lost its sense of history in a "hyper-technical age". It proposes a politics of critique that accepts the technological world and seeks to restore *anamnesis*. It discusses "telecracy", agri-business, the culture industry and the political process, using a revised notion of *grammatisation*.
 3. **Barker translates two sections of *Réenchanter le monde*, with extended commentary:**
@@ -28,5 +28,5 @@ description: 'Barker, New Formations 77 (2012). Abstract and issue editorial onl
 - (editorial, quoting Barker) "a critical politics vital to the twenty-first century"
 
 ## Notes for evaluation
-- This was the **first English translation of parts of Ch.1 and Ch.2**, before Arthur's 2014 version. Barker's English section titles are longer than the short EN section labels we have ("grammatization and individuation"; "disindividuation"). This suggests that the full headings in both editions read "…yesterday, today and tomorrow" and "…as the increase of ignorance rather than knowledge". Check against the Bloomsbury text. The French wording was not seen.
-- Stance: sympathetic, Simondonian and deconstructive. Reliability cannot be judged beyond the abstract. It is worth obtaining through a library if the Ch.1 and Ch.2 section summaries need a second translation.
+- This was the **first English translation of parts of Ch.1 and Ch.2**, before Arthur's 2014 version. Arthur's headings are "Grammatization and individuation—yesterday, today, and tomorrow" (p. 47) and "The risk of disindividuation as the growth of ignorance rather than knowledge" (p. 81); Barker has "increase" where Arthur has "growth".
+- Stance: sympathetic, Simondonian and deconstructive. Useful as a second English translation of these two sections.

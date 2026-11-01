@@ -1,6 +1,6 @@
 ---
 
-description: 'The verified contents of the English edition with page numbers, the differences from the French edition, and where each part comes from.'
+description: 'The contents of the English edition with page numbers, the differences from the French edition, and where each part comes from.'
 ---
 
 # Structure of the book

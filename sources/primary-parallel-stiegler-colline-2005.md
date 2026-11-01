@@ -13,7 +13,7 @@ description: 'Stiegler, Ars Industrialis session of 24 September 2005 (Théâtre
 
 # Stiegler, Ars Industrialis session of 24 September 2005 (Théâtre de la Colline)
 
-**Status:** primary-parallel. *Update (Nov 2026): the printed Chapter 2 has now been read in full from the owner's copy. It keeps this talk's section skeleton and core theses but is **substantially expanded**; see [chapters/05](../chapters/05-ch2-against-the-reign-of-ignorance.md) §"What changed from the 2005 talk". This file is now context, not the basis of the chapter summary.* **This is the single most important source for Chapter 2.** The talk is in 16 numbered sections. Sections 2 and 4–16 have headings that correspond **one-to-one and in the same order** to the 14 section headings of Chapter 2 in the English edition (pp. 61–94); compare [STRUCTURE.md](../STRUCTURE.md). Section 3 has no counterpart heading in the chapter. Its material on Medef/Kessler/Seillière reappears in the book's **Introduction** (pp. 2–3). The talk's purpose was to gather material for the motion before the Tunis WSIS (see [primary-arsindustrialis-tunis-motion-2005.md](primary-arsindustrialis-tunis-motion-2005.md)). The book version is a revised and expanded text. Christian Lotz's page references show material not in the talk, e.g. Wikipedia at p. 87 and judgement at pp. 70–72. So this talk must not be treated as identical to the chapter.
+Stiegler's talk to the Ars Industrialis session of 24 September 2005, and the precursor of Chapter 2. The printed chapter keeps the talk's section skeleton and core theses but is **substantially expanded**; see [chapters/05](../chapters/05-ch2-against-the-reign-of-ignorance.md) §"What changed from the 2005 talk". The talk is in 16 numbered sections. Sections 2 and 4–16 have headings that correspond **one-to-one and in the same order** to the 14 section headings of Chapter 2 in the English edition (pp. 61–94); compare [STRUCTURE.md](../STRUCTURE.md). Section 3 has no counterpart heading in the chapter. Its material on Medef/Kessler/Seillière reappears in the book's **Introduction** (pp. 2–3). The talk's purpose was to gather material for the motion before the Tunis WSIS (see [primary-arsindustrialis-tunis-motion-2005.md](primary-arsindustrialis-tunis-motion-2005.md)). Christian Lotz's page references show material not in the talk, e.g. Wikipedia at p. 87 and judgement at pp. 70–72. So this talk must not be treated as identical to the chapter.
 
 ## Section correspondence
 
@@ -35,7 +35,7 @@ description: 'Stiegler, Ars Industrialis session of 24 September 2005 (Théâtre
 | 15 | La crise écologique de l'esprit se traduit d'abord comme une crise de l'éducation | The crisis of education (90) |
 | 16 | Conséquences pratiques | Practical consequences (91) |
 
-(Some mappings, e.g. 3→64 and 7–8→73, are our inference from content; the rest match heading-for-heading.)
+(3→64 and 7–8→73 correspond by content; the rest match heading for heading.)
 
 ## Condensed account (our paraphrase, by section)
 

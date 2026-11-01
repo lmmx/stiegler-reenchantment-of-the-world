@@ -14,7 +14,7 @@ description: 'Abbinnett, "The Politics of Spirit in Stiegler''s Techno-Pharmacol
 
 # Abbinnett, "The Politics of Spirit in Stiegler's Techno-Pharmacology" (2015)
 
-I read the full peer-reviewed accepted manuscript. Page numbers below are the manuscript's own (pp. 1–13), not the journal's pagination. Abbinnett later expanded this material into *The Thought of Bernard Stiegler* (Routledge, 2018), which I did not see.
+A peer-reviewed article. Page numbers below are those of the accepted manuscript (pp. 1–13), not the journal's pagination. Abbinnett later expanded this material into *The Thought of Bernard Stiegler* (Routledge, 2018).
 
 ## Condensed account
 - **Aim (abstract, pp. 1–3).** Abbinnett traces a notion of "reflexive freedom" from *Technics and Time* 1–2 to the pharmacology of *What Makes Life Worth Living* and *For a New Critique of Political Economy*. His thesis is that the pharmakon "sharpens the aporia" of technological society. Because human culture can be reduced neither to "the disorientated life of industrial populism" nor to idealist reflexivity, a "new politics of difference and autonomous desire" becomes possible.

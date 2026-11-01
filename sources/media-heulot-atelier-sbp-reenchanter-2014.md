@@ -6,14 +6,14 @@ date: '2014-04-14 to 2014-05-26'
 url: 'https://www.societebretonnedephilosophie.fr/2014/05/05/reenchanter-le-monde-le-programme-de-bernard-stiegler-par-didier-heulot/'
 accessed: '2026-11-01'
 language: 'fr'
-type: 'lecture (workshop announcement and bibliography; recordings not heard)'
+type: 'lecture'
 covers: ['introduction', 'ch1', 'ch2', 'disenchantment', 'pharmakon', 'libidinal-economy']
 description: 'Heulot, "Réenchanter le monde, le programme de Bernard Stiegler" (Rennes, 2014). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Heulot, "Réenchanter le monde, le programme de Bernard Stiegler" (Rennes, 2014)
 
-**Status:** we read only the workshop presentation and bibliography. The society's site has a section of audio recordings ("Enregistrements sonores"). We did not find or hear a recording of these sessions.
+A four-session popular philosophy workshop in Rennes. The society published a presentation and a bibliography for it.
 
 ## Condensed account (presentation text)
 

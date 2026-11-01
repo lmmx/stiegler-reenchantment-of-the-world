@@ -13,7 +13,7 @@ description: 'Ars Industrialis 2005 Manifesto (web version). Primary text, conde
 
 # Ars Industrialis 2005 Manifesto (web version)
 
-**Status:** primary text. The book reprints it at pp. 11–16 of the English edition. We read the association's own English web version, which is **not** Trevor Arthur's translation. Wording therefore differs from the book, but the content should match. Confirm against the printed text.
+The association's own English web version of the 2005 Manifesto, with the French original. The book reprints the manifesto at pp. 11–16 of the English edition. The web English is **not** Trevor Arthur's translation, so its wording differs from the book's.
 
 ## Condensed account
 

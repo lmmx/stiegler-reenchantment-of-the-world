@@ -14,7 +14,7 @@ description: 'Stiegler, "Pharmacology of Desire" (2011). Primary text, condensed
 
 # Stiegler, "Pharmacology of Desire" (2011)
 
-I read the full text of the published version (repository PDF). Page numbers are *New Formations* pagination.
+An article by Stiegler in *New Formations*. Page numbers are the journal's.
 
 ## Condensed account
 - **Libidinal economy and psychopower (pp. 150–151).** The starting point is Edward Bernays, Freud's "double nephew" and the inventor of public relations and so of marketing. Twentieth-century libidinal economy was transformed by marketing into a **psychopower**, the counterpart of Foucault's biopower. Psychopower channels consumers' libido toward commodities so that industrial investment can return a profit.

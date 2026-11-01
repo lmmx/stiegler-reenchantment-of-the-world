@@ -13,7 +13,7 @@ description: 'Stiegler interviewed for April (2011). Media, lecture or web sourc
 
 # Stiegler interviewed for April (2011)
 
-**Nature of source.** A 12 min 19 s video. I read the **transcript** published by April, not the video.
+**Nature of source.** A 12 min 19 s video, with a **transcript** published by April. The account follows the transcript.
 
 ## Condensed account
 

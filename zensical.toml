@@ -83,8 +83,8 @@ nav = [
       { "Stiegler, \"The Uncontrollable Societies of Disaffected Individuals\" (2006; Nordic Journal of Aesthetics, 2013)" = "sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md" },
     ] },
     { "Reviews and records" = [
-      { "Barker, New Formations 77 (2012). Abstract and issue editorial only" = "sources/review-barker-new-formations-2012.md" },
-      { "Catalogue records and French structure, partly reconstructed" = "sources/review-bnf-catalogue-records-2006.md" },
+      { "Barker, \"Enchantment, disenchantment, re-enchantment\" (New Formations 77, 2012)" = "sources/review-barker-new-formations-2012.md" },
+      { "French catalogue records and structure" = "sources/review-bnf-catalogue-records-2006.md" },
       { "Cherrier, lelitteraire.com (2012)" = "sources/review-cherrier-lelitteraire-2012.md" },
       { "de Beer, Tydskrif vir Geesteswetenskappe (2012)" = "sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md" },
       { "Flammarion back-cover text (2006) and booksellers' summaries" = "sources/review-flammarion-4e-de-couverture-2006.md" },
@@ -114,7 +114,7 @@ nav = [
       { "Goodreads reader reception (English edition)" = "sources/media-goodreads-reader-reviews-2026.md" },
       { "Heulot, \"Réenchanter le monde, le programme de Bernard Stiegler\" (Rennes, 2014)" = "sources/media-heulot-atelier-sbp-reenchanter-2014.md" },
       { "Brian Holmes on -empyre- (January 2007)" = "sources/media-holmes-empyre-what-is-to-be-done-2007.md" },
-      { "INA clip (2012): description only" = "sources/media-ina-stiegler-consumerism-clip-2012.md" },
+      { "INA clip, \"Bernard Stiegler rises against consumerism\" (2012)" = "sources/media-ina-stiegler-consumerism-clip-2012.md" },
       { "Son[i]a #285, Bernard Stiegler (MACBA, 2019)" = "sources/media-macba-sonia-285-stiegler-podcast-2019.md" },
       { "P2P Foundation wiki: \"Ars Industrialis\"" = "sources/media-p2pfoundation-wiki-ars-industrialis-2025.md" },
       { "Swiss teaching sheet on Le Temps de cerveau disponible (2010)" = "sources/media-plandetudes-fiche-temps-de-cerveau-2010.md" },
@@ -248,8 +248,8 @@ https://lmmx.github.io/stiegler-reenchantment-of-the-world/.
   { "concepts/transindividuation.md" = "Individuation, transindividuation and disindividuation, after Simondon." },
 ]
 "Reference" = [
-  { "STRUCTURE.md" = "The verified contents of the English edition with page numbers, the differences from the French edition, and where each part comes from." },
-  { "INDEX.md" = "Cross-reference tables linking the book's parts, its concepts, the sources and the printed pages." },
+  { "STRUCTURE.md" = "The contents of the English edition with page numbers, the differences from the French edition, and where each part comes from." },
+  { "INDEX.md" = "Cross-reference tables linking the book's parts, its concepts, the sources and the pages where each concept appears." },
   { "reception.md" = "How the book was received: reviews, lines of critique, errors in circulation, and Stiegler's own later revision." },
 ]
 "Optional" = [
@@ -265,8 +265,8 @@ https://lmmx.github.io/stiegler-reenchantment-of-the-world/.
   { "sources/primary-parallel-stiegler-liberation-diary-2005.md" = "Stiegler, \"L'avenir du capitalisme\" (Libération diary, June 2005). Primary text, condensed and rated for this companion." },
   { "sources/primary-parallel-stiegler-pharmacology-of-desire-2011.md" = "Stiegler, \"Pharmacology of Desire\" (2011). Primary text, condensed and rated for this companion." },
   { "sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md" = "Stiegler, \"The Uncontrollable Societies of Disaffected Individuals\" (2006; Nordic Journal of Aesthetics, 2013). Primary text, condensed and rated for this companion." },
-  { "sources/review-barker-new-formations-2012.md" = "Barker, New Formations 77 (2012). Abstract and issue editorial only. Review or bibliographic account, condensed and rated for this companion." },
-  { "sources/review-bnf-catalogue-records-2006.md" = "Catalogue records and French structure, partly reconstructed. Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-barker-new-formations-2012.md" = "Barker, \"Enchantment, disenchantment, re-enchantment\" (New Formations 77, 2012). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-bnf-catalogue-records-2006.md" = "French catalogue records and structure. Review or bibliographic account, condensed and rated for this companion." },
   { "sources/review-cherrier-lelitteraire-2012.md" = "Cherrier, lelitteraire.com (2012). Review or bibliographic account, condensed and rated for this companion." },
   { "sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md" = "de Beer, Tydskrif vir Geesteswetenskappe (2012). Review or bibliographic account, condensed and rated for this companion." },
   { "sources/review-flammarion-4e-de-couverture-2006.md" = "Flammarion back-cover text (2006) and booksellers' summaries. Review or bibliographic account, condensed and rated for this companion." },
@@ -292,7 +292,7 @@ https://lmmx.github.io/stiegler-reenchantment-of-the-world/.
   { "sources/media-goodreads-reader-reviews-2026.md" = "Goodreads reader reception (English edition). Media, lecture or web source, condensed and rated for this companion." },
   { "sources/media-heulot-atelier-sbp-reenchanter-2014.md" = "Heulot, \"Réenchanter le monde, le programme de Bernard Stiegler\" (Rennes, 2014). Media, lecture or web source, condensed and rated for this companion." },
   { "sources/media-holmes-empyre-what-is-to-be-done-2007.md" = "Brian Holmes on -empyre- (January 2007). Media, lecture or web source, condensed and rated for this companion." },
-  { "sources/media-ina-stiegler-consumerism-clip-2012.md" = "INA clip (2012): description only. Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-ina-stiegler-consumerism-clip-2012.md" = "INA clip, \"Bernard Stiegler rises against consumerism\" (2012). Media, lecture or web source, condensed and rated for this companion." },
   { "sources/media-macba-sonia-285-stiegler-podcast-2019.md" = "Son[i]a #285, Bernard Stiegler (MACBA, 2019). Media, lecture or web source, condensed and rated for this companion." },
   { "sources/media-p2pfoundation-wiki-ars-industrialis-2025.md" = "P2P Foundation wiki: \"Ars Industrialis\". Media, lecture or web source, condensed and rated for this companion." },
   { "sources/media-plandetudes-fiche-temps-de-cerveau-2010.md" = "Swiss teaching sheet on Le Temps de cerveau disponible (2010). Media, lecture or web source, condensed and rated for this companion." },

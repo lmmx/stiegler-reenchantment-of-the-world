@@ -24,7 +24,7 @@ The page defines Ars Industrialis as a "cultural and political international ass
 - Pharmakon; proletarianisation as loss of savoir-faire and savoir-vivre; disindividuation; economy of contribution, with **Wikipedia** as the model of contributor-consumers; care; nootechnologies and hypomnemata.
 - A second manifesto appeared in 2010.
 
-Bibliography: Mingant (InMedia 2012), Roodt (2012, Arendt/Stiegler), Abbinnett (2017), Bradley (boundary 2, 2015), Duchesne Winter (2019, Sumak Kawsay), and Stiegler (2014). I did not check these here.
+Bibliography: Mingant (InMedia 2012), Roodt (2012, Arendt/Stiegler), Abbinnett (2017), Bradley (boundary 2, 2015), Duchesne Winter (2019, Sumak Kawsay), and Stiegler (2014).
 
 ## Short quotations
 

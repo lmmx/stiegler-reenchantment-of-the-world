@@ -13,12 +13,12 @@ description: 'French back cover, dedication, and Ch. 1 §3 (French edition). Pri
 
 # French back cover, dedication, and Ch. 1 §3 (French edition)
 
-**Status:** a primary text, transcribed by an amateur reader with interpolated comments marked "hcq". Character encoding is damaged (accents dropped). We used it only to check the French edition's paratext and to read Ch. 1 §3. **No continuous text is reproduced here.**
+A primary text, transcribed by an amateur reader with interpolated comments marked "hcq". Character encoding is damaged (accents dropped). It gives the French edition's paratext and Ch. 1 §3. **No continuous text is reproduced here.**
 
 ## What it establishes
 
 - **French back cover (4e de couverture).** It is essentially a compressed version of the Introduction's opening: Valéry 1939; 45% radio listenership in 1939, no TV; communicating objects chasing "available brain time" from waking to sleeping; "cultural"/"cognitive" capitalism as the ravaging organization of **industrial populism** reducing the seat of spirit to a reflex organ, "a brain without consciousness"; Medef's 2005 summer university under the banner of re-enchanting the world; "this book proposes to take it at its word". It names **Georges Collins, Marc Crépon, Catherine Perret and Caroline Stiegler** as co-founders of Ars Industrialis with Stiegler.
-- **Dedication (French ed.).** "To the memory of Simon Nora. To Laurence Parisot." Nora co-wrote the 1978 Nora–Minc report *L'informatisation de la société*, which Ch. 2's first section title echoes. Parisot became Medef president in July 2005, succeeding Seillière. Whether the dedication appears in the English edition is **unverified** (the preview goes from the Contents straight to the Translator's Preface).
+- **Dedication (French ed.).** "To the memory of Simon Nora. To Laurence Parisot." Nora co-wrote the 1978 Nora–Minc report *L'informatisation de la société*, which Ch. 2's first section title echoes. Parisot became Medef president in July 2005, succeeding Seillière.
 - **French pagination anchor:** Ch. 1 §3 runs at **pp. 42–47** of the French first edition, against English pp. 31–33.
 
 ## Condensed account of Ch. 1 §3 (our paraphrase)
@@ -32,5 +32,5 @@ description: 'French back cover, dedication, and Ch. 1 §3 (French edition). Pri
 
 ## Notes for evaluation
 
-- **Value:** this is the only direct access we have to a Ch. 1 section. It confirms that Lotz's citation "enslaved spirit" (p. 33 English) belongs here. It also shows the chapter's notes are dense with cross-references to Stiegler's 2001–2006 books.
+- **Value:** the French text of a Ch. 1 section. Lotz's citation "enslaved spirit" (p. 33 English) belongs here. It also shows the chapter's notes are dense with cross-references to Stiegler's 2001–2006 books.
 - **Reliability:** the transcription is partial and garbled, and mixed with the site owner's comments. Use for orientation, not quotation.

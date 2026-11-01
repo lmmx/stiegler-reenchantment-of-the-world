@@ -13,7 +13,7 @@ description: 'Bloomsbury preview of the English edition. Primary text, condensed
 
 # Bloomsbury preview of the English edition
 
-**Status:** primary text. This is the only part of the English edition we could read directly. It is the basis for [STRUCTURE.md](../STRUCTURE.md) and for the page numbers used throughout the repo.
+Bloomsbury's online sample of the English edition (14 pp.): front matter, contents, Translator's Preface and the opening of the Introduction. Its contents page gives the page numbers used in [STRUCTURE.md](../STRUCTURE.md).
 
 ## What it establishes
 
@@ -36,4 +36,4 @@ description: 'Bloomsbury preview of the English edition. Primary text, condensed
 
 - **Accuracy:** primary text, authoritative for structure and pagination. Note small typos in the English: "contra" for *contre* and "le valeur" for *la valeur* in the preface; "Steigler"; "savior-faire"; "it's lowest point". These suggest light copy-editing. The French cover's attribution to Ars Industrialis is dropped from the English title page, which matters for questions of authorship (see [STRUCTURE.md](../STRUCTURE.md)).
 - **Bias:** the translator's preface interprets as well as translates. Its framing in terms of drives versus desire and the "elixir" of *politesse* is Arthur's gloss.
-- **Reliability:** high for what it covers. It covers only about 12 pages of the book's text.
+- **Reliability:** high. The sample runs to about 12 pages of the book's text.

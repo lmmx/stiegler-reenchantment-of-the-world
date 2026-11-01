@@ -5,13 +5,13 @@ description: 'Every source used for the companion, rated for reliability and dep
 
 # Evaluation of sources
 
-[Home](../README.md) › **Source evaluation** · see also [reception.md](../reception.md) · [NOTES-ON-METHOD.md](https://github.com/lmmx/stiegler-reenchantment-of-the-world/blob/master/NOTES-ON-METHOD.md)
+[Home](../README.md) › **Source evaluation** · see also [reception.md](../reception.md)
 
 Each source in `sources/` is rated on five criteria:
 
-- **Accuracy:** against the original, as far as we could check it (see [STRUCTURE.md](../STRUCTURE.md)).
+- **Accuracy:** against the book itself (see [STRUCTURE.md](../STRUCTURE.md)).
 - **Coverage:** which parts of the book it treats: P = Preface, I = Introduction, M05 / M10 = Manifestos, C1 / C2 = Chapters, T = Tunis motion.
-- **Depth:** 1 (notice) to 5 (sustained analysis).
+- **Depth:** how far the source goes, from 1 (notice) to 5 (sustained analysis).
 - **Stance:** interpretive bias.
 - **Reliability:** high / medium / low.
 
@@ -23,13 +23,13 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 
 | File | What it is | Coverage | Reliability | Notes |
 |---|---|---|---|---|
-| [primary-bloomsbury-preview-2014](primary-bloomsbury-preview-2014.md) | Publisher preview: contents, Preface, Intro pp. 1–3 | P, I, structure | high | Basis of all page numbers |
+| [primary-bloomsbury-preview-2014](primary-bloomsbury-preview-2014.md) | Bloomsbury's sample: contents, Preface, Intro pp. 1–3 | P, I, structure | high | Contents with page numbers |
 | [primary-arsindustrialis-manifesto-2005](primary-arsindustrialis-manifesto-2005.md) | 2005 Manifesto (association's EN + FR) | M05 | high | Not Arthur's translation |
 | [primary-arsindustrialis-manifesto-2010](primary-arsindustrialis-manifesto-2010.md) | 2010 Manifesto (EN web draft + FR) | M10 | high | Footnotes unfinished in web draft |
-| [primary-arsindustrialis-tunis-motion-2005](primary-arsindustrialis-tunis-motion-2005.md) | Motion, *Libération* 14 Nov 2005 | T | high | Printed version slightly longer |
-| [primary-parallel-stiegler-colline-2005](primary-parallel-stiegler-colline-2005.md) | Stiegler's talk of 24 Sept 2005 | **C2** (precursor), I | high (as precursor) | Headings match C2; checked against the printed chapter (Nov 2026), which is substantially expanded (Minitel history, associated milieus, Wikipedia, Passet, Mallarmé/Husserl) |
-| [primary-excerpt-fr-ch1-s3-homocoques](primary-excerpt-fr-ch1-s3-homocoques.md) | Amateur transcription: FR back cover, dedication, Ch. 1 §3 | C1 §3 | medium | Garbled encoding; only direct access to C1 |
-| [primary-parallel-stiegler-liberation-diary-2005](primary-parallel-stiegler-liberation-diary-2005.md) | *Libération* diary, June 2005 | I, C1 (context) | high (as Stiegler) | Only opening paragraphs read |
+| [primary-arsindustrialis-tunis-motion-2005](primary-arsindustrialis-tunis-motion-2005.md) | Motion, *Libération* 14 Nov 2005 | T | high | An excerpt; the printed motion is roughly twice as long |
+| [primary-parallel-stiegler-colline-2005](primary-parallel-stiegler-colline-2005.md) | Stiegler's talk of 24 Sept 2005 | **C2** (precursor), I | high (as precursor) | Headings match C2. Faithful in skeleton and theses, but the printed chapter is substantially expanded (about a third more: Minitel history, associated milieus, Wikipedia, Passet, Mallarmé/Husserl) |
+| [primary-excerpt-fr-ch1-s3-homocoques](primary-excerpt-fr-ch1-s3-homocoques.md) | Amateur transcription: FR back cover, dedication, Ch. 1 §3 | C1 §3 | medium | Garbled encoding; French text of C1 §3 |
+| [primary-parallel-stiegler-liberation-diary-2005](primary-parallel-stiegler-liberation-diary-2005.md) | *Libération* diary, June 2005 | I, C1 (context) | high (as Stiegler) | Shares the book's vocabulary a year early |
 | [primary-parallel-stiegler-uncontrollable-societies-nja-2013](primary-parallel-stiegler-uncontrollable-societies-nja-2013.md) | 2006 text (Disbelief & Discredit 2 intro), trans. Ross | spirit, industrial populism, Medef | high | **Best free contemporaneous parallel** |
 | [primary-parallel-stiegler-pharmacology-of-desire-2011](primary-parallel-stiegler-pharmacology-of-desire-2011.md) | Article, trans. Ross | libidinal economy, disenchantment | high | Post-2008 vocabulary |
 | [primary-parallel-stiegler-economizing-taking-care-2008](primary-parallel-stiegler-economizing-taking-care-2008.md) | Web essay c. 2008 | care, technologies of spirit | high (content) / medium (dating) | Source of the 2010 care axiom |
@@ -37,29 +37,29 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 | [media-arsindustrialis-seance-inaugurale-2005](media-arsindustrialis-seance-inaugurale-2005.md) | Minutes, 18 June 2005 | M05, founding | medium-high | Unsigned paraphrase; dates vocabulary |
 | [media-arsindustrialis-presentation-tunis-seance-2005](media-arsindustrialis-presentation-tunis-seance-2005.md) | Session announcement, Sept 2005 | I, C2, T | high | Seed of the Introduction |
 | [media-stiegler-technologies-cognitives-2005](media-stiegler-technologies-cognitives-2005.md) | Stiegler, 5 Nov 2005 session | C2 (KM, instruments) | high | Practitioner/design register |
-| [media-arsindustrialis-souffrance-consommation-2006](media-arsindustrialis-souffrance-consommation-2006.md) | Session page, 25 Feb 2006 | C1 (consumer, drives) | low-medium | Audio not heard |
+| [media-arsindustrialis-souffrance-consommation-2006](media-arsindustrialis-souffrance-consommation-2006.md) | Session page, 25 Feb 2006 | C1 (consumer, drives) | low-medium | Talks posted as audio only |
 | [media-april-stiegler-interview-2011](media-april-stiegler-interview-2011.md) | Interview transcript | C1 thesis, M10 | high (as Stiegler) | Plain-language statement of the savoir-vivre thesis |
-| [media-macba-sonia-285-stiegler-podcast-2019](media-macba-sonia-285-stiegler-podcast-2019.md) | Podcast page | late programme | low (description only) | Audio not heard |
+| [media-macba-sonia-285-stiegler-podcast-2019](media-macba-sonia-285-stiegler-podcast-2019.md) | Podcast page | late programme | low | Episode description and timeline |
 | [glossary-arsindustrialis-vocabulaire-2013](glossary-arsindustrialis-vocabulaire-2013.md) | Association's 48-term glossary (V. Petit) | all concepts | high (as house usage) | Post-2006; may over-systematize the book |
 
 ## B. Third-party accounts of the book
 
 | File | Accuracy | Coverage | Depth | Stance | Reliability | Errors / oversimplifications flagged |
 |---|---|---|---|---|---|---|
-| [review-lotz-marx-and-philosophy-2015](review-lotz-marx-and-philosophy-2015.md) | **high**: page refs checked against the printed text for pp. 1–60, all accurate | I, M05, M10, C1 (end), **C2** | 3 | **Marxist** | high | Calls 2010 text an "update" (it is a new manifesto); passes over the contribution economy as the concrete alternative; "labour evaporates" is fair external critique but ignores proletarianization's redefinition |
-| [review-lyons-critical-inquiry-2014](review-lyons-critical-inquiry-2014.md) | medium-high | whole book, thematically | 2 | literary/media theory; pharmacological; sympathetic | medium | Describes the motion as adopted "at" the Tunis summit (it was a press motion on the eve); no page refs; misspells translator's name; reads 2006 chapters through the 2010 pharmakon |
-| [review-debeer-tydskrif-vir-geesteswetenskappe-2012](review-debeer-tydskrif-vir-geesteswetenskappe-2012.md) | medium | I, M05, parts of C1/C2 (FR pages) | 3 | quasi-spiritual / Heideggerian; enthusiastic | medium | **Only source with FR page numbers**; mixes in page refs from other Stiegler books; underplays political economy |
+| [review-lotz-marx-and-philosophy-2015](review-lotz-marx-and-philosophy-2015.md) | **high**: page references accurate throughout | I, M05, M10, C1 (end), **C2** | 3 | **Marxist** | high | Calls 2010 text an "update" (it is a new manifesto); passes over the contribution economy as the concrete alternative; "only example is Wikipedia" is overstated (Ch. 1 pp. 36–37 cites open source and Linux, Ch. 2 Minitel at p. 61 and Web 2.0 at pp. 81, 93); "labour evaporates" is fair external critique but ignores proletarianization's redefinition |
+| [review-lyons-critical-inquiry-2014](review-lyons-critical-inquiry-2014.md) | medium-high | whole book, thematically | 2 | literary/media theory; pharmacological; sympathetic | medium | Describes the motion as adopted "at" the Tunis summit (it was a press motion on the eve); no page refs; misspells translator's name. Its pharmakon framing is supported by Ch. 1 (pp. 47–51), not only by the 2010 Manifesto |
+| [review-debeer-tydskrif-vir-geesteswetenskappe-2012](review-debeer-tydskrif-vir-geesteswetenskappe-2012.md) | medium | I, M05, parts of C1/C2 (FR pages) | 3 | quasi-spiritual / Heideggerian; enthusiastic | medium | **Only source with FR page numbers** (his FR p. 82 on the pharmakon fits the end of Ch. 1, EN pp. 47–51); mixes in page refs from other Stiegler books; underplays political economy |
 | [review-roodt-tydskrif-vir-geesteswetenskappe-2012](review-roodt-tydskrif-vir-geesteswetenskappe-2012.md) | medium-high | M05, M10 only (web versions) | 4 | **Arendtian** political theory | high | "Stiegler equates spirit with libido" compresses a layered account |
-| [review-barker-new-formations-2012](review-barker-new-formations-2012.md) | n/a (abstract only) | C1 p. 47 & C2 p. 81 sections (translated) | 1 (as read) | Simondonian/deconstructive | medium | Important as an earlier partial translation; full text paywalled |
-| [media-heulot-atelier-sbp-reenchanter-2014](media-heulot-atelier-sbp-reenchanter-2014.md) | high (as far as it goes) | I, C1, C2 (themes) | 1 | pedagogical; pharmacological framing | medium | French practitioner reception (4-session Rennes workshop, 2014); confirms FR part titles; recordings not heard |
-| [media-holmes-empyre-what-is-to-be-done-2007](media-holmes-empyre-what-is-to-be-done-2007.md) | high in outline | I, C1 | 2 | tactical-media activist | medium | Earliest English reception; no pages |
+| [review-barker-new-formations-2012](review-barker-new-formations-2012.md) | n/a (a translation) | C1 p. 47 & C2 p. 81 sections (translated) | 3 | Simondonian/deconstructive | medium | Important as an earlier partial translation |
+| [media-heulot-atelier-sbp-reenchanter-2014](media-heulot-atelier-sbp-reenchanter-2014.md) | high (as far as it goes) | I, C1, C2 (themes) | 1 | pedagogical; pharmacological framing | medium | French practitioner reception (4-session Rennes workshop, 2014); confirms FR part titles |
+| [media-holmes-empyre-what-is-to-be-done-2007](media-holmes-empyre-what-is-to-be-done-2007.md) | high in outline | I, C1 | 2 | tactical-media activist | medium | Earliest English reception; gives the Introduction's French title, "Que faire ?"; no pages |
 | [review-hugues-charybde27-2024](review-hugues-charybde27-2024.md) | high (paraphrase checks out) | I, M10 | 2 | left-ecological bookseller; uncritical | medium | Reads later climate concerns into the book (though Tubiana is cited) |
 | [review-cherrier-lelitteraire-2012](review-cherrier-lelitteraire-2012.md) | medium | general | 1 | lay reader | low | Example (*Star Ac*) may be reviewer's own |
 | [review-flammarion-4e-de-couverture-2006](review-flammarion-4e-de-couverture-2006.md) | high (framing) | I | 1 | promotional | medium | Confirms Manifesto is in FR ed. |
-| [review-bnf-catalogue-records-2006](review-bnf-catalogue-records-2006.md) | high (bibliographic) | structure | 1 | — | high (records) / low (snippets) | Assembles provisional FR headings ("plan qui m'enchante") |
+| [review-bnf-catalogue-records-2006](review-bnf-catalogue-records-2006.md) | high (bibliographic) | structure | 1 | — | high (records) / low (snippets) | French headings attested in listings ("plan qui m'enchante") |
 | [media-goodreads-reader-reviews-2026](media-goodreads-reader-reviews-2026.md) | n/a | general | 1 | lay readers | low | Reception evidence only |
 | [media-babelio-reader-reviews-2024](media-babelio-reader-reviews-2024.md) | n/a | general | 1 | lay readers (FR) | low | Explains "2008" date confusion (Champs paperback) |
-| [media-wikipedia-stiegler-ars-industrialis-2026](media-wikipedia-stiegler-ars-industrialis-2026.md) | **low on authorship** | bibliographic | 1 | — | low | EN Wikipedia lists three co-authors, omitting Caroline Stiegler |
+| [media-wikipedia-stiegler-ars-industrialis-2026](media-wikipedia-stiegler-ars-industrialis-2026.md) | **low on authorship** | bibliographic | 1 | — | low | EN Wikipedia lists three co-authors; the Introduction (p. 6) and the manifesto signatures (p. 15) name five founders |
 | [media-p2pfoundation-wiki-ars-industrialis-2025](media-p2pfoundation-wiki-ars-industrialis-2025.md) | low-medium | Ars Industrialis | 2 | AI-generated (declared) | **low** | Stiegler's June 2005 post wrong (still IRCAM); confuses Arendt's *Life of the Mind* with *vita activa* |
 | [media-ina-stiegler-consumerism-clip-2012](media-ina-stiegler-consumerism-clip-2012.md) | n/a | — | 1 | media framing | low | "Predicted in 2005" framing |
 | [media-plandetudes-fiche-temps-de-cerveau-2010](media-plandetudes-fiche-temps-de-cerveau-2010.md) | high (Le Lay) | Le Lay context | 1 | pedagogical | medium | Does not cite the book |
@@ -76,13 +76,13 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 | [lit-cohen-dare-to-care-2017](lit-cohen-dare-to-care-2017.md) | high | spirit (Valéry), care | 4 | Foucauldian; biopolitics | high | Best on Valéry genealogy |
 | [lit-hansen-saving-libidinal-capitalism-2014](lit-hansen-saving-libidinal-capitalism-2014.md) | medium | libidinal economy, re-enchantment | 2 | **media theory** (Whiteheadian) | medium | Frames programme as "re-enchanting capitalism" |
 | [lit-hui-halpin-collective-individuation-2013](lit-hui-halpin-collective-individuation-2013.md) | medium-high | transindividuation, contribution | 2 | Simondonian; engineering | medium | Applies rather than explicates |
-| [lit-rossouw-aestheology-new-otium-2015](lit-rossouw-aestheology-new-otium-2015.md) | n/a (abstract) | otium, re-enchantment | 1 | theological-political | low (unread) | Pointer only |
+| [lit-rossouw-aestheology-new-otium-2015](lit-rossouw-aestheology-new-otium-2015.md) | n/a | otium, re-enchantment | 2 | theological-political | low | Reads re-enchantment as Christianity by other means |
 
 ## D. Context files (facts the book presupposes)
 
 | File | Reliability | Key finding |
 |---|---|---|
-| [context-medef-universite-ete-2005](context-medef-universite-ete-2005.md) | medium | Theme "Réenchanter le monde" confirmed by three independent sources; Kessler/Seillière known only via Stiegler |
+| [context-medef-universite-ete-2005](context-medef-universite-ete-2005.md) | medium | Theme "Réenchanter le monde" confirmed by three independent sources; Kessler/Seillière cited via Stiegler |
 | [context-le-lay-temps-de-cerveau-2004](context-le-lay-temps-de-cerveau-2004.md) | high | Exact wording; source = interview in *Les Dirigeants face au changement* (2004), Seillière preface; AFP 9 July 2004 |
 | [context-wsis-tunis-2005](context-wsis-tunis-2005.md) | high | Motion was a press motion on the eve, not adopted at the summit |
 | [context-ars-industrialis-association](context-ars-industrialis-association.md) | high | **Five** founders; session chronology; 2020 statute change |
@@ -98,36 +98,7 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 | Authorship / founders | EN Wikipedia: three co-authors. Catalogues and association: five founders | Five (Collins, Crépon, Perret, B. Stiegler, C. Stiegler) |
 | Tunis motion | Lyons, blurbs: "at the summit", "account of the summit". Association: press motion on the eve | The association's account is correct |
 
-## F. Searched for but not obtained
-
-- **Patrick Crogan**, "Bernard Stiegler: Philosophy, Technics, Activism" (*Cultural Politics*, 2010): the repository returned HTML or 403.
-- **Gerald Moore** (*Stiegler and Technics*, ed. Howells & Moore, 2013): no open copy.
-- **Daniel Ross**, "Ecology of Spirit": 403.
-- **Parrhesia** (Mellamphy and others): no piece on this book located.
-- **NDPR, TCS book review, Radical Philosophy review of this book:** none exists as far as our searches show. RP is represented by Manche (2021) and TCS by Abbinnett (2015), on concepts.
-- ***Spirale*** no. 216 (2007) review: bot check.
-- Nadine Wanono, *Journal des anthropologues* (2023): 403.
-- Anne Alombert / CosTECH papers: not reached.
-- thoughtleader.co.za post (Bert Olivier?): 503.
-- Podcasts: none devoted to the book (searched *Philosophize This!*, *Acid Horizon*, *Theory & Philosophy*, France Culture).
-
-## F2. Checked against the printed text (owner's copy, Nov 2026)
-
-- **Lotz**: page citations for pp. 1–60 all verified. His "only example is Wikipedia" is overstated (Ch. 1 pp. 36–37 cites open source and Linux).
-- **Lyons**: the pharmakon framing is supported by Ch. 1 (pp. 47–51), not only by the 2010 Manifesto. The motion was adopted *before* the summit, and *Libération* printed excerpts.
-- **de Beer**: his French p. 82 on the pharmakon fits the end of the French Ch. 1 ("Grammatisation et individuation", English pp. 47–51).
-- **Holmes (2007)**: the Introduction is "Que faire ?", consistent with the English "What Is to Be Done?".
-- **EN Wikipedia** (three co-authors) is wrong. The Introduction (p. 6) and the manifesto signatures (p. 15) name five founders.
-- Our own earlier inferences, now corrected: "R technologies" = relational; plane, not plan; contribution, associated milieu and pharmakon are present in 2006; *otium* appears in the 2005 Manifesto; tertiary retention is in the Introduction's n. 2.
-
-## F3. Checked against the printed Chapter 2 and motion (owner's copy, second batch)
-
-- **Lotz**: the Ch. 2 citations hold. Wikipedia is indeed the instance he cites at p. 87, but the chapter also cites Minitel as the first industrial associated milieu (p. 61), and Web 2.0 (pp. 81, 93).
-- **Colline talk**: a faithful precursor in skeleton and theses, but it lacks about a third of the printed chapter.
-- **Tunis motion, web version**: an excerpt; the printed motion is roughly twice as long.
-- **The English edition's bibliography** misattributes Auroux's *La Révolution technologique de la grammatisation* to "Christian Fauré".
-
-## G. Ranked reading list
+## F. Ranked reading list
 
 Ordered by value for someone reading the book now. Primary texts first, because their accuracy is not in question.
 

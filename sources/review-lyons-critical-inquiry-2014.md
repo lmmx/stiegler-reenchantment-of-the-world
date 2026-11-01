@@ -13,7 +13,7 @@ description: 'Lyons, Critical Inquiry (2014). Review or bibliographic account, c
 
 # Lyons, Critical Inquiry (2014)
 
-Read via the online version, which was fetched and summarised in full. The print citation (CI 41.4, 2015, pp. 900–902) comes from a search-result listing. I did not open the print version.
+A short review in *Critical Inquiry*, online first and then in print (CI 41.4, 2015, pp. 900–902).
 
 ## Condensed account
 

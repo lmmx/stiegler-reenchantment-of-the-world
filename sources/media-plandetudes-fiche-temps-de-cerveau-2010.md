@@ -25,4 +25,3 @@ A teaching guide for upper-secondary and teacher-training use. It covers the 57-
 
 - This is evidence of the **pedagogical afterlife** of the Le Lay and Stiegler pairing. The "available brain time" critique reached schools via the documentary, not via *Réenchanter le monde* itself, which the sheet does not cite.
 - It is accurate on the Le Lay source (interview in *Les dirigeants face au changement*). It relies on Acrimed.
-- I read it via text extraction of the PDF. The layout is multi-column, so a few sentence joins may be imperfect.

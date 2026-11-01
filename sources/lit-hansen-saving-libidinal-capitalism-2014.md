@@ -14,7 +14,7 @@ description: 'Hansen, "Saving Libidinal Capitalism" (c. 2014). Secondary literat
 
 # Hansen, "Saving Libidinal Capitalism" (c. 2014)
 
-This is a short online review of *For a New Critique of Political Economy* (2010) and *What Makes Life Worth Living: On Pharmacology* (2013), both translated by Daniel Ross. I read it through a fetch-and-summarise tool, so the account below is brief. The review has no page numbers.
+A short online review of *For a New Critique of Political Economy* (2010) and *What Makes Life Worth Living: On Pharmacology* (2013), both translated by Daniel Ross. The review has no page numbers.
 
 ## Condensed account
 - **Pharmacology.** Technical developments both disable and enable. Hansen places the idea alongside Plato, McLuhan and Derrida, and says Stiegler adds political commitment. "General organology" is the holistic account of organic, technical and social individuation.
@@ -30,4 +30,4 @@ This is a short online review of *For a New Critique of Political Economy* (2010
 ## Notes for evaluation
 - **Value:** a leading media theorist (Hansen, a Whiteheadian and phenomenological media theorist) frames the post-2006 programme explicitly as *re-enchantment of capitalism*, which directly echoes the title of the 2006 book.
 - **Stance:** sympathetic but wary. He calls the project "curious" (even "perverse") for seeking to save rather than abolish capitalism, and judges Stiegler's Marx "piecemeal". This sits between the Marxist critiques (Hutnyk, Manche) and the sympathetic expositions (Ross, Lemmens).
-- **Reliability:** moderate, and thin as read.
+- **Reliability:** moderate; a short review.

@@ -14,7 +14,7 @@ description: 'Ross, Introduction to Stiegler''s The Neganthropocene (2018). Seco
 
 # Ross, Introduction to Stiegler's *The Neganthropocene* (2018)
 
-I read Ross's Introduction from the open-access PDF, in full for pp. 7–24 and skimmed the rest. I also checked how Stiegler's essays in the volume cite *The Re-Enchantment of the World*. Page numbers follow the printed book.
+Ross's Introduction to the open-access volume, with a note of how Stiegler's essays in it cite *The Re-Enchantment of the World*. Page numbers follow the printed book.
 
 ## Condensed account (Ross, Introduction)
 - **Phases of the work (pp. 7–24).** Ross divides Stiegler's work into three "conversions of the gaze":

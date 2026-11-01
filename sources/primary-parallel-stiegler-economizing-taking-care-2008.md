@@ -14,7 +14,7 @@ description: 'Stiegler, "Economizing means taking care" (2008). Primary text, co
 
 # Stiegler, "Economizing means taking care" (2008)
 
-I read the web page through a fetch-and-summarise tool. No translator is credited on the page, and the text has no pagination. Hutnyk (2012) cites it as the epigraph source for "psycho-power" (see lit-hutnyk-proletarianisation-2012.md).
+A web essay. No translator is credited on the page, and the text has no pagination. Hutnyk (2012) cites it as the epigraph source for "psycho-power" (see lit-hutnyk-proletarianisation-2012.md).
 
 ## Condensed account
 - **Care / economy.** "Economy" is taken in its etymological sense of the household: to economise is to take care. Attention is both psychic and collective, and paying attention means taking care. An industrial system could be a system of care, with care as its value chain, instead of consuming its own resources.

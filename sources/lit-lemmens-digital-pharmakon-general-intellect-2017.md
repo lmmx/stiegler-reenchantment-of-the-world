@@ -14,7 +14,7 @@ description: 'Lemmens, "The Digital Pharmakon and the (Dis)Empowerment of the Ge
 
 # Lemmens, "The Digital Pharmakon and the (Dis)Empowerment of the General Intellect" (2017)
 
-I read the full open-access text on PubMed Central. The HTML has no page numbers, so sections are named instead. Two published comments on the article (DOIs 10.1007/s10699-015-9469-0 and -9470-7) were not read.
+An open-access journal article. The web text has no page numbers, so sections are named instead. Two published comments respond to it (DOIs 10.1007/s10699-015-9469-0 and -9470-7).
 
 ## Condensed account
 - **Cognitive capitalism and the general intellect (sections 1–3).** Lemmens surveys the post-operaist reading of Marx's "Fragment on Machines" (Negri, Hardt, Moulier-Boutang, Lazzarato), in which the general intellect has migrated into living labour and digital networks favour the autonomy of the multitude. Against this he sets Berardi's gloomy "semiocapitalism", with libidinal exhaustion and psychopathologies of the "cognitariat", which "only seems to perceive the negative side".
@@ -32,4 +32,4 @@ I read the full open-access text on PubMed Central. The HTML has no page numbers
 
 ## Notes for evaluation
 - **Stance:** sympathetic Stieglerian combined with post-autonomist Marxism. It sits between Ross (exposition) and Manche and Hutnyk (Marxist critique): it accepts the pharmacological framework but criticises Stiegler's statism. This bears directly on the book's 2005/2010 manifestos, which appeal to public power and European industrial policy.
-- **Reliability:** high on exposition and peer-reviewed. It is good for the associated-milieu, organology and libidinal-economy slugs, and it places Stiegler clearly within the cognitive-capitalism debate.
+- **Reliability:** high on exposition and peer-reviewed. It is good for the associated-milieu, organology and libidinal-economy concepts, and it places Stiegler clearly within the cognitive-capitalism debate.

@@ -14,7 +14,7 @@ description: 'Stiegler, "The Uncontrollable Societies of Disaffected Individuals
 
 # Stiegler, "The Uncontrollable Societies of Disaffected Individuals" (2006; *Nordic Journal of Aesthetics*, 2013)
 
-I read the full text of the open-access PDF. This is the Nordic Journal of Aesthetics text on "the lowering of the spirit value" that the task brief refers to. It is a 2006 text, written at the same time as *Réenchanter le monde*, and it names Medef's 2005 summer university.
+The *Nordic Journal of Aesthetics* text on "the lowering of the spirit value". It is a 2006 text, written at the same time as *Réenchanter le monde*, and it names Medef's 2005 summer university.
 
 ## Condensed account
 - **Spirit (p. 129).** The text opens: "Symbolic misery leads irresistibly to spiritual misery." *Esprit* is a "noetic process that is both psychic and collective (cerebral and social)". It is what connects the I to the we, the "and" of psychic and collective individuation, "just as is, moreover, technics". It is not "vapour" or pure form. It passes through the organisation of matter. Knowledge (*connaissance*) is spirit's refined fruit, resting on savoir-faire and savoir-vivre. The translator's note (n. 1) says *esprit* means both mind and spirit, with no "vaporously 'spiritual'" sense.

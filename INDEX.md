@@ -1,6 +1,6 @@
 ---
 
-description: 'Cross-reference tables linking the book''s parts, its concepts, the sources and the printed pages.'
+description: 'Cross-reference tables linking the book''s parts, its concepts, the sources and the pages where each concept appears.'
 ---
 
 # Index: chapters ↔ concepts ↔ sources

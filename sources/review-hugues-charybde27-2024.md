@@ -13,7 +13,7 @@ description: 'Hugues, Charybde 27 (2024). Review or bibliographic account, conde
 
 # Hugues, Charybde 27 (2024)
 
-A bookseller's blog reading note. Read in full via fetch. It quotes several long passages from the book without page numbers. I have not reproduced those passages here.
+A bookseller's blog reading note. It quotes several long passages from the book without page numbers; they are not reproduced here.
 
 ## Condensed account
 1. The book is a "philosophical and political manifesto" against the hold of the capitalist imaginary on real and digital life. Valéry's 1939 "baisse de la valeur esprit" is extended to reality TV, the selling of audiences, and consumers treated as conditioned nervous systems.
