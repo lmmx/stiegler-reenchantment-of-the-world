@@ -9,12 +9,12 @@ edit_uri = "edit/master/"
 copyright = "A fair-use study companion: summaries and short attributed quotations only. The book is © Bernard Stiegler, Ars Industrialis and Bloomsbury."
 
 # The repository root is the docs directory, so every page keeps its path (and its relative
-# links) on GitHub and on the site. What is not a page of the companion is left out:
-# NOTES-ON-METHOD.md (how the companion was made; pages link to it on GitHub instead), the
-# site's own templates and scripts (website/) and the build output.
+# links) on GitHub and on the site. Pages link to each other with relative .md links, which
+# work in both places. A new page needs a nav entry and a front-matter description, listed
+# with that same description in the llmstxt sections below (website/check_site.py).
+# Left out: the site's own templates and scripts (website/), and the build output.
 docs_dir = "."
 exclude_docs = """
-NOTES-ON-METHOD.md
 /website/overrides/
 /website/*.py
 /site/
