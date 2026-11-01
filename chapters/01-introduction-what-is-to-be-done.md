@@ -48,7 +48,27 @@ The Introduction has no internal headings. It is divided by asterisks.
 | 9 | The book closes with the **complete text** of the motion adopted a few days before Tunis, of which *Libération* published excerpts. Sessions resumed in October 2006 (a new public power; reorganizing education "from top to bottom"). At the same time Stiegler published *La Télécratie contre la démocratie. Lettre ouverte aux représentants politiques*, with proposals in his own name for the coming French election campaign. At stake is the role of France and Europe in "the survival of mankind". | photo |
 | 10 | Blank. | photo |
 
-**Introduction notes (pp. 101–102), selected.**
+**Introduction notes (pp. 101–102), complete gloss.**
+
+| n. | Gist |
+|---|---|
+| 1 | Derrida & Stiegler, *Echographies of Television* (Polity, 2002) |
+| 2 | "consciousness" is not a halo around the brain; the psychic apparatus distributes itself into prostheses, i.e. **tertiary retentions**, which Ars Industrialis calls hypomnemata; consciousness is irreducibly moral |
+| 3 | "reign of stupidity": *Mécréance et discrédit 2* (2006) |
+| 4 | "Ubuesque" (translator's note) |
+| 5 | Laurence Tubiana, interview by Laure Noualhat, *Libération*, 29 May 2006 |
+| 6 | Robert Lyon, "Faire mieux avec moins", *Le Monde*, 7 July 2006 |
+| 7 | ibid. |
+| 8 | G. W. Bush, New Orleans, and admitting a climate problem |
+| 9 | on desire: *La Télécratie contre la démocratie* (2006) |
+| 10 | *Mécréance et discrédit* (the *sursaut*) |
+| 11 | the new spirit of capitalism is "still to come", against Boltanski & Chiapello, *Le nouvel esprit du capitalisme* (1999) |
+| 12 | op. cit., p. 17 |
+| 13 | Deleuze on seeking new weapons |
+| 14–16 | Ars Industrialis session pages: cognitive technologies (5 Nov 2005); politics and television; podcasts |
+| 17 | only the 2005 Manifesto existed at French publication; the 2010 Manifesto was added in the English edition |
+
+**Highlights:**
 - n. 2: "consciousness" is not a halo around the brain. The psychic apparatus distributes itself into prostheses, the **tertiary retentions** that Ars Industrialis calls hypomnemata. To think consciousness is to think the circuit of brain, body, apparatuses and the social.
 - n. 3: "reign of stupidity", see *Mécréance et discrédit 2*.
 - n. 5: Laurence Tubiana, interview in *Libération*, 29 May 2006.

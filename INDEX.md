@@ -66,6 +66,30 @@ Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · 
 | technologies of spirit | [2005 Manifesto](sources/primary-arsindustrialis-manifesto-2005.md), [glossary](sources/glossary-arsindustrialis-vocabulaire-2013.md), [Economizing = care](sources/primary-parallel-stiegler-economizing-taking-care-2008.md), [cognitive technologies 2005](sources/media-stiegler-technologies-cognitives-2005.md) |
 | knowledge vs information | [Colline](sources/primary-parallel-stiegler-colline-2005.md), [Tunis presentation](sources/media-arsindustrialis-presentation-tunis-seance-2005.md), [Ross](sources/lit-ross-neganthropocene-introduction-2018.md), [MACBA podcast](sources/media-macba-sonia-285-stiegler-podcast-2019.md) |
 
+## 5. Concepts × printed pages (owner's copy)
+
+| Concept | Pages in the printed text (pp. 1–60, notes 101–108) |
+|---|---|
+| spirit | Intro 1–3, 5–7; 2005 M. 11; Ch. 1 33, 35, 43, 46, 55 |
+| industrial populism | Intro 1, 5–7; 2010 M. 27; Ch. 1 50 |
+| libidinal economy | Intro 1–2, 6; 2005 M. 12; 2010 M. 17; Ch. 1 39–43, 60 |
+| symbolic / spiritual misery | Ch. 1 39, 58 |
+| hyperindustrial society | Intro 4; Ch. 1 29–31, 43, 45 |
+| tertiary retention | Intro n. 2 (p. 101) |
+| grammatization | Ch. 1 29 (n. 2), 33, 47–51, 54, 56 |
+| hypomnemata | Intro 6; 2005 M. 13; 2010 M. 19–21, 24, 27; Ch. 1 29 (n. 3), 31–32, 36–38, 47–51 |
+| pharmakon | 2010 M. 19–21, 23–24, 27; Ch. 1 47–51 |
+| proletarianization | 2010 M. 23–25; Ch. 1 32–35, 51 |
+| otium / negotium (subsistence, existence, consistence) | 2005 M. 13 (n. 5); Ch. 1 30, 58–60 |
+| care | 2010 M. 18, 20–21, 23, 25, 27; Ch. 1 43, 47, 51, 54, 60 |
+| short-termism | 2005 M. 11, 13; 2010 M. 17, 22; Ch. 1 40, 52 |
+| economy of contribution | 2010 M. 19, 22, 24–25 (n. 9); Ch. 1 36–37 |
+| associated / dissociated milieu | 2010 M. 19, 25; Ch. 1 34–37, 45, 49, 53–55 |
+| (trans)individuation / disindividuation | Intro 7; Ch. 1 30–35, 38, 43–45, 47–51, 57 |
+| disenchantment / re-enchantment | Intro 2, 5; Ch. 1 33–35, 55, 58–60 |
+| technologies of spirit / R technologies | Intro 3, 6–7; 2005 M. 11; 2010 M. 24; Ch. 1 29, 37–38, 47, 50–52, 57 |
+| knowledge vs information | Intro 3; Ch. 1 33 (entropy), n. 12 |
+
 ## 4. All source files by type
 
 See [sources/EVALUATION.md](sources/EVALUATION.md) for ratings. File-name prefixes: `primary-` (book texts), `primary-parallel-` (Stiegler's contemporaneous texts), `review-` (accounts of the book), `lit-` (secondary literature), `glossary-`, `media-` (lectures, podcasts, blogs, wikis, reader reviews), `context-` (events the book presupposes).
