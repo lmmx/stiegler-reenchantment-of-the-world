@@ -8,7 +8,7 @@ Tertiary retention is memory **retained outside the living being, in artefacts**
 
 ## Where it appears
 
-The term itself does not appear in the parts we could read. The idea runs through the book under other names:
+The term appears **explicitly** in the Introduction's n. 2 (p. 101): the psychic apparatus distributes itself into prostheses and technical apparatuses that support "what I have elsewhere called tertiary retentions", which Ars Industrialis calls hypomnemata. *(Correction: an earlier version said the term was absent.)* Elsewhere the idea runs under other names:
 
 - [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) "Knowledge (*Savoir*) and information" (p. 77) and "Knowledge and memory, or reign of ignorance?" (p. 79). Memory is externalized from the human origin; living memory must project outside itself to overcome its "retentional finitude"; the **mnemotechnical → mnemotechnological** transition. "Instruments of knowledge and the criteria of selection" (p. 87): memory as retention is **selection**, and industries of memory impose selection criteria (Lotz, p. 88: memory and imagination become objects of investment).
 - [2005 Manifesto](../chapters/02-manifesto-2005.md) and [2010 Manifesto](../chapters/03-manifesto-2010.md): **hypomnemata** and "mnemotechnologies".

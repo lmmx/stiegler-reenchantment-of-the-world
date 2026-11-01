@@ -35,3 +35,7 @@ There is also a literal play: *savoir*/*sapere*/*sapide*. A world without knowle
 - **Rossouw (2015, abstract only):** re-enchantment as a secularized Christian (theological) project ([source](../sources/lit-rossouw-aestheology-new-otium-2015.md)).
 - **Lotz (2015):** "new spirit of capitalism" talk veils the real restructuring needed ([source](../sources/review-lotz-marx-and-philosophy-2015.md)).
 - **Labelled interpretation:** the book does *not* call for re-sacralization. The Tunis motion explicitly warns against locating spirit only in religion. Its "enchantment" is closer to motivation, desire and meaning sustained by knowledge.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 5: Medef's slogan refers to Weber. Capitalism unleashes disenchantment "with a stroke of enchantment": the Protestant spirit, tied to the printing press as a "techno-logy" of spirit. Rationalization (reason as *ratio*) then lowers the value of spirit, and the present low calls for a **sursaut**. [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 58: the "plane of motifs" is "the plane of enchantment"; pp. 58–60: enchantment is motivation, which requires incalculable singularities.

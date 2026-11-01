@@ -28,3 +28,7 @@ Symbolic misery is the loss of individuation that results from losing **particip
 
 - No source found disputes the concept directly.
 - **Labelled interpretation:** the term is used more than it is explained in this book. A reader new to Stiegler will need *Symbolic Misery* vol. 1, ch. 1–2, to see why aesthetic participation is the model for all participation. The *Libération* diary cites Leroi-Gourhan's "one must participate in order to feel".
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 39: "absolute spiritual misery" (the Nice case, end of 2005); p. 58: a century of aesthetics in the service of production and consumption yields "profound symbolic and spiritual misery".

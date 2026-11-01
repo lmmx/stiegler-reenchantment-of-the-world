@@ -31,3 +31,7 @@ Industrial populism is a populism produced **by the organization of the economy*
 - The secondary literature **uses the term but rarely analyses it**. No source found offers a sustained critique of the concept itself.
 - **Labelled interpretation:** in 2005–06 the concept is *television-centred* (Le Lay, *Star Academy*). Readers such as a Goodreads reviewer note that the remedies are correspondingly TV-focused ([source](../sources/media-goodreads-reader-reviews-2026.md)). Its extension to platforms and social media is a later move by Stiegler (2010 Manifesto §4; *The Neganthropocene*).
 - The French term differs from the Anglo-American political-science use of "populism". Stiegler's claim is causal: economic organization comes first, political populism second.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 5: nearly all social life is controlled by the "industry of available brain-time", i.e. industrial populism. p. 7: **financier capitalism** is "the true underwriter of industrial populism". [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 50: industrial populism and tele-cratic television as a process of disindividuation (Berlusconi's "tele-cracy").

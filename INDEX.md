@@ -15,16 +15,16 @@ Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · 
 | [libidinal economy](concepts/libidinal-economy.md) | ○ | ● | ● | ● | ○ | ○ |  |
 | [symbolic misery](concepts/symbolic-misery.md) |  |  | ◌ |  | ◌ |  | ○ |
 | [hyperindustrial society](concepts/hyperindustrial-society.md) |  | ○ |  |  | ● | ○ |  |
-| [tertiary retention](concepts/tertiary-retention.md) |  |  | ◌ | ◌ |  | ● |  |
+| [tertiary retention](concepts/tertiary-retention.md) |  | ○ | ◌ | ◌ |  | ● |  |
 | [grammatization](concepts/grammatization.md) |  |  |  |  | ● | ● |  |
 | [hypomnemata](concepts/hypomnemata.md) |  |  | ● | ● | ○ | ● |  |
-| [pharmakon](concepts/pharmakon.md) |  |  | ◌ | ● |  | ◌ |  |
+| [pharmakon](concepts/pharmakon.md) |  |  | ◌ | ● | ● | ◌ |  |
 | [proletarianization](concepts/proletarianization.md) | ● |  |  | ● | ● | ○ |  |
-| [otium/negotium](concepts/otium-negotium.md) |  |  | ◌ | ◌ |  |  |  |
-| [care](concepts/care.md) | ○ |  |  | ● |  | ◌ |  |
+| [otium/negotium](concepts/otium-negotium.md) |  |  | ○ | ◌ | ○ |  |  |
+| [care](concepts/care.md) | ○ |  |  | ● | ○ | ◌ |  |
 | [short-termism](concepts/short-termism.md) |  |  | ○ | ● |  | ○ | ○ |
-| [economy of contribution](concepts/economy-of-contribution.md) |  |  |  | ● |  | ◌ |  |
-| [associated milieu](concepts/associated-milieu.md) |  |  |  | ● | ◌ | ◌ |  |
+| [economy of contribution](concepts/economy-of-contribution.md) |  |  |  | ● | ● | ◌ |  |
+| [associated milieu](concepts/associated-milieu.md) |  |  |  | ● | ● | ◌ |  |
 | [transindividuation](concepts/transindividuation.md) | ● |  |  | ◌ | ● | ● |  |
 | [disenchantment](concepts/disenchantment.md) |  | ● |  | ○ | ○ | ● |  |
 | [technologies of spirit](concepts/technologies-of-spirit.md) |  | ○ | ● | ● | ○ | ● | ● |
@@ -35,10 +35,10 @@ Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · 
 | Part | Primary / precursor | Best secondary |
 |---|---|---|
 | P | [Bloomsbury preview](sources/primary-bloomsbury-preview-2014.md) | [Lyons](sources/review-lyons-critical-inquiry-2014.md) (on the preface) |
-| I | [preview](sources/primary-bloomsbury-preview-2014.md), [Tunis session presentation 2005](sources/media-arsindustrialis-presentation-tunis-seance-2005.md), [Libération diary](sources/primary-parallel-stiegler-liberation-diary-2005.md), [FR back cover](sources/review-flammarion-4e-de-couverture-2006.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md), [Charybde](sources/review-hugues-charybde27-2024.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md); context: [Medef](sources/context-medef-universite-ete-2005.md), [Le Lay](sources/context-le-lay-temps-de-cerveau-2004.md) |
+| I | **owner's copy (pp. 1–9, notes 101–102)**, [preview](sources/primary-bloomsbury-preview-2014.md), [Tunis session presentation 2005](sources/media-arsindustrialis-presentation-tunis-seance-2005.md), [Libération diary](sources/primary-parallel-stiegler-liberation-diary-2005.md), [FR back cover](sources/review-flammarion-4e-de-couverture-2006.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md), [Charybde](sources/review-hugues-charybde27-2024.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md); context: [Medef](sources/context-medef-universite-ete-2005.md), [Le Lay](sources/context-le-lay-temps-de-cerveau-2004.md) |
 | M05 | [2005 Manifesto](sources/primary-arsindustrialis-manifesto-2005.md), [inaugural session](sources/media-arsindustrialis-seance-inaugurale-2005.md) | [Roodt](sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md), [de Beer](sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md) |
 | M10 | [2010 Manifesto](sources/primary-arsindustrialis-manifesto-2010.md), [Economizing = care](sources/primary-parallel-stiegler-economizing-taking-care-2008.md), [Lemmens interview](sources/primary-parallel-lemmens-stiegler-interview-krisis-2011.md) | [Roodt](sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md), [Hutnyk](sources/lit-hutnyk-proletarianisation-2012.md), [Manche](sources/lit-manche-proletarianisation-not-capitalism-2021.md) |
-| C1 | [FR §3 excerpt](sources/primary-excerpt-fr-ch1-s3-homocoques.md), [Souffrance et consommation 2006](sources/media-arsindustrialis-souffrance-consommation-2006.md), [Uncontrollable societies](sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md), [April interview](sources/media-april-stiegler-interview-2011.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md) (pp. 33, 57–58), [Barker](sources/review-barker-new-formations-2012.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md) |
+| C1 | **owner's copy (pp. 29–60, notes 104–108)**, [FR §3 excerpt](sources/primary-excerpt-fr-ch1-s3-homocoques.md), [Souffrance et consommation 2006](sources/media-arsindustrialis-souffrance-consommation-2006.md), [Uncontrollable societies](sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md), [April interview](sources/media-april-stiegler-interview-2011.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md) (pp. 33, 57–58), [Barker](sources/review-barker-new-formations-2012.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md) |
 | C2 | **[Colline talk 2005](sources/primary-parallel-stiegler-colline-2005.md)**, [cognitive technologies 2005](sources/media-stiegler-technologies-cognitives-2005.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md) (pp. 63–92), [Barker](sources/review-barker-new-formations-2012.md) |
 | T | [Tunis motion](sources/primary-arsindustrialis-tunis-motion-2005.md) | [WSIS context](sources/context-wsis-tunis-2005.md), [Ars Industrialis context](sources/context-ars-industrialis-association.md) |
 

@@ -26,3 +26,7 @@ The central distinction of [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignor
 ## Disagreements
 
 - **Labelled interpretation:** the thermodynamic vocabulary is asserted rather than derived in Ch. 2. Information theory's sense of entropy (Shannon) differs from the economic "decay of value" the chapter has in mind. Stiegler's later work (*The Neganthropocene*, 2018) tries to make the analogy rigorous through Schrödinger, Lotka and Georgescu-Roegen. No source we found offers a critique of the 2006 formulation itself.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 33: capitalism tends "to produce entropy and distaste"; n. 12: negentropy fights entropy, "the equalization and indifferentiation of all things", and individuation is essentially negentropic.

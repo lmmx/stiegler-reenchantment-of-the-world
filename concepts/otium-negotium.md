@@ -8,7 +8,7 @@ Latin terms. ***Negotium*** ("not-leisure") is business: the sphere of subsisten
 
 ## Where it appears
 
-- The terms are **not attested in the parts of this book we could read**. The book's version of the theme is **savoir-vivre**, the **life of the mind**, and the call for **care** and **techniques of the self** ([2010 Manifesto](../chapters/03-manifesto-2010.md) §4.2, §10).
+- **Named in the printed 2005 Manifesto** ([2005 Manifesto](../chapters/02-manifesto-2005.md) p. 13): industrial technologies of spirit, as new hypomnemata like those of the Stoics and Epicureans or of "the Rome in which the Greek *skholè* became the Roman practice of the *otium*", call for new practices. Note 5 cites J.-M. André, *L'Otium dans la vie morale et intellectuelle romaine* (1966). Ch. 1 develops the related scheme of **subsistence, existence and consistence** (pp. 30, 58–60). *(Correction: an earlier version said the term was not attested in the parts we had read.)*
 - Stiegler's *Libération* diary (June 2005), written in the founding weeks of Ars Industrialis, makes otium explicit. Freedom passes "essentially through *otium*", and otium is equated with **spirit** (sacred or profane), linked to Plutarch's "art of living" and to the journal as a practice of self-writing ([source](../sources/primary-parallel-stiegler-liberation-diary-2005.md)).
 - The [2005 Manifesto](../chapters/02-manifesto-2005.md) mentions Foucault's "writing of the self" (*hypomnemata* in Stoic and Epicurean schools), which is the practice of otium.
 - **Gap:** whether Ch. 1's unseen sections (e.g. "The consumer discharged of his existence") use the pair cannot be confirmed. See [NOTES-ON-METHOD.md](../NOTES-ON-METHOD.md).
@@ -28,3 +28,7 @@ Latin terms. ***Negotium*** ("not-leisure") is business: the sphere of subsisten
 
 - Abbinnett glosses otium as "**the labour of spirit**". Our source note judges this inaccurate, since otium is precisely *not* labour in the sense of negotium. A charitable reading would say Stiegler distinguishes *work* (*travail*, *œuvre*) from *employment*, so that otium can be "work" without being employment, as in the 2010 Manifesto §9.3.
 - Rossouw's theological reading against the secular reading of Ars Industrialis remains open.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 30: man cannot merely subsist; he ex-sists. pp. 58–60: modes of subsistence and existence must support "the other plane", the plane of consistencies, which "do not exist" and must be cared for.

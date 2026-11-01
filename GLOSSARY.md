@@ -14,7 +14,7 @@ Terse definitions as the book uses the terms. Each heading links to a full conce
 | [**Tertiary retention**](concepts/tertiary-retention.md) | Memory held in artefacts. It conditions perception (primary retention) and recollection (secondary retention). |
 | [**Grammatization**](concepts/grammatization.md) | Discretization of flows (speech, gesture, perception) into reproducible marks, from the alphabet to the digital. Each stage both enables knowledge and threatens it. |
 | [**Hypomnemata**](concepts/hypomnemata.md) | Memory supports. Writing and all mnemotechnics. They can serve care of the self or replace memory. |
-| [**Pharmakon** / pharmacology](concepts/pharmakon.md) | Every technics is remedy and poison. A therapeutic (care) decides which. Explicit from the 2010 Manifesto on. |
+| [**Pharmakon** / pharmacology](concepts/pharmakon.md) | Every technics is remedy and poison. A therapeutic (care) decides which. Explicit already in Ch. 1 (pp. 47–51) and systematized in the 2010 Manifesto. |
 | [**Proletarianization**](concepts/proletarianization.md) | Loss of knowledge to apparatuses: workers' *savoir-faire*, consumers' *savoir-vivre*, thinkers' theoretical knowledge. |
 | [**Otium / negotium**](concepts/otium-negotium.md) | Studious leisure for existence and self-cultivation, against business for subsistence. Service capitalism folds otium into negotium. |
 | [**Care** (*soin*)](concepts/care.md) | Attention to self, others and world, sustained by techniques of the self. "To economize means… to take care." Its opposite is carelessness (*incurie*). |
@@ -28,6 +28,12 @@ Terse definitions as the book uses the terms. Each heading links to a full conce
 
 ## Other terms you will meet
 
+- **R technologies**: relational technologies (Ch. 1, p. 29): telecom and broadcast networks, RFID, chip cards, wi-fi, Bluetooth, biometrics, nanotech, used as technologies of control. See [technologies of spirit](concepts/technologies-of-spirit.md).
+- **Dissociated milieu**: a milieu in which production and consumption are separated, so participants lose their knowledge and cannot individuate themselves (Ch. 1, pp. 34–37). See [associated milieu](concepts/associated-milieu.md).
+- **Plane of consistencies / motifs ("the plane that enchants me")**: the incalculable objects of desire (works, the beloved, idealities) which "do not exist" but *consist*, and must be cared for (Ch. 1, pp. 58–60).
+- **Discharge**: services relieve the consumer of tasks and so of his existence (Ch. 1, pp. 30–31).
+- **Meta-transformation**: the capacity to transform the way ways of life are transformed (Ch. 1, pp. 44–45).
+
 - ***Savoir-faire / savoir-vivre***: know-how / knowing how to live. Left in French by the translator. See [proletarianization](concepts/proletarianization.md).
 - **Available brain time** (*temps de cerveau humain disponible*): Patrick Le Lay (TF1), 2004. See [context](sources/context-le-lay-temps-de-cerveau-2004.md).
 - **Medef**: French employers' federation. Its 2005 summer university was titled "Réenchanter le monde". See [context](sources/context-medef-universite-ete-2005.md).
@@ -35,4 +41,4 @@ Terse definitions as the book uses the terms. Each heading links to a full conce
 - **Adoption**: the process by which ways of life are taken up. Individuation is adoption. See [Ch. 1](chapters/04-ch1-re-foundation-of-society.md) §3.
 - **General organology**: the co-evolution of bodily organs, technical organs and social organizations. See [grammatization](concepts/grammatization.md).
 - **Desublimation**: loss of the capacity to sublimate drives into desire for singular objects. See [libidinal economy](concepts/libidinal-economy.md).
-- ***Sursaut*** ("jumpstart"): a renewal, and a 2004–06 French political keyword. See [Ch. 1](chapters/04-ch1-re-foundation-of-society.md) p. 44.
+- ***Sursaut*** ("jumpstart", also rendered "sudden surge", Introduction p. 5): a leap and rupture that re-founds the "human enterprise" (*entreprendre de fonder*). See [Ch. 1](chapters/04-ch1-re-foundation-of-society.md) pp. 44–47.

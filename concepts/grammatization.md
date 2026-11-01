@@ -25,3 +25,7 @@ Grammatization is the process by which temporal **flows** (speech, gesture, perc
 
 - No disagreement over the concept was found among the sources consulted.
 - **Labelled interpretation:** the conceptual hinge of the book is that grammatization is *neither* simply loss (Plato, the Frankfurt School) *nor* simply gain (Serres, the "knowledge society" boosters). It is the condition of both, and that is why Ch. 1 says critics of the culture industry lack it.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) n. 2 defines grammatization as a process of description, formation and discretization of human behaviours that makes their reproducibility possible. pp. 47–51 give the deep history: hydraulic empires' writing as control; Phoenician to Greek literal writing as the citizen's associated milieu; Nora and Minc's comparison of informatics to Sumerian writing (n. 37); the nineteenth-century grammatization of gesture (phonograph, photography, Taylor, n. 38).

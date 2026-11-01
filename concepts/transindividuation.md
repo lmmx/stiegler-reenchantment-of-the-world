@@ -28,3 +28,7 @@ From **Simondon** (*L'individuation psychique et collective*). **Individuation**
 
 - No dispute over the concept was found in the sources consulted.
 - **Labelled interpretation:** Stiegler's adaptation thesis (individuation = **adoption**, from *Technics and Time 3*) is a distinctive addition to Simondon. It turns the theory into a theory of culture and marketing: whoever shapes adoption shapes individuation.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 30: service industries short-circuit transindividuation; n. 7: individuation is not individualization. pp. 34: Simondon (*IPC* p. 18) on the individual as an element in a vaster individuation, with **language** as the model of participatory psychic and collective individuation. p. 57: hyper-solicitation of attention "short-circuits transindividuation", giving dis-identification and disindividuation (confirming Lotz). n. 49: the double sense of "disaffected".

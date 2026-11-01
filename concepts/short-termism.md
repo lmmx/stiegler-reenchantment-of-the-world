@@ -27,3 +27,7 @@ Short-termism is the systematic sacrifice of the long term to the short term in 
 ## Disagreements
 
 - Little disagreement on the diagnosis. The **critics' question** is about agency: who will impose the long term? Stiegler's answer, a "new public power" with industry, is what Lotz and Manche find reformist and Lemmens finds statist ([reception.md](../reception.md)).
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 40: economic actors draw short-term private profit from dissociation and so have no interest in change, "wrong… regarding their own long-term interests". p. 52: financier capitalism dominates and paralyses the long-term initiatives of industrial capitalism.

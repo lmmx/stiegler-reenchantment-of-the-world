@@ -28,3 +28,8 @@ The **2005 Manifesto** coined "technologies of spirit" for the sector formed whe
 ## Disagreements
 
 - **Labelled interpretation:** critics rarely address the term directly. It inherits the debates on [pharmakon](pharmakon.md) and on statism ([reception.md](../reception.md)).
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- **"R technologies" = relational technologies** ([Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 29; n. 5 cites Rifkin, *The Age of Access*): telecom and broadcast networks, barcodes, chip cards, RFID, wi-fi, Bluetooth, biometrics, nanotechnologies. In dissociated milieus they serve control. They remain technologies of spirit and could support individuation (pp. 37–38). Nora and Minc foresaw the convergence of audiovisual, telecom and computing but not an "industrial politics of technologies of spirit" (pp. 50–51).
+- [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 6: radio, TV, computers and the internet are "spiritual instruments" (Mallarmé on the book).

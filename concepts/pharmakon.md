@@ -9,8 +9,8 @@ In Plato's *Phaedrus*, writing is offered as a *pharmakon*, a drug that is at on
 ## Where it appears (and when)
 
 - **Explicitly:** the [2010 Manifesto](../chapters/03-manifesto-2010.md) §4.1–4.5 and §6 ("hypomnemata are, as pharmaka, remedies as well as poisons"; psychotechnologies must become nootechnologies). French p. 82 discusses the pharmakon and technologies of spirit, per de Beer ([source](../sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md)); the corresponding English page is unknown.
-- **Implicitly, in proto-form:** [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 79. Plato's *Phaedrus* opposition of *anamnesis* and *hypomnesis* is rejected; externalization is the condition of memory, and the question is appropriation. P. 73: "instrumentation" is good, "instrumentalization" is a fact to be opposed by right. [2005 Manifesto](../chapters/02-manifesto-2005.md): technologies of spirit can serve control *or* a new age of spirit.
-- **Chronology caution:** the systematic vocabulary of pharmacology comes from Stiegler's 2007–2010 work (*What Makes Life Worth Living: On Pharmacology*, 2010). The 2006 chapters argue the *structure* with less of the *term*. See [STRUCTURE.md](../STRUCTURE.md).
+- **Explicitly in 2006:** [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) pp. 47–51. Technologies of spirit are "poison and remedy". The *pharmakon* (Plato; Derrida, n. 35), reanalysed in *Mécréance et discrédit 3*, is a question of **socio-therapy**, of care for individuation. Writing in the *Phaedrus* is the citizen's *tekhnē tou biou* and the sophists' weapon. Digital technology is "the *hypomnématon* (the *pharmakon*)" that can reconstitute associated milieus (p. 51). Also, implicitly, [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 79 (anamnesis/hypomnesis).
+- **Chronology (corrected):** the *systematic* vocabulary of pharmacology is developed in Stiegler's 2007–2010 work (*What Makes Life Worth Living*, 2010). But the term and the argument are already explicit in Ch. 1 (2006), drawing on *Mécréance et discrédit 3* (2006). An earlier version of this file understated this.
 
 ## Related terms
 
@@ -27,4 +27,4 @@ In Plato's *Phaedrus*, writing is offered as a *pharmakon*, a drug that is at on
 
 - **Hutnyk (2012)** turns it back on Stiegler: "stupidity too can be pharmacological", so Stiegler's own decline narrative should be read pharmacologically ([source](../sources/lit-hutnyk-proletarianisation-2012.md)).
 - **Manche (2021):** pharmacology combined with an operaist reading of Marx's "Fragment on Machines" yields a teleological view of technology ([source](../sources/lit-manche-proletarianisation-not-capitalism-2021.md)).
-- **Labelled interpretation:** Lyons reads the 2014 *book* through the pharmakon. That is accurate for the English edition as packaged, with the 2010 Manifesto up front, but less so for the 2006 chapters.
+- **Labelled interpretation:** Lyons reads the 2014 *book* through the pharmakon. Reading Ch. 1 shows this is accurate for the 2006 chapters too (pp. 47–51), not only for the 2010 Manifesto. An earlier version of this file claimed otherwise.

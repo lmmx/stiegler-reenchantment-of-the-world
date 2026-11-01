@@ -26,3 +26,7 @@ Greek: **memory aids**, supports of memory outside the mind. Examples are notebo
 ## Disagreements
 
 - None found on the concept. **Labelled interpretation:** the book's core move against Plato is that hypomnesis is the *condition* of anamnesis, not its contrary, which is a Derridean inheritance. Ch. 2 states it in policy terms: build institutions of appropriation.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) n. 3: hypomnemata are artificial memory supports in all their forms, from Australian *tjurunga* and incised prehistoric bones through printing and the Bible to electronic assistants and MP3 players. [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 6: hypomnemata supported Foucault's "writing of the self" and also the sophists' control of opinion.
