@@ -6,8 +6,8 @@
 - Every Markdown page of the companion (the repository's .md files, less those zensical.toml
   excludes) is in the nav of zensical.toml, and every nav entry exists.
 - No page links to an excluded page by a relative path: such links go to GitHub instead.
-- Every internal link, image and stylesheet in the built site (default: site/) resolves to a
-  file of the build, with its #anchor present, as served under the base path of site_url
+- Every internal link, image, stylesheet and social card (og:image) in the built site
+  (default: site/) resolves to a file of the build, with its #anchor present, as served under the base path of site_url
   (/stiegler-reenchantment-of-the-world/ on GitHub Pages).
 - Every nav page has a front-matter description (the home page, README.md, takes the
   site_description), and is listed once in the llmstxt sections of zensical.toml with that
@@ -88,6 +88,8 @@ class Links(HTMLParser):
             self.ids.add(attrs["id"])
         if tag == "a" and attrs.get("name"):
             self.ids.add(attrs["name"])
+        if tag == "meta" and attrs.get("property") == "og:image" and attrs.get("content"):
+            self.links.append(attrs["content"])  # the page's social card
         for key in ("href", "src"):
             value = attrs.get(key)
             if value and not (tag == "link" and attrs.get("rel") in ("preconnect", "dns-prefetch")):
