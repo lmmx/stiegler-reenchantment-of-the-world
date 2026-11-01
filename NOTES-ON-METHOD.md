@@ -58,7 +58,9 @@ Page numbers are to the **English edition (Bloomsbury 2014)** unless marked "FR"
 4. **The French table of contents** has not been seen complete. We do not know whether the French edition titles the Introduction "Que faire ?", whether it prints the Tunis motion, or where its chapter breaks fall.
 5. **Dedication** (Simon Nora; Laurence Parisot): attested for the French edition by one transcription. Whether it is in the English edition is unknown.
 6. **Authorship.** How much of Chs. 1–2 reflects collective Ars Industrialis drafting, rather than Stiegler alone, is not documented in anything we read. The chapter texts read as Stiegler's own.
-7. **Translation quality** has not been assessed against the French beyond the preface's visible typos.
+7. **Translation quality** has not been assessed against the French beyond the preface's visible typos. One possibly consequential point: a French snippet gives "*Le plan qui m'enchante*" where the English has "The *plane* that enchants me" (see [STRUCTURE.md](STRUCTURE.md)).
+8. **Secondary sources searched for but not obtained:** Crogan (*Cultural Politics* 2010), Gerald Moore and *Stiegler and Technics* (2013), Daniel Ross's "Ecology of Spirit", the *Spirale* review (2007), Alombert/CosTECH, any *Parrhesia* or NDPR item on this book. There is no podcast devoted to the book; one Stiegler interview podcast (MACBA 2019) was found, known from its description only. The full list is in [sources/EVALUATION.md](sources/EVALUATION.md) §F.
+9. **Audio and video** (Ars Industrialis session recordings, interviews) were not listened to. Only pages, minutes and transcripts were read.
 
 ## 6. How to extend this repo
 
