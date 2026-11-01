@@ -6,6 +6,7 @@
 > - **Section titles and start pages:** verified from the publisher's contents ([STRUCTURE.md](../STRUCTURE.md)). Confidence **high**.
 > - **Section content:** reconstructed mainly from **Stiegler's talk at the Ars Industrialis session of 24 September 2005** ([source](../sources/primary-parallel-stiegler-colline-2005.md)). Its headings match this chapter's fourteen section titles in the same order, so it is evidently the chapter's draft. Confidence **medium-high** for the argument skeleton.
 > - **Material added in the book:** known only through Christian Lotz's page citations ([source](../sources/review-lotz-marx-and-philosophy-2015.md)), marked "(Lotz)". Confidence **medium**.
+> - **Confirmed by the book's Introduction (p. 8):** the two chapters are "reformulations and elaborations" of papers Stiegler gave at the first two Ars Industrialis working sessions after 18 June 2005, which fits the 24 September 2005 talk as Ch. 2's source.
 > - We have **not** read the printed chapter. Treat wording here as paraphrase of the precursor, not of the book.
 
 ## Abstract (L2)

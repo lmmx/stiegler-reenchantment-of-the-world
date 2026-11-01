@@ -2,7 +2,7 @@
 
 [README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **2010 Manifesto** · prev: [← 2005 Manifesto](02-manifesto-2005.md) · next: [Chapter 1 →](04-ch1-re-foundation-of-society.md)
 
-> **Basis and confidence.** Read in full in the association's English web version and the French original ([source](../sources/primary-arsindustrialis-manifesto-2010.md)). This text is **absent from the 2006 French book** (see [STRUCTURE.md](../STRUCTURE.md)). Content: **high** confidence. Page anchors inside pp. 17–28 are approximate except p. 23 (cited by Lotz) and p. 24.
+> **Basis and confidence: high.** Read in the printed English edition (pp. 17–28), from photographs of the owner's copy, with its notes (pp. 102–104). It was also compared against the association's web versions ([source](../sources/primary-arsindustrialis-manifesto-2010.md)). The Introduction's n. 17 (p. 102) confirms that this text is **absent from the 2006 French book** and was added for the English edition. Page numbers below are from the print.
 
 ## Abstract (L2)
 
@@ -35,14 +35,22 @@ Written five years after the founding and three years into the global financial 
 |---|---|---|
 | 1 | 17–18 | 2005 thesis confirmed by 2007–. **Consumerist model** (Bernays instrumentalizing Freud) destroys desire, then investment. Speculator and consumer are both drive-based. **Short-termism** leads to disinvestment and **systemic stupidity**. |
 | 2 | 18 | Disposability (Schumpeter's creative destruction) produces waste and **disposable subjects**. **Addictogenic society** (French addiction congress 2009); **carelessness** (*incurie*) and dissociation. Axiom: economizing = taking **care**. |
-| 3 | 18–19 | The consumption model (early twentieth century) has reached its toxic limits. Next is the **economy of contribution**: positive externalities, **capabilities** (Sen), open source; **contributors** in an **associated milieu**; reconstitution of sublimation. |
+| 3 | 19 | The consumption model (early twentieth century) has reached its toxic limits. Next is the **economy of contribution**: positive externalities, **capabilities** (Sen), open source; **contributors** in an **associated milieu**; reconstitution of sublimation. |
 | 4.1–4.7 | 19–21 | Social networks are more mimetic. All technics is **pharmacological**; **therapeutics** and techniques of the self. Writing was the pharmakon of reference for Western *savoir-vivre*. Culture industries vs **program institutions**: reason replaced by rationalization (Benjamin understood this; the Frankfurt School did not). Marketing seized digital **relational technologies**. Public power has abdicated since Thatcher and Reagan, leading to **carelessness** and the risk of catastrophe. |
 | 5 | 21–23 | A political project: make "a technical becoming into a social future". Hegemony peaks at its limit. Guarantee the short term to reach the long term. Each person is a dependent consumer and a citizen. Consumerism "is in contradiction with the future" (cited by Lotz, p. 23). Care-based economy, not "green consumerism". From **disapprenticeship** to capabilities. Digital pharmakon; Facebook. |
-| 6 | 23–25 | **Proletarianization** defined: worker, consumer, cognitive worker (Greenspan; Madoff). Free software breaks generalized proletarianization by **socializing** technical possibilities (Lotz cites p. 24). **Psychotechnologies → nootechnologies**; **de-proletarianization** as a political goal. |
-| 7 | 25–26 | Generalization: digital infrastructure as an associated milieu; "light time" vs "carbon time"; servers and grids replacing centre/periphery; isonomy; **smart grids**; AMAP; contributory firms; care as political economy (Weber's "ethics"); territorial "capacitation". |
-| 8 | 26–27 | **Relational ecology** and new territoriality. Re-localization plus post-consumerism equals **post-globalization**. Territory as the terrain of political de-proletarianization (Veltz). |
-| 9.1–9.6 | 27–28 | National policies: industrial and technological; education with digital hypomnemata; fiscal policy rewarding positive externalities and **work** as distinct from employment; culture as social investment; public **health** facing psychotechnological toxicity; **media** policy against **industrial populism**. |
+| 6 | 24–25 | **Proletarianization** defined: worker, consumer, cognitive worker (Greenspan; Madoff). Free software breaks generalized proletarianization by **socializing** technical possibilities (Lotz cites p. 24). **Psychotechnologies → nootechnologies**; **de-proletarianization** as a political goal. |
+| 7 | 25–26 | Generalization: digital infrastructure as an associated milieu; "light time" vs "carbon time"; servers and grids replacing centre/periphery; isonomy; **smart grids**; AMAP (n. 12); contributory firms whose ethic (in Weber's sense) is care as political economy, and which must learn from the failure of the cooperative movements of Charles Gide and Marcel Mauss (printed text, p. 25); territorial "capacitation" (Sen, n. 13). |
+| 8 | 26 | **Relational ecology** and new territoriality. Re-localization plus post-consumerism equals **post-globalization**. Territory as the terrain of political de-proletarianization (Veltz). |
+| 9.1–9.6 | 26–28 | National policies: industrial and technological; education with digital hypomnemata; fiscal policy rewarding positive externalities and **work** as distinct from employment; culture as social investment; public **health** facing psychotechnological toxicity; **media** policy against **industrial populism**. |
 | 10 | 28 | Programme: "techniques of the self" working groups; contributive software (*Lignes de temps*); work with territories (Nantes, Nord-Pas-de-Calais); a research model akin to the early Frankfurt School. |
+
+**Notes (pp. 102–104), selected.**
+- n. 3: the "society of carelessness": BP rebranded as "Beyond Petroleum" before the Gulf of Mexico spill; the pharmaceutical industry "treating" attention problems produced by program industries; an "industry of carelessness".
+- n. 5: Keynes, *Economic Possibilities for Our Grandchildren*: without a cultural mutation to match the technical one, "a generalized nervous depression".
+- n. 8: relational technologies are poison if left to irresponsible marketing, cure if made the object of an "inquisitive" (*curieuse*) politics in Bossuet's sense.
+- n. 9: the concept of an **economy of contribution** was suggested by **Franck Cormerais**.
+- n. 10: *Pour en finir avec la mécroissance* (Ars Industrialis, 2009).
+- n. 13, 18: Sen; n. 14: Veltz; n. 16: Jorion; n. 17: Lordon.
 
 ## Concepts introduced or used
 
@@ -50,5 +58,5 @@ Written five years after the founding and three years into the global financial 
 
 ## Notes
 
-- **Chronology caution.** In the English book this text comes *before* the 2006 chapters. Readers meeting *pharmakon* and *economy of contribution* here may expect them in Chs. 1–2, where they are at most embryonic. Ch. 2's "societies of authors and readers" and Wikipedia anticipate contribution. See [overview.md](../overview.md).
+- **Chronology (corrected).** This text was added in 2014 but written in 2010. *Pharmakon*, associated milieu and the economy of contribution are **not** new here: Ch. 1 (2006) already develops them (pp. 36–37, 47–51). What is new in 2010 is their systematic use: care as the axiom of political economy, Sen's capabilities, territories and smart grids, and the six policy planks. Earlier versions of this file said these terms were "at most embryonic" in the chapters; that was wrong.
 - **Labelled interpretation:** this manifesto is the book's most concrete answer to the charge (Lotz) that Stiegler offers no positive programme. Reviewers who stress abstraction tend to under-weight it.
