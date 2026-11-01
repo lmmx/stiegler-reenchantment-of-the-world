@@ -241,8 +241,8 @@ body {
 .md-footer__direction { text-transform: none; font-family: var(--rew-sans); }
 .md-footer-meta { font-size: 0.64rem; }
 
-/* The home page: a painted band (main.html): washes of green laid with a dry brush and
-   a block arrow rising through them, painted in on load; the title over it.
+/* The home page: a painted band (main.html): washes and squares of green, faded like
+   stone-washed print, and a block arrow rising through them at a slant, painted in on load; the title over it.
    README.md's heading and citation line are hidden there, since the band sets them. */
 .rew-hero {
   position: relative;
@@ -289,11 +289,13 @@ body {
   to { opacity: var(--rew-to, 1); transform: none; }
 }
 .rew-hero__arrow { opacity: 0; animation: rew-rise 1.1s 0.6s cubic-bezier(.2,1.2,.3,1) forwards; }
-.rew-hero__flecks circle { opacity: 0; animation: rew-pop 0.4s 2.2s ease-out forwards; transform-box: fill-box; transform-origin: center; }
-.rew-hero__flecks circle:nth-child(2) { animation-delay: 2.35s; }
-.rew-hero__flecks circle:nth-child(3) { animation-delay: 1.4s; }
-.rew-hero__flecks circle:nth-child(4) { animation-delay: 2.5s; }
-.rew-hero__flecks circle:nth-child(5) { animation-delay: 2.6s; }
+.rew-hero__squares rect { opacity: 0; animation: rew-pop 0.5s cubic-bezier(.3,1.5,.5,1) forwards; transform-box: fill-box; transform-origin: center; }
+.rew-hero__squares rect:nth-child(1) { animation-delay: 0.9s; }
+.rew-hero__squares rect:nth-child(2) { animation-delay: 1.5s; }
+.rew-hero__squares rect:nth-child(3) { animation-delay: 1.1s; }
+.rew-hero__squares rect:nth-child(4) { animation-delay: 1.3s; }
+.rew-hero__squares rect:nth-child(5) { animation-delay: 1.7s; }
+.rew-hero__squares rect:nth-child(6) { animation-delay: 1.9s; }
 @keyframes rew-rise {
   from { opacity: 0; transform: translateY(70px); }
   to { opacity: 1; transform: none; }
@@ -303,7 +305,7 @@ body {
   to { opacity: 1; transform: scale(1); }
 }
 @media (prefers-reduced-motion: reduce) {
-  .rew-hero__washes path, .rew-hero__arrow, .rew-hero__flecks circle { animation: none; opacity: var(--rew-to, 1); }
+  .rew-hero__washes path, .rew-hero__arrow, .rew-hero__squares rect { animation: none; opacity: var(--rew-to, 1); }
 }
 .rew-hero__inner { position: relative; z-index: 1; padding: 3.6rem 1.2rem 3.4rem; }
 .rew-hero__eyebrow {
