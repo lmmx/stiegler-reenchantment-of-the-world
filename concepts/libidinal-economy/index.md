@@ -1,0 +1,33 @@
+# Libidinal economy (*économie libidinale*)
+
+[Home](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/index.md>) › [Glossary](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/GLOSSARY/index.md>) › **libidinal economy**
+
+## Definition (the book's usage)
+
+The libidinal economy is the organization and production of **desire**: the channelling of libidinal energy, in Freud's sense of drive energy socialized through **sublimation**, onto objects. Stiegler's thesis is that twentieth-century capitalism made libido its main energy source. Marketing and the culture industries (Bernays) channel desire towards commodities so as to absorb overproduction. That capture ends by **destroying** desire. Desire degrades into **drives** (*pulsions*), attention is short-circuited, and investment in every sense collapses. The Introduction calls this episode of libidinal economy "a destruction of desire" and "a chapter" of Weber's disenchantment (p. 2). The term echoes Lyotard's *Économie libidinale* (1974), but Stiegler's use is Freudian and normative: desire, unlike drive, attaches to singular objects and sustains long-term investment.
+
+## Where it appears
+
+- [Introduction](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/chapters/01-introduction-what-is-to-be-done/index.md>) pp. 1–2: Benjamin and Freud missed capitalism's reorganization around the consumer "as a very particular form of libidinal economy".
+- [2005 Manifesto](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/chapters/02-manifesto-2005/index.md>): capture of libido as capitalism's energy; its destruction leading "inevitably" to crisis; ruin of sublimation and of the super-ego.
+- [2010 Manifesto](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/chapters/03-manifesto-2010/index.md>) §1–3: Bernays; the drive-based consumer and speculator; disinvestment; addiction; contribution "reconstructs a productive economy of desire".
+- [Ch. 1](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/chapters/04-ch1-re-foundation-of-society/index.md>) pp. 39–43, "capitalism of drives" (p. 39), is the book's fullest statement. Libido is the socialization of sexual-drive energy into sublimatable objects. It projects **consistencies** (love, knowledge, art). The libidinal economy *economizes* by deferring satisfaction (Derrida's *différance*; Freud's pleasure and reality principles, and after 1920 the life and death drives). Libido, "neither oil nor coal", is what makes capital function, and desire is "one of the productions of libido". Capitalism is "an enormous economy of motivation" whose techniques have become counterproductive, turning motives into de-motivation. Exhausting libido destroys *philia* and the "we", making capitalism barbarous. Societies traditionally took care of this energy as *philia*, *eros*, *agape*, *caritas*, *mana* (p. 43).
+- [Ch. 2](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/chapters/05-ch2-against-the-reign-of-ignorance/index.md>) p. 71: talk of "enchantment" is possible because the knowledge economy is first a *libidinal* economy of motives.
+
+## Related terms
+
+[spirit](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/spirit/index.md>) · [industrial populism](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/industrial-populism/index.md>) · [short-termism](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/short-termism/index.md>) · [symbolic misery](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/symbolic-misery/index.md>) · [care](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/care/index.md>) · [pharmakon](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/pharmakon/index.md>) · [transindividuation](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/transindividuation/index.md>)
+
+## How secondary sources gloss it
+
+- **Ars Industrialis *Vocabulaire*:** libido is "socialized and desexualized" drive energy, invested through artefacts (fetishism), which is why it can be industrialized. Unlimited exploitation exhausts it, so a **"renewable" libidinal energy** is needed, an *ecological* problem. *Besetzung* means both libidinal and financial investment ([glossary](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/glossary-arsindustrialis-vocabulaire-2013/index.md>)).
+- **Stiegler, "Pharmacology of Desire" (2011):** "libidinal dis-economy"; drive-based capitalism; Le Lay; investment against speculation ([source](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/primary-parallel-stiegler-pharmacology-of-desire-2011/index.md>)).
+- **Hansen (2014):** reads the programme as "saving libidinal capitalism", a "short-term economy of the drive" to be replaced by a long-term economy of desire. He calls the project curious, even perverse, for seeking to save capitalism ([source](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/lit-hansen-saving-libidinal-capitalism-2014/index.md>)).
+- **Abbinnett (2015):** the fall in libidinal energy is "the determining limit of consumer capitalism"; global inequality results from "pathologically disordered forms of libido" ([source](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/lit-abbinnett-politics-of-spirit-2015/index.md>)).
+- **Lemmens (2017):** accepts the libidinal-exhaustion thesis within a post-autonomist frame ([source](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/lit-lemmens-digital-pharmakon-general-intellect-2017/index.md>)).
+
+## Disagreements
+
+- **Marxist objection** (Lotz; Hutnyk; Manche): putting desire and consumption at the centre makes **labour, capital accumulation and class** "evaporate" from the analysis ([Lotz](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/review-lotz-marx-and-philosophy-2015/index.md>), [Hutnyk](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/lit-hutnyk-proletarianisation-2012/index.md>), [Manche](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/lit-manche-proletarianisation-not-capitalism-2021/index.md>)).
+- **Arendtian objection** (Roodt): reducing the life of the mind to libido loses what Arendt meant ([source](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012/index.md>)).
+- **Labelled interpretation:** the empirical claim that libidinal energy is being "exhausted" works as a premise in the book rather than a demonstrated finding. Supporters treat it as a structural diagnosis; critics read it as a decline narrative.

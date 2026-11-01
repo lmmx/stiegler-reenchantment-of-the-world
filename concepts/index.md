@@ -1,0 +1,27 @@
+# Concepts
+
+[Home](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/index.md>) › **Concepts** · short definitions in the [Glossary](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/GLOSSARY/index.md>) · cross-reference in the [Index](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/INDEX/index.md>)
+
+Each concept page gives a definition, where the term appears in the book (with page numbers), related terms, how secondary sources gloss it, and any disagreements among them.
+
+| Concept | In brief |
+| --- | --- |
+| [Associated milieu / dissociated milieu (*milieu associé / dissocié*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/associated-milieu/index.md>) | Simondon's associated milieu, and Stiegler's contrast between associated and dissociated milieus of symbols and knowledge. |
+| [Care (*soin*; *prendre soin*; *epimeleia*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/care/index.md>) | Care (soin, epimeleia) as the practices and institutions that keep a technical pharmakon from turning toxic. |
+| [Disenchantment / re-enchantment (*Entzauberung*; *désenchantement* / *réenchantement*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/disenchantment/index.md>) | Weber's disenchantment of the world, and what the book means by re-enchanting it. |
+| [Economy of contribution (*économie de la contribution*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/economy-of-contribution/index.md>) | The economy of contribution, the model Ars Industrialis proposes to replace consumerism. |
+| [Grammatization (*grammatisation*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/grammatization/index.md>) | Grammatization: the discretization of speech, gesture and perception into reproducible marks, from the alphabet to digital code. |
+| [Hyperindustrial society (*société hyperindustrielle*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/hyperindustrial-society/index.md>) | Hyperindustrial society: industrialization extended to services, culture, attention and knowledge. |
+| [Hypomnemata (*hypomnèse*, *hypomnémata*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/hypomnemata/index.md>) | Hypomnemata: memory aids outside the mind, from Plato's critique of writing to Foucault and digital media. |
+| [Industrial populism (*populisme industriel*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/industrial-populism/index.md>) | Industrial populism: the populism produced by marketing and the program industries rather than by political movements. |
+| [Knowledge vs information (*savoir* / *information*); entropy and negentropy](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/knowledge-vs-information/index.md>) | Knowledge against information: why Chapter 2 calls information entropic and knowledge negentropic. |
+| [Libidinal economy (*économie libidinale*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/libidinal-economy/index.md>) | The libidinal economy: how consumer capitalism channels desire, and how it exhausts desire into drives. |
+| [Otium / negotium](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/otium-negotium/index.md>) | Otium and negotium: studious leisure against business, and their link to subsistence, existence and consistence. |
+| [Pharmakon / pharmacology](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/pharmakon/index.md>) | Pharmakon and pharmacology: every technics as both remedy and poison. |
+| [Proletarianization (*prolétarisation*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/proletarianization/index.md>) | Proletarianization as the loss of knowledge by producers, consumers and knowledge workers. |
+| [Short-termism (*court-termisme*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/short-termism/index.md>) | Short-termism as the temporal form of drive-based behaviour in finance, media and politics. |
+| [Spirit (*esprit*; *la valeur esprit*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/spirit/index.md>) | Spirit (esprit) and Valéry's "value of spirit", the book's measure of what consumer capitalism lowers. |
+| [Symbolic misery (*misère symbolique*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/symbolic-misery/index.md>) | Symbolic misery: the loss of individuation that follows from losing a part in producing symbols. |
+| [Technologies of spirit (*technologies de l'esprit*); psychotechnologies vs nootechnologies](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/technologies-of-spirit/index.md>) | Technologies of spirit, and the contrast between psychotechnologies and nootechnologies. |
+| [Tertiary retention (*rétention tertiaire*)](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/tertiary-retention/index.md>) | Tertiary retention: memory held outside the living being in artefacts, after Husserl's primary and secondary retention. |
+| [Individuation, transindividuation, disindividuation](<https://lmmx.github.io/stiegler-reenchantment-of-the-world/concepts/transindividuation/index.md>) | Individuation, transindividuation and disindividuation, after Simondon. |
