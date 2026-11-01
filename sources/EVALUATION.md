@@ -41,7 +41,7 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 
 | File | Accuracy | Coverage | Depth | Stance | Reliability | Errors / oversimplifications flagged |
 |---|---|---|---|---|---|---|
-| [review-lotz-marx-and-philosophy-2015](review-lotz-marx-and-philosophy-2015.md) | **high**: page refs consistent with verified contents | I, M05, M10, C1 (end), **C2** | 3 | **Marxist** | high | Calls 2010 text an "update" (it is a new manifesto); passes over the contribution economy as the concrete alternative; "labour evaporates" is fair external critique but ignores proletarianization's redefinition |
+| [review-lotz-marx-and-philosophy-2015](review-lotz-marx-and-philosophy-2015.md) | **high**: page refs checked against the printed text for pp. 1–60, all accurate | I, M05, M10, C1 (end), **C2** | 3 | **Marxist** | high | Calls 2010 text an "update" (it is a new manifesto); passes over the contribution economy as the concrete alternative; "labour evaporates" is fair external critique but ignores proletarianization's redefinition |
 | [review-lyons-critical-inquiry-2014](review-lyons-critical-inquiry-2014.md) | medium-high | whole book, thematically | 2 | literary/media theory; pharmacological; sympathetic | medium | Describes the motion as adopted "at" the Tunis summit (it was a press motion on the eve); no page refs; misspells translator's name; reads 2006 chapters through the 2010 pharmakon |
 | [review-debeer-tydskrif-vir-geesteswetenskappe-2012](review-debeer-tydskrif-vir-geesteswetenskappe-2012.md) | medium | I, M05, parts of C1/C2 (FR pages) | 3 | quasi-spiritual / Heideggerian; enthusiastic | medium | **Only source with FR page numbers**; mixes in page refs from other Stiegler books; underplays political economy |
 | [review-roodt-tydskrif-vir-geesteswetenskappe-2012](review-roodt-tydskrif-vir-geesteswetenskappe-2012.md) | medium-high | M05, M10 only (web versions) | 4 | **Arendtian** political theory | high | "Stiegler equates spirit with libido" compresses a layered account |
@@ -105,6 +105,15 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 - Anne Alombert / CosTECH papers: not reached.
 - thoughtleader.co.za post (Bert Olivier?): 503.
 - Podcasts: none devoted to the book (searched *Philosophize This!*, *Acid Horizon*, *Theory & Philosophy*, France Culture).
+
+## F2. Checked against the printed text (owner's copy, Nov 2026)
+
+- **Lotz**: page citations for pp. 1–60 all verified. His "only example is Wikipedia" is overstated (Ch. 1 pp. 36–37 cites open source and Linux).
+- **Lyons**: the pharmakon framing is supported by Ch. 1 (pp. 47–51), not only by the 2010 Manifesto. The motion was adopted *before* the summit, and *Libération* printed excerpts.
+- **de Beer**: his French p. 82 on the pharmakon fits the end of the French Ch. 1 ("Grammatisation et individuation", English pp. 47–51).
+- **Holmes (2007)**: the Introduction is "Que faire ?", consistent with the English "What Is to Be Done?".
+- **EN Wikipedia** (three co-authors) is wrong. The Introduction (p. 6) and the manifesto signatures (p. 15) name five founders.
+- Our own earlier inferences, now corrected: "R technologies" = relational; plane, not plan; contribution, associated milieu and pharmakon are present in 2006; *otium* appears in the 2005 Manifesto; tertiary retention is in the Introduction's n. 2.
 
 ## G. Ranked reading list
 

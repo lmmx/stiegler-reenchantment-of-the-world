@@ -57,11 +57,23 @@ In *The Neganthropocene* (2018), Stiegler cites this book as his analysis of Sim
 |---|---|---|
 | Book co-authored with three people | EN Wikipedia | Five founders sign the collective texts: George Collins, Marc Crépon, Catherine Perret, Bernard Stiegler, Caroline Stiegler |
 | Catherine Malabou a co-founder | some search summaries | Not among the founders in any primary source |
-| Motion adopted "at" the Tunis Summit; book includes "an account of the organisation's summit in Tunis" | Lyons; bookseller blurbs | A press motion published in *Libération* on 14 Nov 2005, on the eve of the summit |
+| Motion adopted "at" the Tunis Summit; book includes "an account of the organisation's summit in Tunis" | Lyons; bookseller blurbs | A motion adopted a few days before the summit; *Libération* (14 Nov 2005) printed excerpts, and the book prints the complete text (Introduction, p. 9) |
 | Stiegler at Centre Pompidou in June 2005 | P2P Foundation wiki | Still IRCAM director; Pompidou from 1 Jan 2006 |
 | Published 2008 | some sites | 2006 first edition; 2008 is the Champs paperback |
 | The 2010 Manifesto is part of *Réenchanter le monde* | implied by the EN packaging | Added in the English edition only |
 | Same book as Maffesoli's *Le Réenchantement du monde* (2007) or Landy & Saler (2009) | search conflation | Unrelated books |
+
+## 7. What the printed text adds to the debate (owner's copy, pp. 1–60)
+
+*Evaluation, labelled.* Reading the Introduction and Chapter 1 in full sharpens several of the disputes above.
+
+- **Reformism is explicit, with a hedge.** Capitalism "to this day does not have a credible alternative" (Introduction, p. 6). The aim is to make "the revolution of a capitalism that is on the road to collapse" together with "revolutionary capitalists", likened to the French bourgeoisie of the late eighteenth century (p. 53). Public opinion should back *industrial* capitalism against *financier* capitalism (p. 7). This supports Lotz, Hutnyk and Manche on the reformist reading. Yet Stiegler also writes of a new spirit of capitalism "while waiting for the replacement of the latter by another form of society" (p. 37), and of no future "of capitalism, or a beyond of capitalism, which is certainly not eternal" (p. 60). His position is therefore post-capitalist in horizon and reformist in strategy, not simply pro-capitalist.
+- **"Only Wikipedia" is too strong.** Lotz says Wikipedia is the book's only example of cooperative knowledge instruments. Chapter 1 already rests its alternative on open-source software, Linux and the IP network as an associated milieu (pp. 36–37), and the 2010 Manifesto adds free software, smart grids and AMAP.
+- **"Abstract remedy" is partly answered.** Chapter 1 specifies the agents (a new European public power; enterprising citizens), the model (the economy of contribution) and the danger (financier capitalism and tele-cracy). Its political agency remains thin, as Lotz says: there is no account of how the public power is to be built against the interests that profit from dissociation, interests the chapter itself identifies (p. 40).
+- **The labour objection.** Lotz says labour control "evaporates". Chapter 1 does address labour: Taylorism as the grammatization of gesture (n. 38); de-industrialization as offshoring to "very poorly remunerated workers, if not… slaves" (p. 29); and the proletarianized producer turned consumer under Fordism (p. 35). But it subordinates exploitation of labour to the loss of knowledge and the exhaustion of libido, which is just what the Marxist critics object to.
+- **The decline narrative.** Chapter 1's evidence for "spiritual misery" is largely anecdotal and drawn from the press: a Nice crime, Skyblogs, the Durn and Brunerie cases, the November 2005 riots, an Inserm study on attention disorders (pp. 39, 57–58). This bears out Hutnyk's methodological complaint, though it is consistent with the book's genre as an engaged manifesto.
+- **The pharmakon reading** (Lyons) is supported by the 2006 text itself (pp. 47–51), not just by the 2010 Manifesto.
+- **Lotz's page citations check out.** pp. 1–4, 6–7, 23–24, 33 ("enslaved spirit"), 57 (short-circuiting transindividuation) and 58 ("lost the feeling of existing") all match the printed text.
 
 ## 6. Room for your own reading
 

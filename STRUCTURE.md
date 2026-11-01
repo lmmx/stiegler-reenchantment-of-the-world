@@ -1,6 +1,6 @@
 # Structure of the book (verified)
 
-> **Verification basis.** The English contents and page numbers below are taken directly from the **Bloomsbury publisher preview** (front matter + Contents, pp. v–vi). See [sources/primary-bloomsbury-preview-2014.md](sources/primary-bloomsbury-preview-2014.md). They match the Perlego and Google Books listings (Google lists Introduction p. 1, 2005 Manifesto p. 11, 2010 Manifesto p. 17, Ch. 1 p. 29). Nothing here is reconstructed or guessed. Where something is inferred, it is labelled.
+> **Verification basis.** The English contents and page numbers below are taken directly from the **Bloomsbury publisher preview** (front matter + Contents, pp. v–vi). See [sources/primary-bloomsbury-preview-2014.md](sources/primary-bloomsbury-preview-2014.md). The **owner's copy** (photographed pp. 1–60, 101–108) confirms every page number from p. 1 to p. 60 and the blank pp. 10 and 16. They match the Perlego and Google Books listings (Google lists Introduction p. 1, 2005 Manifesto p. 11, 2010 Manifesto p. 17, Ch. 1 p. 29). Nothing here is reconstructed or guessed. Where something is inferred, it is labelled.
 
 ## Bibliographic records
 
@@ -22,8 +22,8 @@ Repo file for each part in the right-hand column.
 |---|---|---|
 | Translator's Preface (Trevor Arthur) | vii–ix | [chapters/00-translators-preface.md](chapters/00-translators-preface.md) |
 | Epigraph (Ulrich Beck, on disenchantment) | x | (noted in the Introduction file) |
-| **Introduction: What Is to Be Done?** | 1–10 | [chapters/01-introduction-what-is-to-be-done.md](chapters/01-introduction-what-is-to-be-done.md) |
-| **Ars Industrialis: 2005 Manifesto** | 11–16 | [chapters/02-manifesto-2005.md](chapters/02-manifesto-2005.md) |
+| **Introduction: What Is to Be Done?** | 1–9 (p. 10 blank) | [chapters/01-introduction-what-is-to-be-done.md](chapters/01-introduction-what-is-to-be-done.md) |
+| **Ars Industrialis: 2005 Manifesto** | 11–15 (p. 16 blank) | [chapters/02-manifesto-2005.md](chapters/02-manifesto-2005.md) |
 | **Ars Industrialis: 2010 Manifesto** | 17–28 | [chapters/03-manifesto-2010.md](chapters/03-manifesto-2010.md) |
 | **1 The Re-Foundation of Society** | 29–60 | [chapters/04-ch1-re-foundation-of-society.md](chapters/04-ch1-re-foundation-of-society.md) |
 | &nbsp;&nbsp;The hyperindustrial epoch as service capitalism | 29 | |
@@ -64,7 +64,7 @@ Page ranges for whole parts are the start of one part to the page before the nex
 
 **What is verified.**
 
-1. **The 2010 Manifesto cannot be in the 2006 French first edition.** It was written in 2010 (it refers to the 2007–2010 crisis and Facebook's 500 million users in July 2010). The English edition (2014) therefore **adds** it. Its vocabulary of *pharmakon*, care and the economy of contribution belongs to Stiegler's 2008–2010 work and is **later than the chapters**. Readers should not read those concepts back into Chs. 1–2.
+1. **The 2010 Manifesto is not in the 2006 French first edition. This is now confirmed by the book itself:** the Introduction's n. 17 (p. 102) says that at the time of the French publication only the 2005 Manifesto existed, and that the 2010 Manifesto was added in the English edition. It was written in 2010 (it refers to the 2007–2010 crisis and Facebook's 500 million users in July 2010). The English edition (2014) therefore **adds** it. Its vocabulary of *pharmakon*, care and the economy of contribution belongs to Stiegler's 2008–2010 work and is **later than the chapters**. Readers should not read those concepts back into Chs. 1–2.
 2. **The 2005 Manifesto is in the French edition.** French catalogues note "Contient le Manifeste d'Ars Industrialis".
 3. **Authorship is presented differently.** The French cover reads "Bernard Stiegler et Ars Industrialis". The English title page names Stiegler alone, though the translator's preface speaks of "Stiegler and co.". The two chapters are Stiegler's own texts. The manifestos and motion are signed collectively (Collins, Crépon, Perret, B. Stiegler, C. Stiegler).
 4. **French pagination anchor.** Ch. 1 §3 ("Les sociétés hyperindustrielles de services comme destruction des processus d'individuation par le contrôle des processus d'adoption") is at French pp. 42–47 (English pp. 31–33). That implies roughly 1.4 French pages per English page.
@@ -83,13 +83,13 @@ Page ranges for whole parts are the start of one part to the page before the nex
 | "**Le sursaut : entreprendre autrement**" | "The jumpstart (*le sursaut*): starting over again" (p. 44) | "entreprendre autrement" = "undertaking / doing business otherwise", whereas the English has "starting over again" |
 | "**Faire la révolution du capitalisme**" | "Making the revolution of capitalism" (p. 51) | matches |
 | "**A european way of life**" (in English in the French original) | "A European way of life" (p. 53) | Stiegler used the English phrase; the translation keeps it |
-| "**Le plan qui m'enchante**" | "The plane that enchants me" (p. 58) | *plan* ≠ *plane* (see below) |
+| "**Le plan qui m'enchante**" | "The plane that enchants me" (p. 58) | Correctly rendered: the section is about the *plane* of consistencies/motifs (French *plan*), as confirmed by the English text (pp. 58–60) |
 | "**Contre le règne de l'ignorance – investir dans l'augmentation de la valeur esprit**" | Ch. 2 title (p. 61) | matches ("increase" = *augmentation*) |
 
 One snippet places "Le plan qui m'enchante" in a "deuxième partie" (second part). That would mean the French has a part-level structure, perhaps with "Le sursaut" heading a second part, which the English contents flatten into Ch. 1. This cannot be confirmed without the book.
 
-- "**Le sursaut : entreprendre autrement**" may be a *parent* heading in French with "Grammatisation et individuation hier, aujourd'hui et demain" nested under it. The English lists both as flat sections, and gives the subtitle as "starting over again" rather than "undertaking/enterprising otherwise". If confirmed, the English contents flatten a two-level French structure, and the subtitle loses the pun on *entreprendre*/*entreprise* (business).
-- "**Le plan qui m'enchante**" against the English "**The plane that enchants me**". If the French reads *plan*, the English "plane" is probably a **mistranslation**: "the plan that enchants me", which would fit a closing section presenting a programme. This is unverified; the snippet may be garbled. It is the most consequential open question about Ch. 1's ending.
+- "**Le sursaut : entreprendre autrement**" may be a *parent* heading in French with "Grammatisation et individuation hier, aujourd'hui et demain" nested under it. The English lists both as flat sections, and gives the subtitle as "starting over again" rather than "undertaking/enterprising otherwise". If confirmed, the English contents flatten a two-level French structure, and the subtitle loses the pun on *entreprendre*/*entreprise* (business). *(Text check: the English section turns on *entreprendre*, "UNDERTAKE A FOUNDATION (ENTREPRENDRE DE FONDER)", p. 46, so the French subtitle "entreprendre autrement" fits the content. The heading's place in the French hierarchy remains unverified.)*
+- ~~"Le plan qui m'enchante" suggests a mistranslation~~ **Withdrawn after reading the text.** "Plan" here means *plane* ("the plane of motifs… the plane of enchantment", p. 58; "a plane other than that of the calculable", p. 59). The English is correct.
 
 **What is not verified.** We have not seen a complete French table of contents. We therefore cannot confirm whether the French edition has the same two-chapter division or the same section order, or whether it prints the Tunis motion (plausible, since the motion dates from Nov 2005). See [NOTES-ON-METHOD.md](NOTES-ON-METHOD.md) §Gaps.
 
@@ -100,9 +100,11 @@ One snippet places "Le plan qui m'enchante" in a "deuxième partie" (second part
 | Introduction | Written for the book (2006); draws on Stiegler's June 2005 *Libération* diary and the Sept 2005 Colline talk §3 | Shared Medef/Kessler/Seillière/Le Lay material; French back cover |
 | 2005 Manifesto | Founding text of Ars Industrialis (spring 2005) | arsindustrialis.org node/1472 |
 | 2010 Manifesto | Ars Industrialis, 2010 | arsindustrialis.org/manifesto-2010 |
-| Ch. 1 | Stiegler, 2006 | Cross-references in its notes to *Mécréance et discrédit 2* and *La Télécratie contre la démocratie* (both 2006) |
+| Ch. 1 | Stiegler: "reformulation and elaboration" of a paper from one of the first two Ars Industrialis working sessions after 18 June 2005 (Introduction, p. 8), updated to spring 2006 (it cites events of April 2006) | Introduction p. 8; notes to *Mécréance et discrédit* 2–3 and *La Télécratie contre la démocratie* (2006) |
 | Ch. 2 | **Revised and expanded version of Stiegler's talk at the Ars Industrialis session of 24 Sept 2005 (Théâtre de la Colline)**, given to prepare the Tunis motion | Section headings match one-to-one and in order: [sources/primary-parallel-stiegler-colline-2005.md](sources/primary-parallel-stiegler-colline-2005.md) |
-| Tunis motion | Published in *Libération*, 14 Nov 2005 | arsindustrialis.org node/2126 |
+| Tunis motion | Adopted a few days before the Tunis summit; *Libération* (14 Nov 2005) published **excerpts**, and the book prints the **complete text** (Introduction, p. 9) | arsindustrialis.org node/2126 (the *Libération* version) |
+
+**Confirmed from the English text (owner's copy, pp. 1–60, 101–108).** The Introduction ends on p. 9 and p. 10 is blank. The 2005 Manifesto occupies pp. 11–15 and p. 16 is blank. The 2010 Manifesto runs pp. 17–28. Chapter 1 runs pp. 29–60, and all its section start pages match the contents. The Introduction (p. 8) says Chs. 1–2 rework papers from the first two working sessions; for Ch. 2 the precursor is the 24 Sept 2005 talk.
 
 ## Reading order note
 

@@ -40,10 +40,12 @@ In 2005 the French employers' federation, Medef, held its summer university unde
 
 | Part | Basis | Confidence |
 |---|---|---|
-| Preface; Introduction pp. 1–3 | publisher preview | high |
-| Manifestos; Tunis motion | full primary text (association's own versions) | high |
+| Preface | publisher preview | high |
+| Introduction (pp. 1–9) | publisher preview + owner's copy | high |
+| Manifestos (pp. 11–28) | owner's copy, checked against the association's web versions | high |
+| Tunis motion | *Libération* excerpt (the book prints the complete text, not photographed) | medium-high |
 | Ch. 2 | its 2005 precursor talk, whose headings match the chapter's, plus page-cited reviews | medium-high |
-| Ch. 1 | one section read in French; the rest from titles, reviews and parallel texts | low–medium (marked row by row) |
+| Ch. 1 | owner's copy, read in full (pp. 29–60, notes) | high |
 
 ## Your own reading
 
