@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: en, fr
 type: context
 covers: [tunis-motion, ch2, information-society, knowledge-societies]
+description: 'WSIS Tunis 2005 and the Ars Industrialis motion. Background context, condensed and rated for this companion.'
 ---
 
 # WSIS Tunis 2005 and the Ars Industrialis motion
@@ -16,7 +17,7 @@ covers: [tunis-motion, ch2, information-society, knowledge-societies]
 
 - **What it was.** The UN World Summit on the Information Society (WSIS) ran in two phases: Geneva (December 2003) and **Tunis, 16–18 November 2005**. Tunisia proposed the summit, and the ITU adopted a resolution on it at its 1998 Minneapolis plenipotentiary conference (ITU French booklet). The ITU organised it under UN auspices.
 - **Outcomes.** The **Tunis Commitment** (dated 18 Nov 2005) and the **Tunis Agenda for the Information Society**. These documents reaffirm Geneva's principles, address financing and the "digital divide", define Internet governance, and create the **Internet Governance Forum** (IGF), a non-binding multi-stakeholder forum. The US kept control of the DNS root zone and ICANN. Calls from Brazil, South Africa and China for multilateral (ITU) oversight ended in a vague compromise on "enhanced cooperation" (Wikipedia). Commentators said the summit made no notable progress on governance.
-- **Attendance.** Wikipedia gives about 13,500 participants in total (c. 6,200 from NGOs, 4,800 from the private sector, 980 media). The ITU booklet page I read gives no figures.
+- **Attendance.** Wikipedia gives about 13,500 participants in total (c. 6,200 from NGOs, 4,800 from the private sector, 980 media). The ITU booklet gives no figures.
 - **Controversy.** Tunisia under Ben Ali was criticised for its internet censorship and its treatment of journalists. RSF had protested the choice of host as early as 2002, quoting Robert Ménard: "il est tout simplement scandaleux de tenir un tel sommet dans ce pays". During the summit, according to Wikipedia, Ménard was refused entry, a *Libération* journalist was stabbed and beaten, a Belgian TV crew was forced to hand over footage, and a civil-society session ("Expression Under Repression") was obstructed.
 - **Vocabulary.** UNESCO's preferred term was "knowledge societies" (plural, "sociétés du savoir"). The WSIS and EU term was "information society". Ars Industrialis exploited this distinction, and ch. 2 opens with it.
 
@@ -36,4 +37,3 @@ covers: [tunis-motion, ch2, information-society, knowledge-societies]
 
 - **A common error, also in the Critical Inquiry review:** the motion is described as a "transcription of a group motion at the Tunis Summit". It was **not adopted at the summit**. It was a press motion by a small Paris association, published in *Libération* on the eve of the summit. The English title in the book ("A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit") is accurate.
 - Some bookseller blurbs say the English edition includes "an account of the organisation's 2005 summit in Tunis". That is misleading: Ars Industrialis held no summit in Tunis.
-- I found no evidence that Ars Industrialis took part in WSIS civil-society processes. Searches returned nothing.

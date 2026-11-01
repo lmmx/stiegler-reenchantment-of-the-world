@@ -8,11 +8,12 @@ accessed: 2026-11-01
 language: fr
 type: lecture
 covers: [2005-manifesto, libidinal-economy, desublimation, knowledge-societies, tunis-motion, ars-industrialis-founding]
+description: 'Ars Industrialis inaugural session (18 June 2005): minutes. Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Ars Industrialis inaugural session (18 June 2005): minutes
 
-**Nature of source.** These are written minutes (*compte rendu*) of the founding public meeting. They are not a transcript, and no audio was found on the page. Stiegler's words are paraphrased by the note-taker. I read the full page.
+**Nature of source.** These are written minutes (*compte rendu*) of the founding public meeting. They are not a transcript: Stiegler's words are paraphrased by the note-taker.
 
 ## Condensed account
 

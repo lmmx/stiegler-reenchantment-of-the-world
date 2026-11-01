@@ -1,17 +1,20 @@
 ---
-title: "Uncontrollable Societies of Disaffected Individuals" (excerpt from the introduction to Disbelief and Discredit vol. 2)
-author: "Bernard Stiegler (trans. Daniel Ross)"
-venue: "The Nordic Journal of Aesthetics No. 44–45 (2012–2013), pp. 129–134; excerpt from Uncontrollable Societies of Disaffected Individuals (Polity, 2012), orig. Mécréance et discrédit 2: Les sociétés incontrôlables d'individus désaffectés (Galilée, 2006)"
-date: 2013 (French original 2006)
-url: https://tidsskrift.dk/nja/article/download/8185/6754
-accessed: 2026-11-01
-language: en
-type: primary-parallel
-concepts: [spirit, symbolic-misery, industrial-populism, proletarianization, disenchantment, transindividuation, hyperindustrial-society, care, libidinal-economy]
-mentions_book: no
+title: '"Uncontrollable Societies of Disaffected Individuals" (excerpt from the introduction to Disbelief and Discredit vol. 2)'
+author: '"Bernard Stiegler (trans. Daniel Ross)"'
+venue: '"The Nordic Journal of Aesthetics No. 44–45 (2012–2013), pp. 129–134; excerpt from Uncontrollable Societies of Disaffected Individuals (Polity, 2012), orig. Mécréance et discrédit 2: Les sociétés incontrôlables d''individus désaffectés (Galilée, 2006)"'
+date: '2013 (French original 2006)'
+url: 'https://tidsskrift.dk/nja/article/download/8185/6754'
+accessed: '2026-11-01'
+language: 'en'
+type: 'primary-parallel'
+concepts: ['spirit', 'symbolic-misery', 'industrial-populism', 'proletarianization', 'disenchantment', 'transindividuation', 'hyperindustrial-society', 'care', 'libidinal-economy']
+mentions_book: 'no'
+description: 'Stiegler, "The Uncontrollable Societies of Disaffected Individuals" (2006; Nordic Journal of Aesthetics, 2013). Primary text, condensed and rated for this companion.'
 ---
 
-I read the full text of the open-access PDF. This is the Nordic Journal of Aesthetics text on "the lowering of the spirit value" that the task brief refers to. It is a 2006 text, written at the same time as *Réenchanter le monde*, and it names Medef's 2005 summer university.
+# Stiegler, "The Uncontrollable Societies of Disaffected Individuals" (2006; *Nordic Journal of Aesthetics*, 2013)
+
+The *Nordic Journal of Aesthetics* text on "the lowering of the spirit value". It is a 2006 text, written at the same time as *Réenchanter le monde*, and it names Medef's 2005 summer university.
 
 ## Condensed account
 - **Spirit (p. 129).** The text opens: "Symbolic misery leads irresistibly to spiritual misery." *Esprit* is a "noetic process that is both psychic and collective (cerebral and social)". It is what connects the I to the we, the "and" of psychic and collective individuation, "just as is, moreover, technics". It is not "vapour" or pure form. It passes through the organisation of matter. Knowledge (*connaissance*) is spirit's refined fruit, resting on savoir-faire and savoir-vivre. The translator's note (n. 1) says *esprit* means both mind and spirit, with no "vaporously 'spiritual'" sense.

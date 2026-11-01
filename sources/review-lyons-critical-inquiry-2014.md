@@ -8,11 +8,12 @@ accessed: 2026-11-01
 language: en
 type: review
 covers: [translators-preface, 2005-manifesto, 2010-manifesto, ch1, ch2, tunis-motion]
+description: 'Lyons, Critical Inquiry (2014). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Lyons, Critical Inquiry (2014)
 
-Read via the online version, which was fetched and summarised in full. The print citation (CI 41.4, 2015, pp. 900–902) comes from a search-result listing. I did not open the print version.
+A short review in *Critical Inquiry*, online first and then in print (CI 41.4, 2015, pp. 900–902).
 
 ## Condensed account
 

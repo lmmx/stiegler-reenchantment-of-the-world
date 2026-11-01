@@ -1,17 +1,20 @@
 ---
-title: "Introduction" to Bernard Stiegler, The Neganthropocene (plus Stiegler's own notes citing The Re-Enchantment of the World)
-author: "Daniel Ross (editor, translator, author of the introduction); Bernard Stiegler (main text)"
-venue: "Bernard Stiegler, The Neganthropocene, ed. & trans. Daniel Ross (London: Open Humanities Press, 2018; CC BY-SA), Introduction pp. 7–32"
-date: 2018
-url: https://library.oapen.org/bitstream/20.500.12657/30171/1/649431.pdf
-accessed: 2026-11-01
-language: en
-type: chapter
-concepts: [grammatization, proletarianization, tertiary-retention, pharmakon, transindividuation, care, libidinal-economy, short-termism, industrial-populism, associated-milieu, hyperindustrial-society]
-mentions_book: yes
+title: '"Introduction" to Bernard Stiegler, The Neganthropocene (plus Stiegler''s own notes citing The Re-Enchantment of the World)'
+author: '"Daniel Ross (editor, translator, author of the introduction); Bernard Stiegler (main text)"'
+venue: '"Bernard Stiegler, The Neganthropocene, ed. & trans. Daniel Ross (London: Open Humanities Press, 2018; CC BY-SA), Introduction pp. 7–32"'
+date: '2018'
+url: 'https://library.oapen.org/bitstream/20.500.12657/30171/1/649431.pdf'
+accessed: '2026-11-01'
+language: 'en'
+type: 'chapter'
+concepts: ['grammatization', 'proletarianization', 'tertiary-retention', 'pharmakon', 'transindividuation', 'care', 'libidinal-economy', 'short-termism', 'industrial-populism', 'associated-milieu', 'hyperindustrial-society']
+mentions_book: 'yes'
+description: 'Ross, Introduction to Stiegler''s The Neganthropocene (2018). Secondary literature, condensed and rated for this companion.'
 ---
 
-I read Ross's Introduction from the open-access PDF, in full for pp. 7–24 and skimmed the rest. I also checked how Stiegler's essays in the volume cite *The Re-Enchantment of the World*. Page numbers follow the printed book.
+# Ross, Introduction to Stiegler's *The Neganthropocene* (2018)
+
+Ross's Introduction to the open-access volume, with a note of how Stiegler's essays in it cite *The Re-Enchantment of the World*. Page numbers follow the printed book.
 
 ## Condensed account (Ross, Introduction)
 - **Phases of the work (pp. 7–24).** Ross divides Stiegler's work into three "conversions of the gaze":

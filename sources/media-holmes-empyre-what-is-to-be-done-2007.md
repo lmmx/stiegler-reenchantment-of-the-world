@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: en
 type: blog
 covers: [introduction, hypomnemata, individuation, european-way-of-life]
+description: 'Brian Holmes on -empyre- (January 2007). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Brian Holmes on -empyre- (January 2007)

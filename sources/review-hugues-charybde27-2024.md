@@ -1,18 +1,19 @@
 ---
-title: "Note de lecture : « Réenchanter le monde » (Bernard Stiegler / Ars Industrialis)"
-author: Hugues (Charybde 27 bookshop blog)
-venue: Charybde 27 : le Blog (charybde2.wordpress.com); also reposted on Babelio as "Charybde2"
-date: 2024-02-25
-url: https://charybde2.wordpress.com/2024/02/25/note-de-lecture-reenchanter-le-monde-bernard-stiegler-ars-industrialis/
-accessed: 2026-11-01
-language: fr
-type: review
-covers: [introduction, 2005-manifesto]
+title: '"Note de lecture : « Réenchanter le monde » (Bernard Stiegler / Ars Industrialis)"'
+author: 'Hugues (Charybde 27 bookshop blog)'
+venue: 'Charybde 27 : le Blog (charybde2.wordpress.com); also reposted on Babelio as "Charybde2"'
+date: '2024-02-25'
+url: 'https://charybde2.wordpress.com/2024/02/25/note-de-lecture-reenchanter-le-monde-bernard-stiegler-ars-industrialis/'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'review'
+covers: ['introduction', '2005-manifesto']
+description: 'Hugues, Charybde 27 (2024). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Hugues, Charybde 27 (2024)
 
-A bookseller's blog reading note. Read in full via fetch. It quotes several long passages from the book without page numbers. I have not reproduced those passages here.
+A bookseller's blog reading note. It quotes several long passages from the book without page numbers; they are not reproduced here.
 
 ## Condensed account
 1. The book is a "philosophical and political manifesto" against the hold of the capitalist imaginary on real and digital life. Valéry's 1939 "baisse de la valeur esprit" is extended to reality TV, the selling of audiences, and consumers treated as conditioned nervous systems.

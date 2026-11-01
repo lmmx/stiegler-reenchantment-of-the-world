@@ -1,6 +1,11 @@
+---
+
+description: 'The libidinal economy: how consumer capitalism channels desire, and how it exhausts desire into drives.'
+---
+
 # Libidinal economy (*économie libidinale*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **libidinal economy**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **libidinal economy**
 
 ## Definition (the book's usage)
 
@@ -11,7 +16,7 @@ The libidinal economy is the organization and production of **desire**: the chan
 - [Introduction](../chapters/01-introduction-what-is-to-be-done.md) pp. 1–2: Benjamin and Freud missed capitalism's reorganization around the consumer "as a very particular form of libidinal economy".
 - [2005 Manifesto](../chapters/02-manifesto-2005.md): capture of libido as capitalism's energy; its destruction leading "inevitably" to crisis; ruin of sublimation and of the super-ego.
 - [2010 Manifesto](../chapters/03-manifesto-2010.md) §1–3: Bernays; the drive-based consumer and speculator; disinvestment; addiction; contribution "reconstructs a productive economy of desire".
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) "capitalism of drives" (p. 39).
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) pp. 39–43, "capitalism of drives" (p. 39), is the book's fullest statement. Libido is the socialization of sexual-drive energy into sublimatable objects. It projects **consistencies** (love, knowledge, art). The libidinal economy *economizes* by deferring satisfaction (Derrida's *différance*; Freud's pleasure and reality principles, and after 1920 the life and death drives). Libido, "neither oil nor coal", is what makes capital function, and desire is "one of the productions of libido". Capitalism is "an enormous economy of motivation" whose techniques have become counterproductive, turning motives into de-motivation. Exhausting libido destroys *philia* and the "we", making capitalism barbarous. Societies traditionally took care of this energy as *philia*, *eros*, *agape*, *caritas*, *mana* (p. 43).
 - [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 71: talk of "enchantment" is possible because the knowledge economy is first a *libidinal* economy of motives.
 
 ## Related terms
@@ -31,7 +36,3 @@ The libidinal economy is the organization and production of **desire**: the chan
 - **Marxist objection** (Lotz; Hutnyk; Manche): putting desire and consumption at the centre makes **labour, capital accumulation and class** "evaporate" from the analysis ([Lotz](../sources/review-lotz-marx-and-philosophy-2015.md), [Hutnyk](../sources/lit-hutnyk-proletarianisation-2012.md), [Manche](../sources/lit-manche-proletarianisation-not-capitalism-2021.md)).
 - **Arendtian objection** (Roodt): reducing the life of the mind to libido loses what Arendt meant ([source](../sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md)).
 - **Labelled interpretation:** the empirical claim that libidinal energy is being "exhausted" works as a premise in the book rather than a demonstrated finding. Supporters treat it as a structural diagnosis; critics read it as a decline narrative.
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) pp. 39–43 is the book's fullest statement. Libido is the socialization of sexual-drive energy into sublimatable objects. It projects **consistencies** (love, knowledge, art). The libidinal economy *economizes* by deferring satisfaction (Derrida's *différance*; Freud's pleasure and reality principles, and after 1920 the life and death drives). Libido, "neither oil nor coal", is what makes capital function, and desire is "one of the productions of libido". Capitalism is "an enormous economy of motivation" whose techniques have become counterproductive, turning motives into de-motivation. Exhausting libido destroys *philia* and the "we", making capitalism barbarous. Societies traditionally took care of this energy as *philia*, *eros*, *agape*, *caritas*, *mana* (p. 43).

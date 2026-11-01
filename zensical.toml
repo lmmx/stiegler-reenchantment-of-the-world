@@ -1,0 +1,305 @@
+[project]
+site_name = "The Re-Enchantment of the World"
+site_description = "A study companion to Bernard Stiegler and Ars Industrialis, The Re-Enchantment of the World (2006; English 2014): layered summaries, concepts and evaluated sources."
+site_author = "Louis Maddox"
+site_url = "https://lmmx.github.io/stiegler-reenchantment-of-the-world/"
+repo_name = "lmmx/stiegler-reenchantment-of-the-world"
+repo_url = "https://github.com/lmmx/stiegler-reenchantment-of-the-world"
+edit_uri = "edit/master/"
+copyright = "A fair-use study companion: summaries and short attributed quotations only. The book is © Bernard Stiegler, Ars Industrialis and Bloomsbury."
+
+# The repository root is the docs directory, so every page keeps its path (and its relative
+# links) on GitHub and on the site. Pages link to each other with relative .md links, which
+# work in both places. A new page needs a nav entry and a front-matter description, listed
+# with that same description in the llmstxt sections below (website/check_site.py).
+# Left out: the site's own templates and scripts (website/), and the build output.
+docs_dir = "."
+exclude_docs = """
+/website/overrides/
+/website/*.py
+/site/
+/Justfile
+/zensical.toml
+"""
+
+# The site's own stylesheet carries ?v=dev, which the site workflow replaces with the commit
+# it builds, so a browser fetches each deploy's copy and not a cached one.
+extra_css = ["website/assets/extra.css?v=dev"]
+
+nav = [
+  { "Home" = "README.md" },
+  { "Overview" = "overview.md" },
+  { "The book" = [
+    "chapters/README.md",
+    { "Translator's Preface" = "chapters/00-translators-preface.md" },
+    { "Introduction: What Is to Be Done?" = "chapters/01-introduction-what-is-to-be-done.md" },
+    { "2005 Manifesto" = "chapters/02-manifesto-2005.md" },
+    { "2010 Manifesto" = "chapters/03-manifesto-2010.md" },
+    { "Ch. 1, The Re-Foundation of Society" = "chapters/04-ch1-re-foundation-of-society.md" },
+    { "Ch. 2, Against the Reign of Ignorance" = "chapters/05-ch2-against-the-reign-of-ignorance.md" },
+    { "The Tunis Motion" = "chapters/06-tunis-motion.md" },
+  ] },
+  { "Concepts" = [
+    "concepts/README.md",
+    { "Glossary" = "GLOSSARY.md" },
+    { "Associated milieu / dissociated milieu" = "concepts/associated-milieu.md" },
+    { "Care" = "concepts/care.md" },
+    { "Disenchantment / re-enchantment" = "concepts/disenchantment.md" },
+    { "Economy of contribution" = "concepts/economy-of-contribution.md" },
+    { "Grammatization" = "concepts/grammatization.md" },
+    { "Hyperindustrial society" = "concepts/hyperindustrial-society.md" },
+    { "Hypomnemata" = "concepts/hypomnemata.md" },
+    { "Industrial populism" = "concepts/industrial-populism.md" },
+    { "Knowledge vs information" = "concepts/knowledge-vs-information.md" },
+    { "Libidinal economy" = "concepts/libidinal-economy.md" },
+    { "Otium / negotium" = "concepts/otium-negotium.md" },
+    { "Pharmakon / pharmacology" = "concepts/pharmakon.md" },
+    { "Proletarianization" = "concepts/proletarianization.md" },
+    { "Short-termism" = "concepts/short-termism.md" },
+    { "Spirit" = "concepts/spirit.md" },
+    { "Symbolic misery" = "concepts/symbolic-misery.md" },
+    { "Technologies of spirit" = "concepts/technologies-of-spirit.md" },
+    { "Tertiary retention" = "concepts/tertiary-retention.md" },
+    { "Individuation, transindividuation, disindividuation" = "concepts/transindividuation.md" },
+  ] },
+  { "Reference" = [
+    { "Structure of the book" = "STRUCTURE.md" },
+    { "Index" = "INDEX.md" },
+    { "Reception and critique" = "reception.md" },
+  ] },
+  { "Sources" = [
+    "sources/EVALUATION.md",
+    { "Primary texts" = [
+      { "Ars Industrialis 2005 Manifesto (web version)" = "sources/primary-arsindustrialis-manifesto-2005.md" },
+      { "Ars Industrialis 2010 Manifesto (web version)" = "sources/primary-arsindustrialis-manifesto-2010.md" },
+      { "The Tunis motion (French original)" = "sources/primary-arsindustrialis-tunis-motion-2005.md" },
+      { "Bloomsbury preview of the English edition" = "sources/primary-bloomsbury-preview-2014.md" },
+      { "French back cover, dedication, and Ch. 1 §3 (French edition)" = "sources/primary-excerpt-fr-ch1-s3-homocoques.md" },
+      { "Lemmens, interview with Stiegler, Krisis (2011)" = "sources/primary-parallel-lemmens-stiegler-interview-krisis-2011.md" },
+      { "Stiegler, Ars Industrialis session of 24 September 2005 (Théâtre de la Colline)" = "sources/primary-parallel-stiegler-colline-2005.md" },
+      { "Stiegler, \"Economizing means taking care\" (2008)" = "sources/primary-parallel-stiegler-economizing-taking-care-2008.md" },
+      { "Stiegler, \"L'avenir du capitalisme\" (Libération diary, June 2005)" = "sources/primary-parallel-stiegler-liberation-diary-2005.md" },
+      { "Stiegler, \"Pharmacology of Desire\" (2011)" = "sources/primary-parallel-stiegler-pharmacology-of-desire-2011.md" },
+      { "Stiegler, \"The Uncontrollable Societies of Disaffected Individuals\" (2006; Nordic Journal of Aesthetics, 2013)" = "sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md" },
+    ] },
+    { "Reviews and records" = [
+      { "Barker, \"Enchantment, disenchantment, re-enchantment\" (New Formations 77, 2012)" = "sources/review-barker-new-formations-2012.md" },
+      { "French catalogue records and structure" = "sources/review-bnf-catalogue-records-2006.md" },
+      { "Cherrier, lelitteraire.com (2012)" = "sources/review-cherrier-lelitteraire-2012.md" },
+      { "de Beer, Tydskrif vir Geesteswetenskappe (2012)" = "sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md" },
+      { "Flammarion back-cover text (2006) and booksellers' summaries" = "sources/review-flammarion-4e-de-couverture-2006.md" },
+      { "Hugues, Charybde 27 (2024)" = "sources/review-hugues-charybde27-2024.md" },
+      { "Lotz, Marx & Philosophy Review of Books (2015)" = "sources/review-lotz-marx-and-philosophy-2015.md" },
+      { "Lyons, Critical Inquiry (2014)" = "sources/review-lyons-critical-inquiry-2014.md" },
+      { "Roodt, Tydskrif vir Geesteswetenskappe (2012)" = "sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md" },
+    ] },
+    { "Secondary literature" = [
+      { "Vocabulaire d'Ars Industrialis (Petit, 2013)" = "sources/glossary-arsindustrialis-vocabulaire-2013.md" },
+      { "Abbinnett, \"The Politics of Spirit in Stiegler's Techno-Pharmacology\" (2015)" = "sources/lit-abbinnett-politics-of-spirit-2015.md" },
+      { "Cohen, \"Dare to Care\" (2017)" = "sources/lit-cohen-dare-to-care-2017.md" },
+      { "Hansen, \"Saving Libidinal Capitalism\" (c. 2014)" = "sources/lit-hansen-saving-libidinal-capitalism-2014.md" },
+      { "Hui and Halpin, \"Collective Individuation\" (2013)" = "sources/lit-hui-halpin-collective-individuation-2013.md" },
+      { "Hutnyk, \"Proletarianisation\" (2012)" = "sources/lit-hutnyk-proletarianisation-2012.md" },
+      { "Lemmens, \"The Digital Pharmakon and the (Dis)Empowerment of the General Intellect\" (2017)" = "sources/lit-lemmens-digital-pharmakon-general-intellect-2017.md" },
+      { "Manche, \"The problem is proletarianisation, not capitalism\" (2021)" = "sources/lit-manche-proletarianisation-not-capitalism-2021.md" },
+      { "Ross, Introduction to Stiegler's The Neganthropocene (2018)" = "sources/lit-ross-neganthropocene-introduction-2018.md" },
+      { "Rossouw, \"Bernard Stiegler's aestheology and the new otium of the people\" (2015)" = "sources/lit-rossouw-aestheology-new-otium-2015.md" },
+    ] },
+    { "Media, lectures and the web" = [
+      { "Stiegler interviewed for April (2011)" = "sources/media-april-stiegler-interview-2011.md" },
+      { "Announcement and argument for the 24 September 2005 session" = "sources/media-arsindustrialis-presentation-tunis-seance-2005.md" },
+      { "Ars Industrialis inaugural session (18 June 2005): minutes" = "sources/media-arsindustrialis-seance-inaugurale-2005.md" },
+      { "\"Souffrance et consommation\" (25 Feb 2006)" = "sources/media-arsindustrialis-souffrance-consommation-2006.md" },
+      { "Babelio reader reception" = "sources/media-babelio-reader-reviews-2024.md" },
+      { "Goodreads reader reception (English edition)" = "sources/media-goodreads-reader-reviews-2026.md" },
+      { "Heulot, \"Réenchanter le monde, le programme de Bernard Stiegler\" (Rennes, 2014)" = "sources/media-heulot-atelier-sbp-reenchanter-2014.md" },
+      { "Brian Holmes on -empyre- (January 2007)" = "sources/media-holmes-empyre-what-is-to-be-done-2007.md" },
+      { "INA clip, \"Bernard Stiegler rises against consumerism\" (2012)" = "sources/media-ina-stiegler-consumerism-clip-2012.md" },
+      { "Son[i]a #285, Bernard Stiegler (MACBA, 2019)" = "sources/media-macba-sonia-285-stiegler-podcast-2019.md" },
+      { "P2P Foundation wiki: \"Ars Industrialis\"" = "sources/media-p2pfoundation-wiki-ars-industrialis-2025.md" },
+      { "Swiss teaching sheet on Le Temps de cerveau disponible (2010)" = "sources/media-plandetudes-fiche-temps-de-cerveau-2010.md" },
+      { "Stiegler, \"Cognitive technologies\" (Ars Industrialis, 5 Nov 2005)" = "sources/media-stiegler-technologies-cognitives-2005.md" },
+      { "Wikipedia coverage" = "sources/media-wikipedia-stiegler-ars-industrialis-2026.md" },
+    ] },
+    { "Context" = [
+      { "Ars Industrialis: what the association's own site says" = "sources/context-ars-industrialis-association.md" },
+      { "Le Lay: \"Ce que nous vendons à Coca-Cola, c'est du temps de cerveau humain disponible\"" = "sources/context-le-lay-temps-de-cerveau-2004.md" },
+      { "The Medef 2005 summer university (\"Réenchanter le monde\")" = "sources/context-medef-universite-ete-2005.md" },
+      { "WSIS Tunis 2005 and the Ars Industrialis motion" = "sources/context-wsis-tunis-2005.md" },
+    ] },
+  ] },
+]
+
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.def_list]
+[project.markdown_extensions.footnotes]
+[project.markdown_extensions.md_in_html]
+[project.markdown_extensions.tables]
+[project.markdown_extensions.toc]
+permalink = true
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+[project.markdown_extensions.pymdownx.tilde]
+
+[project.plugins.search]
+
+[project.theme]
+custom_dir = "website/overrides"
+features = [
+  "content.action.edit",
+  "content.action.view",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "search.highlight",
+  "search.suggest",
+  "toc.follow",
+]
+# Inter for the interface; the reading text, headings and code are set in
+# website/assets/extra.css (Source Serif 4, Fraunces, JetBrains Mono).
+font.text = "Inter"
+font.code = "JetBrains Mono"
+language = "en"
+variant = "modern"
+
+[project.theme.icon]
+repo = "fontawesome/brands/github"
+logo = "lucide/book-open"
+
+[[project.theme.palette]]
+accent = "custom"
+media = "(prefers-color-scheme: light)"
+primary = "custom"
+scheme = "default"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+accent = "custom"
+media = "(prefers-color-scheme: dark)"
+primary = "custom"
+scheme = "slate"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to light mode"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/lmmx/stiegler-reenchantment-of-the-world"
+name = "The companion on GitHub"
+
+# llms.txt, llms-full.txt and a Markdown copy of each page listed here (<page>/index.md).
+# Each description must equal the page's front-matter description, and the home page's the
+# site_description (website/check_site.py).
+[project.plugins.llmstxt]
+full_output = "llms-full.txt"
+markdown_description = """
+A fair-use study companion to Bernard Stiegler and Ars Industrialis, *Réenchanter le monde.
+La valeur esprit contre le populisme industriel* (Flammarion, 2006), translated by Trevor
+Arthur as *The Re-Enchantment of the World: The Value of Spirit against Industrial
+Populism* (Bloomsbury, 2014). It gives the thesis, a one-page overview, a summary of each
+part from abstract down to section level with page numbers, concept pages, a glossary, the
+book's reception, and evaluated third-party sources. It paraphrases and quotes briefly; it
+does not reproduce the book. Each link below is the Markdown version of a page of
+https://lmmx.github.io/stiegler-reenchantment-of-the-world/.
+"""
+
+[project.plugins.llmstxt.sections]
+"Start here" = [
+  { "README.md" = "A study companion to Bernard Stiegler and Ars Industrialis, The Re-Enchantment of the World (2006; English 2014): layered summaries, concepts and evaluated sources." },
+  { "overview.md" = "The book's argument arc in six steps, its place in Stiegler's work, and the Ars Industrialis project." },
+]
+"The book" = [
+  { "chapters/README.md" = "The seven parts of The Re-Enchantment of the World, each summarized from abstract down to section level." },
+  { "chapters/00-translators-preface.md" = "Trevor Arthur's Translator's Preface (pp. vii–ix): why savoir-faire and savoir-vivre stay in French, and why \"spirit\" falls short of esprit." },
+  { "chapters/01-introduction-what-is-to-be-done.md" = "Summary of the Introduction, \"What Is to Be Done?\" (pp. 1–10): Medef's \"re-enchantment\" slogan taken at its word, and the founding of Ars Industrialis." },
+  { "chapters/02-manifesto-2005.md" = "Summary of the 2005 Ars Industrialis manifesto (pp. 11–16): an industrial politics of spirit against the capture of attention." },
+  { "chapters/03-manifesto-2010.md" = "Summary of the 2010 Ars Industrialis manifesto (pp. 17–28), printed only in the English edition: pharmacology, care and the economy of contribution." },
+  { "chapters/04-ch1-re-foundation-of-society.md" = "Summary of Chapter 1, \"The Re-Foundation of Society\" (pp. 29–60), section by section, with a gloss of its notes." },
+  { "chapters/05-ch2-against-the-reign-of-ignorance.md" = "Summary of Chapter 2, \"Against the Reign of Ignorance\" (pp. 61–93): knowledge against information, and investing in the value of spirit." },
+  { "chapters/06-tunis-motion.md" = "Summary of the Ars Industrialis motion addressed to the 2005 World Summit on the Information Society in Tunis (pp. 95–100)." },
+]
+"Concepts" = [
+  { "concepts/README.md" = "The nineteen concepts the book relies on, each with its definition, where it appears and how commentators read it." },
+  { "GLOSSARY.md" = "Short definitions of the book's terms, each linked to a full concept page." },
+  { "concepts/associated-milieu.md" = "Simondon's associated milieu, and Stiegler's contrast between associated and dissociated milieus of symbols and knowledge." },
+  { "concepts/care.md" = "Care (soin, epimeleia) as the practices and institutions that keep a technical pharmakon from turning toxic." },
+  { "concepts/disenchantment.md" = "Weber's disenchantment of the world, and what the book means by re-enchanting it." },
+  { "concepts/economy-of-contribution.md" = "The economy of contribution, the model Ars Industrialis proposes to replace consumerism." },
+  { "concepts/grammatization.md" = "Grammatization: the discretization of speech, gesture and perception into reproducible marks, from the alphabet to digital code." },
+  { "concepts/hyperindustrial-society.md" = "Hyperindustrial society: industrialization extended to services, culture, attention and knowledge." },
+  { "concepts/hypomnemata.md" = "Hypomnemata: memory aids outside the mind, from Plato's critique of writing to Foucault and digital media." },
+  { "concepts/industrial-populism.md" = "Industrial populism: the populism produced by marketing and the program industries rather than by political movements." },
+  { "concepts/knowledge-vs-information.md" = "Knowledge against information: why Chapter 2 calls information entropic and knowledge negentropic." },
+  { "concepts/libidinal-economy.md" = "The libidinal economy: how consumer capitalism channels desire, and how it exhausts desire into drives." },
+  { "concepts/otium-negotium.md" = "Otium and negotium: studious leisure against business, and their link to subsistence, existence and consistence." },
+  { "concepts/pharmakon.md" = "Pharmakon and pharmacology: every technics as both remedy and poison." },
+  { "concepts/proletarianization.md" = "Proletarianization as the loss of knowledge by producers, consumers and knowledge workers." },
+  { "concepts/short-termism.md" = "Short-termism as the temporal form of drive-based behaviour in finance, media and politics." },
+  { "concepts/spirit.md" = "Spirit (esprit) and Valéry's \"value of spirit\", the book's measure of what consumer capitalism lowers." },
+  { "concepts/symbolic-misery.md" = "Symbolic misery: the loss of individuation that follows from losing a part in producing symbols." },
+  { "concepts/technologies-of-spirit.md" = "Technologies of spirit, and the contrast between psychotechnologies and nootechnologies." },
+  { "concepts/tertiary-retention.md" = "Tertiary retention: memory held outside the living being in artefacts, after Husserl's primary and secondary retention." },
+  { "concepts/transindividuation.md" = "Individuation, transindividuation and disindividuation, after Simondon." },
+]
+"Reference" = [
+  { "STRUCTURE.md" = "The contents of the English edition with page numbers, the differences from the French edition, and where each part comes from." },
+  { "INDEX.md" = "Cross-reference tables linking the book's parts, its concepts, the sources and the pages where each concept appears." },
+  { "reception.md" = "How the book was received: reviews, lines of critique, errors in circulation, and Stiegler's own later revision." },
+]
+"Optional" = [
+  { "sources/EVALUATION.md" = "Every source used for the companion, rated for reliability and depth, with cross-source disagreements and a ranked reading list." },
+  { "sources/primary-arsindustrialis-manifesto-2005.md" = "Ars Industrialis 2005 Manifesto (web version). Primary text, condensed and rated for this companion." },
+  { "sources/primary-arsindustrialis-manifesto-2010.md" = "Ars Industrialis 2010 Manifesto (web version). Primary text, condensed and rated for this companion." },
+  { "sources/primary-arsindustrialis-tunis-motion-2005.md" = "The Tunis motion (French original). Primary text, condensed and rated for this companion." },
+  { "sources/primary-bloomsbury-preview-2014.md" = "Bloomsbury preview of the English edition. Primary text, condensed and rated for this companion." },
+  { "sources/primary-excerpt-fr-ch1-s3-homocoques.md" = "French back cover, dedication, and Ch. 1 §3 (French edition). Primary text, condensed and rated for this companion." },
+  { "sources/primary-parallel-lemmens-stiegler-interview-krisis-2011.md" = "Lemmens, interview with Stiegler, Krisis (2011). Primary text, condensed and rated for this companion." },
+  { "sources/primary-parallel-stiegler-colline-2005.md" = "Stiegler, Ars Industrialis session of 24 September 2005 (Théâtre de la Colline). Primary text, condensed and rated for this companion." },
+  { "sources/primary-parallel-stiegler-economizing-taking-care-2008.md" = "Stiegler, \"Economizing means taking care\" (2008). Primary text, condensed and rated for this companion." },
+  { "sources/primary-parallel-stiegler-liberation-diary-2005.md" = "Stiegler, \"L'avenir du capitalisme\" (Libération diary, June 2005). Primary text, condensed and rated for this companion." },
+  { "sources/primary-parallel-stiegler-pharmacology-of-desire-2011.md" = "Stiegler, \"Pharmacology of Desire\" (2011). Primary text, condensed and rated for this companion." },
+  { "sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md" = "Stiegler, \"The Uncontrollable Societies of Disaffected Individuals\" (2006; Nordic Journal of Aesthetics, 2013). Primary text, condensed and rated for this companion." },
+  { "sources/review-barker-new-formations-2012.md" = "Barker, \"Enchantment, disenchantment, re-enchantment\" (New Formations 77, 2012). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-bnf-catalogue-records-2006.md" = "French catalogue records and structure. Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-cherrier-lelitteraire-2012.md" = "Cherrier, lelitteraire.com (2012). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md" = "de Beer, Tydskrif vir Geesteswetenskappe (2012). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-flammarion-4e-de-couverture-2006.md" = "Flammarion back-cover text (2006) and booksellers' summaries. Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-hugues-charybde27-2024.md" = "Hugues, Charybde 27 (2024). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-lotz-marx-and-philosophy-2015.md" = "Lotz, Marx & Philosophy Review of Books (2015). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-lyons-critical-inquiry-2014.md" = "Lyons, Critical Inquiry (2014). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md" = "Roodt, Tydskrif vir Geesteswetenskappe (2012). Review or bibliographic account, condensed and rated for this companion." },
+  { "sources/glossary-arsindustrialis-vocabulaire-2013.md" = "Vocabulaire d'Ars Industrialis (Petit, 2013). The association's own glossary, condensed and rated for this companion." },
+  { "sources/lit-abbinnett-politics-of-spirit-2015.md" = "Abbinnett, \"The Politics of Spirit in Stiegler's Techno-Pharmacology\" (2015). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-cohen-dare-to-care-2017.md" = "Cohen, \"Dare to Care\" (2017). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-hansen-saving-libidinal-capitalism-2014.md" = "Hansen, \"Saving Libidinal Capitalism\" (c. 2014). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-hui-halpin-collective-individuation-2013.md" = "Hui and Halpin, \"Collective Individuation\" (2013). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-hutnyk-proletarianisation-2012.md" = "Hutnyk, \"Proletarianisation\" (2012). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-lemmens-digital-pharmakon-general-intellect-2017.md" = "Lemmens, \"The Digital Pharmakon and the (Dis)Empowerment of the General Intellect\" (2017). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-manche-proletarianisation-not-capitalism-2021.md" = "Manche, \"The problem is proletarianisation, not capitalism\" (2021). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-ross-neganthropocene-introduction-2018.md" = "Ross, Introduction to Stiegler's The Neganthropocene (2018). Secondary literature, condensed and rated for this companion." },
+  { "sources/lit-rossouw-aestheology-new-otium-2015.md" = "Rossouw, \"Bernard Stiegler's aestheology and the new otium of the people\" (2015). Secondary literature, condensed and rated for this companion." },
+  { "sources/media-april-stiegler-interview-2011.md" = "Stiegler interviewed for April (2011). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-arsindustrialis-presentation-tunis-seance-2005.md" = "Announcement and argument for the 24 September 2005 session. Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-arsindustrialis-seance-inaugurale-2005.md" = "Ars Industrialis inaugural session (18 June 2005): minutes. Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-arsindustrialis-souffrance-consommation-2006.md" = "\"Souffrance et consommation\" (25 Feb 2006). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-babelio-reader-reviews-2024.md" = "Babelio reader reception. Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-goodreads-reader-reviews-2026.md" = "Goodreads reader reception (English edition). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-heulot-atelier-sbp-reenchanter-2014.md" = "Heulot, \"Réenchanter le monde, le programme de Bernard Stiegler\" (Rennes, 2014). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-holmes-empyre-what-is-to-be-done-2007.md" = "Brian Holmes on -empyre- (January 2007). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-ina-stiegler-consumerism-clip-2012.md" = "INA clip, \"Bernard Stiegler rises against consumerism\" (2012). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-macba-sonia-285-stiegler-podcast-2019.md" = "Son[i]a #285, Bernard Stiegler (MACBA, 2019). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-p2pfoundation-wiki-ars-industrialis-2025.md" = "P2P Foundation wiki: \"Ars Industrialis\". Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-plandetudes-fiche-temps-de-cerveau-2010.md" = "Swiss teaching sheet on Le Temps de cerveau disponible (2010). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-stiegler-technologies-cognitives-2005.md" = "Stiegler, \"Cognitive technologies\" (Ars Industrialis, 5 Nov 2005). Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/media-wikipedia-stiegler-ars-industrialis-2026.md" = "Wikipedia coverage. Media, lecture or web source, condensed and rated for this companion." },
+  { "sources/context-ars-industrialis-association.md" = "Ars Industrialis: what the association's own site says. Background context, condensed and rated for this companion." },
+  { "sources/context-le-lay-temps-de-cerveau-2004.md" = "Le Lay: \"Ce que nous vendons à Coca-Cola, c'est du temps de cerveau humain disponible\". Background context, condensed and rated for this companion." },
+  { "sources/context-medef-universite-ete-2005.md" = "The Medef 2005 summer university (\"Réenchanter le monde\"). Background context, condensed and rated for this companion." },
+  { "sources/context-wsis-tunis-2005.md" = "WSIS Tunis 2005 and the Ars Industrialis motion. Background context, condensed and rated for this companion." },
+]

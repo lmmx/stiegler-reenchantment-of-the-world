@@ -8,11 +8,12 @@ accessed: 2026-11-01
 language: af (English abstract)
 type: review
 covers: [introduction, 2005-manifesto, 2010-manifesto, ch1, ch2]
+description: 'de Beer, Tydskrif vir Geesteswetenskappe (2012). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # de Beer, Tydskrif vir Geesteswetenskappe (2012)
 
-This is a review-article, not a short book review. It takes *Réenchanter le monde* (2006), rendered in Afrikaans as *Heropluistering van die wêreld: geestelike waarde teenoor industriële populisme*, as its "guiding publication". It reads the book together with the two Ars Industrialis manifestos and Stiegler's other books of 2004–2010. I read the full open-access PDF.
+This is a review-article, not a short book review. It takes *Réenchanter le monde* (2006), rendered in Afrikaans as *Heropluistering van die wêreld: geestelike waarde teenoor industriële populisme*, as its "guiding publication". It reads the book together with the two Ars Industrialis manifestos and Stiegler's other books of 2004–2010.
 
 ## Condensed account
 1. **Starting point.** The core message is to recover spirit, spirituality and the value of spirit. Disenchantment amounts to a *sociopathology* that calls for a *sociotherapy*, and that therapy depends on the activity of spirit.

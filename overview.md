@@ -1,6 +1,11 @@
+---
+
+description: 'The book''s argument arc in six steps, its place in Stiegler''s work, and the Ars Industrialis project.'
+---
+
 # Overview (L1)
 
-[README](README.md) › **Overview** · down: [Structure](STRUCTURE.md) · [Chapters](#map-of-the-parts) · [Concepts](GLOSSARY.md)
+[Home](README.md) › **Overview** · down: [Structure](STRUCTURE.md) · [Chapters](#map-of-the-parts) · [Concepts](GLOSSARY.md)
 
 *About a page. The argument arc, where the book sits in Stiegler's corpus, and the Ars Industrialis project. Evaluation is kept out of this file; see [reception.md](reception.md).*
 

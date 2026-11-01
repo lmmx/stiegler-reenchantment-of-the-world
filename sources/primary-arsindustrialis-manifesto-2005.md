@@ -1,18 +1,19 @@
 ---
-title: "A Manifesto for an International Association Ars Industrialis for the Promotion of an Industrial Politics of Spirit" (2005 Manifesto; English web version) / "Manifeste 2005" (French)
-author: George Collins, Marc Crépon, Catherine Perret, Bernard Stiegler, Caroline Stiegler (signatories)
-venue: arsindustrialis.org
-date: 2005 (founding, April–June 2005)
-url: https://arsindustrialis.org/node/1472 (EN); http://www.arsindustrialis.org/manifeste2005 (FR)
-accessed: 2026-11-01
-language: en, fr
-type: primary (text reprinted in the book as "Ars Industrialis: 2005 Manifesto", pp. 11–16 of the English edition)
-covers: [2005-manifesto]
+title: '"A Manifesto for an International Association Ars Industrialis for the Promotion of an Industrial Politics of Spirit" (2005 Manifesto; English web version) / "Manifeste 2005" (French)'
+author: 'George Collins, Marc Crépon, Catherine Perret, Bernard Stiegler, Caroline Stiegler (signatories)'
+venue: 'arsindustrialis.org'
+date: '2005 (founding, April–June 2005)'
+url: 'https://arsindustrialis.org/node/1472 (EN); http://www.arsindustrialis.org/manifeste2005 (FR)'
+accessed: '2026-11-01'
+language: 'en, fr'
+type: 'primary (text reprinted in the book as "Ars Industrialis: 2005 Manifesto", pp. 11–16 of the English edition)'
+covers: ['2005-manifesto']
+description: 'Ars Industrialis 2005 Manifesto (web version). Primary text, condensed and rated for this companion.'
 ---
 
 # Ars Industrialis 2005 Manifesto (web version)
 
-**Status:** primary text. The book reprints it at pp. 11–16 of the English edition. We read the association's own English web version, which is **not** Trevor Arthur's translation. Wording therefore differs from the book, but the content should match. Confirm against the printed text.
+The association's own English web version of the 2005 Manifesto, with the French original. The book reprints the manifesto at pp. 11–16 of the English edition. The web English is **not** Trevor Arthur's translation, so its wording differs from the book's.
 
 ## Condensed account
 

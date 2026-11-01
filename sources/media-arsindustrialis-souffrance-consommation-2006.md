@@ -1,18 +1,19 @@
 ---
-title: "Souffrance et consommation" (Ars Industrialis session, 25 February 2006)
-author: Ars Industrialis (argument unsigned); speakers Bernard Stiegler, Marc Valleur, Jean-Pierre Klein
-venue: arsindustrialis.org (node/1462); Théâtre de la Colline
-date: 2006-02-25
-url: https://arsindustrialis.org/node/1462
-accessed: 2026-11-01
-language: fr
-type: lecture
-covers: [ch1, consumer, addiction, capitalism-of-drives, libidinal-economy]
+title: '"Souffrance et consommation" (Ars Industrialis session, 25 February 2006)'
+author: 'Ars Industrialis (argument unsigned); speakers Bernard Stiegler, Marc Valleur, Jean-Pierre Klein'
+venue: 'arsindustrialis.org (node/1462); Théâtre de la Colline'
+date: '2006-02-25'
+url: 'https://arsindustrialis.org/node/1462'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'lecture'
+covers: ['ch1', 'consumer', 'addiction', 'capitalism-of-drives', 'libidinal-economy']
+description: '"Souffrance et consommation" (25 Feb 2006). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # "Souffrance et consommation" (25 Feb 2006)
 
-**Nature of source.** I read only the session page: argument, list of speakers and documents. The talks were posted as **WMA audio downloads, which I did not listen to**. No transcript is available on the page.
+**Nature of source.** The session page: argument, list of speakers and documents. The talks were posted as **WMA audio downloads**, with no transcript.
 
 ## Condensed account
 
@@ -24,4 +25,4 @@ The argument: if libido is capitalism's fundamental energy, capitalism is an epo
 
 ## Notes for evaluation
 
-This shows that the "consumer" and "capitalism of drives" themes of ch. 1 were being worked out in public with clinicians eight months before the book (October 2006). It also gives independent confirmation that Caroline Stiegler was a jurist. The content of the talks themselves remains unknown.
+This shows that the "consumer" and "capitalism of drives" themes of ch. 1 were being worked out in public with clinicians eight months before the book (October 2006). It also gives independent confirmation that Caroline Stiegler was a jurist.

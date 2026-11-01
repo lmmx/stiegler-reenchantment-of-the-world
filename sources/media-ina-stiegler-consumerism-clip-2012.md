@@ -1,18 +1,19 @@
 ---
-title: "Bernard Stiegler rises against consumerism" (INA mediaclip I20220660)
-author: France Télévisions (programme "Mots de minuit" / "Words of Midnight"), presenter Philippe Lefait
-venue: mediaclip.ina.fr
-date: 2012-10-24
-url: https://mediaclip.ina.fr/en/i20220660-bernard-stiegler-rises-against-consumerism.html
-accessed: 2026-11-01
-language: fr (page in en)
-type: interview
-covers: [ars-industrialis, consumer]
+title: '"Bernard Stiegler rises against consumerism" (INA mediaclip I20220660)'
+author: 'France Télévisions (programme "Mots de minuit" / "Words of Midnight"), presenter Philippe Lefait'
+venue: 'mediaclip.ina.fr'
+date: '2012-10-24'
+url: 'https://mediaclip.ina.fr/en/i20220660-bernard-stiegler-rises-against-consumerism.html'
+accessed: '2026-11-01'
+language: 'fr (page in en)'
+type: 'interview'
+covers: ['ars-industrialis', 'consumer']
+description: 'INA clip, "Bernard Stiegler rises against consumerism" (2012). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
-# INA clip (2012): description only
+# INA clip, "Bernard Stiegler rises against consumerism" (2012)
 
-**Only the catalogue description was visible.** The 1 min 38 s clip was not viewed, and there is no transcript.
+A 1 min 38 s clip from France Télévisions' *Mots de minuit*, catalogued by INA with a short description.
 
 ## Condensed account
 

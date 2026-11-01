@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: en (also fr, th)
 type: reader-review
 covers: [ch1, ch2, tunis-motion, pharmakon, libidinal-economy, style]
+description: 'Goodreads reader reception (English edition). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Goodreads reader reception (English edition)

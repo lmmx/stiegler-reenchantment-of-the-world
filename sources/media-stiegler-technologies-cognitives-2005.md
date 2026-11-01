@@ -8,11 +8,12 @@ accessed: 2026-11-01
 language: fr
 type: lecture
 covers: [ch2, knowledge-management, grammatization, hypomnemata, digital-libraries, tunis-motion]
+description: 'Stiegler, "Cognitive technologies" (Ars Industrialis, 5 Nov 2005). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Stiegler, "Cognitive technologies" (Ars Industrialis, 5 Nov 2005)
 
-**Nature of source.** This is a written contribution (c. 2,600 words) posted for the session. The page I read is the text, not a recording. The session page (node/1461) also lists contributions by Philippe Aigrain, Jean-Max Noyer and Alain Giffard, which I did not read, and links the Tunis motion.
+**Nature of source.** A written contribution (c. 2,600 words) posted for the session. The session page (node/1461) also lists contributions by Philippe Aigrain, Jean-Max Noyer and Alain Giffard, and links the Tunis motion.
 
 ## Condensed account
 

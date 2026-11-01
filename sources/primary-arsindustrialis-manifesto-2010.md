@@ -1,18 +1,19 @@
 ---
-title: "Manifesto 2010" / "Manifeste 2010"
-author: Ars Industrialis (collective)
-venue: arsindustrialis.org
-date: 2010
-url: http://arsindustrialis.org/manifesto-2010 (EN); https://arsindustrialis.org/manifeste-2010 (FR)
-accessed: 2026-11-01
-language: en, fr
-type: primary (reprinted in the English book as "Ars Industrialis: 2010 Manifesto", pp. 17–28; NOT in the 2006 French first edition)
-covers: [2010-manifesto]
+title: '"Manifesto 2010" / "Manifeste 2010"'
+author: 'Ars Industrialis (collective)'
+venue: 'arsindustrialis.org'
+date: '2010'
+url: 'http://arsindustrialis.org/manifesto-2010 (EN); https://arsindustrialis.org/manifeste-2010 (FR)'
+accessed: '2026-11-01'
+language: 'en, fr'
+type: 'primary (reprinted in the English book as "Ars Industrialis: 2010 Manifesto", pp. 17–28; NOT in the 2006 French first edition)'
+covers: ['2010-manifesto']
+description: 'Ars Industrialis 2010 Manifesto (web version). Primary text, condensed and rated for this companion.'
 ---
 
 # Ars Industrialis 2010 Manifesto (web version)
 
-**Status:** primary text. It is in the English edition at pp. 17–28 but post-dates the French book of 2006 (see [STRUCTURE.md](../STRUCTURE.md)). The English web version was read. Its footnotes are unfinished placeholders ("Cf. Vocabulaire, p…"), so it is a working draft of the translation.
+The association's English web version of the 2010 Manifesto, with the French original. The English edition prints it at pp. 17–28; it post-dates the French book of 2006 (see [STRUCTURE.md](../STRUCTURE.md)). Its footnotes are unfinished placeholders ("Cf. Vocabulaire, p…"), so it is a working draft of the translation.
 
 ## Condensed account (by numbered section)
 
@@ -41,5 +42,5 @@ covers: [2010-manifesto]
 
 ## Notes for evaluation
 
-- **Primary.** It updates the 2005 text in the vocabulary of Stiegler's 2008–2010 books: pharmacology (*Ce qui fait que la vie vaut la peine d'être vécue*, 2010), care (*Prendre soin*, 2008) and the contributory economy (*Pour une nouvelle critique de l'économie politique*, 2009). Readers should not project these 2010 concepts back onto the 2006 chapters, where **pharmakon** and **economy of contribution** are much less prominent, and in places absent. See [STRUCTURE.md](../STRUCTURE.md).
+- **Primary.** It updates the 2005 text in the vocabulary of Stiegler's 2008–2010 books: pharmacology (*Ce qui fait que la vie vaut la peine d'être vécue*, 2010), care (*Prendre soin*, 2008) and the contributory economy (*Pour une nouvelle critique de l'économie politique*, 2009). The 2006 chapters already use **pharmakon**, **contribution** and **associated milieu** (Ch. 1, pp. 36–37, 47–51); the 2010 text makes them its frame. See [STRUCTURE.md](../STRUCTURE.md).
 - The web draft's footnotes are incomplete. Use the printed Bloomsbury text for citations.

@@ -1,12 +1,17 @@
+---
+
+description: 'Cross-reference tables linking the book''s parts, its concepts, the sources and the pages where each concept appears.'
+---
+
 # Index: chapters ↔ concepts ↔ sources
 
-[README](README.md) › **Index**
+[Home](README.md) › **Index**
 
 Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · **I** [Introduction](chapters/01-introduction-what-is-to-be-done.md) · **M05** [2005 Manifesto](chapters/02-manifesto-2005.md) · **M10** [2010 Manifesto](chapters/03-manifesto-2010.md) · **C1** [Ch. 1](chapters/04-ch1-re-foundation-of-society.md) · **C2** [Ch. 2](chapters/05-ch2-against-the-reign-of-ignorance.md) · **T** [Tunis motion](chapters/06-tunis-motion.md)
 
 ## 1. Concepts × parts
 
-● = central · ○ = present · ◌ = proto-form or implicit · blank = not attested in what we could read
+● = central · ○ = present · ◌ = proto-form or implicit · blank = absent
 
 | Concept | P | I | M05 | M10 | C1 | C2 | T |
 |---|---|---|---|---|---|---|---|
@@ -34,13 +39,13 @@ Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · 
 
 | Part | Primary / precursor | Best secondary |
 |---|---|---|
-| P | [Bloomsbury preview](sources/primary-bloomsbury-preview-2014.md) | [Lyons](sources/review-lyons-critical-inquiry-2014.md) (on the preface) |
-| I | **owner's copy (pp. 1–9, notes 101–102)**, [preview](sources/primary-bloomsbury-preview-2014.md), [Tunis session presentation 2005](sources/media-arsindustrialis-presentation-tunis-seance-2005.md), [Libération diary](sources/primary-parallel-stiegler-liberation-diary-2005.md), [FR back cover](sources/review-flammarion-4e-de-couverture-2006.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md), [Charybde](sources/review-hugues-charybde27-2024.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md); context: [Medef](sources/context-medef-universite-ete-2005.md), [Le Lay](sources/context-le-lay-temps-de-cerveau-2004.md) |
+| P | [Bloomsbury front matter](sources/primary-bloomsbury-preview-2014.md) | [Lyons](sources/review-lyons-critical-inquiry-2014.md) (on the preface) |
+| I | [Bloomsbury front matter](sources/primary-bloomsbury-preview-2014.md), [Tunis session presentation 2005](sources/media-arsindustrialis-presentation-tunis-seance-2005.md), [Libération diary](sources/primary-parallel-stiegler-liberation-diary-2005.md), [FR back cover](sources/review-flammarion-4e-de-couverture-2006.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md), [Charybde](sources/review-hugues-charybde27-2024.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md); context: [Medef](sources/context-medef-universite-ete-2005.md), [Le Lay](sources/context-le-lay-temps-de-cerveau-2004.md) |
 | M05 | [2005 Manifesto](sources/primary-arsindustrialis-manifesto-2005.md), [inaugural session](sources/media-arsindustrialis-seance-inaugurale-2005.md) | [Roodt](sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md), [de Beer](sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md) |
 | M10 | [2010 Manifesto](sources/primary-arsindustrialis-manifesto-2010.md), [Economizing = care](sources/primary-parallel-stiegler-economizing-taking-care-2008.md), [Lemmens interview](sources/primary-parallel-lemmens-stiegler-interview-krisis-2011.md) | [Roodt](sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md), [Hutnyk](sources/lit-hutnyk-proletarianisation-2012.md), [Manche](sources/lit-manche-proletarianisation-not-capitalism-2021.md) |
-| C1 | **owner's copy (pp. 29–60, notes 104–108)**, [FR §3 excerpt](sources/primary-excerpt-fr-ch1-s3-homocoques.md), [Souffrance et consommation 2006](sources/media-arsindustrialis-souffrance-consommation-2006.md), [Uncontrollable societies](sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md), [April interview](sources/media-april-stiegler-interview-2011.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md) (pp. 33, 57–58), [Barker](sources/review-barker-new-formations-2012.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md) |
-| C2 | **owner's copy (pp. 61–93, notes 108–112)**, [Colline talk 2005](sources/primary-parallel-stiegler-colline-2005.md)**, [cognitive technologies 2005](sources/media-stiegler-technologies-cognitives-2005.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md) (pp. 63–92), [Barker](sources/review-barker-new-formations-2012.md) |
-| T | **owner's copy (pp. 95–100, n. 112)**, [Tunis motion](sources/primary-arsindustrialis-tunis-motion-2005.md) | [WSIS context](sources/context-wsis-tunis-2005.md), [Ars Industrialis context](sources/context-ars-industrialis-association.md) |
+| C1 | [FR §3 excerpt](sources/primary-excerpt-fr-ch1-s3-homocoques.md), [Souffrance et consommation 2006](sources/media-arsindustrialis-souffrance-consommation-2006.md), [Uncontrollable societies](sources/primary-parallel-stiegler-uncontrollable-societies-nja-2013.md), [April interview](sources/media-april-stiegler-interview-2011.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md) (pp. 33, 57–58), [Barker](sources/review-barker-new-formations-2012.md), [Holmes](sources/media-holmes-empyre-what-is-to-be-done-2007.md) |
+| C2 | **[Colline talk 2005](sources/primary-parallel-stiegler-colline-2005.md)**, [cognitive technologies 2005](sources/media-stiegler-technologies-cognitives-2005.md) | [Lotz](sources/review-lotz-marx-and-philosophy-2015.md) (pp. 63–92), [Barker](sources/review-barker-new-formations-2012.md) |
+| T | [Tunis motion](sources/primary-arsindustrialis-tunis-motion-2005.md) | [WSIS context](sources/context-wsis-tunis-2005.md), [Ars Industrialis context](sources/context-ars-industrialis-association.md) |
 
 ## 3. Concepts × sources
 
@@ -66,9 +71,11 @@ Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · 
 | technologies of spirit | [2005 Manifesto](sources/primary-arsindustrialis-manifesto-2005.md), [glossary](sources/glossary-arsindustrialis-vocabulaire-2013.md), [Economizing = care](sources/primary-parallel-stiegler-economizing-taking-care-2008.md), [cognitive technologies 2005](sources/media-stiegler-technologies-cognitives-2005.md) |
 | knowledge vs information | [Colline](sources/primary-parallel-stiegler-colline-2005.md), [Tunis presentation](sources/media-arsindustrialis-presentation-tunis-seance-2005.md), [Ross](sources/lit-ross-neganthropocene-introduction-2018.md), [MACBA podcast](sources/media-macba-sonia-285-stiegler-podcast-2019.md) |
 
-## 5. Concepts × printed pages (owner's copy)
+## 4. Concepts × pages
 
-| Concept | Pages in the printed text (pp. 1–60, notes 101–108) |
+Page references for the Introduction, the manifestos and Chapter 1 (pp. 1–60, notes pp. 101–108).
+
+| Concept | Pages |
 |---|---|
 | spirit | Intro 1–3, 5–7; 2005 M. 11; Ch. 1 33, 35, 43, 46, 55 |
 | industrial populism | Intro 1, 5–7; 2010 M. 27; Ch. 1 50 |
@@ -90,6 +97,6 @@ Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · 
 | technologies of spirit / R technologies | Intro 3, 6–7; 2005 M. 11; 2010 M. 24; Ch. 1 29, 37–38, 47, 50–52, 57 |
 | knowledge vs information | Intro 3; Ch. 1 33 (entropy), n. 12 |
 
-## 4. All source files by type
+## 5. All source files by type
 
 See [sources/EVALUATION.md](sources/EVALUATION.md) for ratings. File-name prefixes: `primary-` (book texts), `primary-parallel-` (Stiegler's contemporaneous texts), `review-` (accounts of the book), `lit-` (secondary literature), `glossary-`, `media-` (lectures, podcasts, blogs, wikis, reader reviews), `context-` (events the book presupposes).

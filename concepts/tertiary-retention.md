@@ -1,6 +1,11 @@
+---
+
+description: 'Tertiary retention: memory held outside the living being in artefacts, after Husserl''s primary and secondary retention.'
+---
+
 # Tertiary retention (*rétention tertiaire*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **tertiary retention**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **tertiary retention**
 
 ## Definition
 
@@ -8,10 +13,10 @@ Tertiary retention is memory **retained outside the living being, in artefacts**
 
 ## Where it appears
 
-The term appears **explicitly** in the Introduction's n. 2 (p. 101): the psychic apparatus distributes itself into prostheses and technical apparatuses that support "what I have elsewhere called tertiary retentions", which Ars Industrialis calls hypomnemata. *(Correction: an earlier version said the term was absent.)* Elsewhere the idea runs under other names:
+The term appears **explicitly** in the Introduction's n. 2 (p. 101): the psychic apparatus distributes itself into prostheses and technical apparatuses that support "what I have elsewhere called tertiary retentions", which Ars Industrialis calls hypomnemata. Elsewhere the idea runs under other names:
 
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) "Knowledge (*Savoir*) and information" (p. 77) and "Knowledge and memory, or reign of ignorance?" (p. 79). Memory is externalized from the human origin; living memory must project outside itself to overcome its "retentional finitude"; the **mnemotechnical → mnemotechnological** transition. "Instruments of knowledge and the criteria of selection" (p. 87): memory as retention is **selection**, and industries of memory impose selection criteria (Lotz, p. 88: memory and imagination become objects of investment).
 - [2005 Manifesto](../chapters/02-manifesto-2005.md) and [2010 Manifesto](../chapters/03-manifesto-2010.md): **hypomnemata** and "mnemotechnologies".
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) "Knowledge (*Savoir*) and information" (p. 77) and "Knowledge and memory, or reign of ignorance?" (p. 79). Memory is externalized from the human origin; living memory exceeds its "retentional finitude" by exteriorization (p. 79); the **mnemotechnical → mnemotechnological** transition. "Instruments of knowledge and the criteria of selection" (p. 87): memory as retention is **selection**, and industrializing it defines new criteria of selection (p. 88; Lotz: memory and imagination become objects of investment).
 
 ## Related terms
 
@@ -26,9 +31,4 @@ The term appears **explicitly** in the Introduction's n. 2 (p. 101): the psychic
 
 ## Disagreements
 
-- No disagreement over the definition was found.
 - **Labelled interpretation:** Ch. 2's anti-Platonic argument (writing is memory's condition, not its death) is the clearest application in the book. Its target is Michel Serres's view that externalizing memory to machines frees us for pure knowledge. For Stiegler, there is no knowledge outside its retentional supports.
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 79: living memory exceeds its "retentional finitude" by exteriorization. p. 88: memory as retention is selection, and industrializing it defines new criteria of selection.

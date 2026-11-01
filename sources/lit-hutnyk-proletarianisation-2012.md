@@ -9,9 +9,12 @@ language: en
 type: article
 concepts: [proletarianization, care, short-termism, pharmakon, transindividuation, hyperindustrial-society]
 mentions_book: no
+description: 'Hutnyk, "Proletarianisation" (2012). Secondary literature, condensed and rated for this companion.'
 ---
 
-I read the full text of the author's eprint PDF. Page numbers below follow the *New Formations* pagination printed in the eprint.
+# Hutnyk, "Proletarianisation" (2012)
+
+An article in *New Formations*. Page numbers follow the journal's pagination.
 
 ## Condensed account
 - **Proletarianization (pp. 127–129).** Hutnyk opens with Stiegler's "Within the limits of capitalism, economizing means taking care" (Ars Industrialis, n.d.). He calls Stiegler's Marxism "unorthodox" and notes that Stiegler calls proletarianisation Marx's greatest contribution. He quotes the **Ars Industrialis Manifesto 2010** definition at length (p. 128): knowledge, once formalised in a technique, machine or apparatus, "escapes" the individual. Workers lose savoir-faire. In the 20th century consumers lose savoir-vivre to devices such as the television set, which creates "available brain time" (an allusion to Le Lay). Intellectual workers of "cognitive capitalism" lose the "life of the spirit" as critical, self-formalising authority. Hutnyk observes that Stiegler's notion is both narrower than Marx and Engels's (focused on knowledge loss) and more generalised (nearly the whole middle class).

@@ -9,9 +9,12 @@ language: fr
 type: glossary
 concepts: [libidinal-economy, spirit, industrial-populism, symbolic-misery, hyperindustrial-society, tertiary-retention, grammatization, pharmakon, proletarianization, otium-negotium, care, short-termism, economy-of-contribution, associated-milieu, transindividuation]
 mentions_book: no
+description: 'Vocabulaire d''Ars Industrialis (Petit, 2013). The association''s own glossary, condensed and rated for this companion.'
 ---
 
-**Status: primary-adjacent.** Written inside the association (the page states it was drafted by Victor Petit and published in *Pharmacologie du Front National*, 2013). It is the association's own house glossary of 48 entries, so it reproduces Stiegler's positions rather than evaluating them. Read in full from the single-page version (`/vocabulaire`); individual entries live at `arsindustrialis.org/vocabulaire-<slug>`. No page numbers (web text); the entry name is given instead.
+# Vocabulaire d'Ars Industrialis (Petit, 2013)
+
+Primary-adjacent: written inside the association (the page states it was drafted by Victor Petit and published in *Pharmacologie du Front National*, 2013). It is the association's own house glossary of 48 entries, so it reproduces Stiegler's positions rather than evaluating them. The single-page version is at `/vocabulaire`; individual entries live at `arsindustrialis.org/vocabulaire-<slug>`. No page numbers (web text); the entry name is given instead.
 
 ## Condensed account (by concept)
 

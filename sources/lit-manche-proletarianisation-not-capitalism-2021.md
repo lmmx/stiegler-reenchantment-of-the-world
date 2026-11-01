@@ -9,9 +9,12 @@ language: en
 type: article
 concepts: [proletarianization, economy-of-contribution, tertiary-retention, pharmakon, short-termism]
 mentions_book: yes
+description: 'Manche, "The problem is proletarianisation, not capitalism" (2021). Secondary literature, condensed and rated for this companion.'
 ---
 
-I read the full open-access web text through a fetch-and-summarise tool. The web version has no internal page numbers, so references below use the article's note numbers.
+# Manche, "The problem is proletarianisation, not capitalism" (2021)
+
+An open-access article in *Radical Philosophy*. The web version has no internal page numbers, so references below use the article's note numbers.
 
 ## Condensed account
 - **Proletarianization.** Manche treats it as a "noetic" process, a generalised loss of knowledge that amounts to "becoming stupid". Stiegler introduces the term in *Technics and Time 3* and develops it from *Symbolic Misery* (2004) onward into a three-part loss: savoir-faire, savoir-vivre and savoir-théoriser. She lists *Réenchanter le monde* (2006) among the works that develop it. The three losses map onto three eras (19th-century industrial capitalism, 20th-century Fordist consumerism, and today's digital/automatic paradigm) and are cumulative. Proletarianisation occurs when the cycle of exteriorising and reinteriorising knowledge breaks (note 30 quotes *Automatic Society*: "exteriorization without return").

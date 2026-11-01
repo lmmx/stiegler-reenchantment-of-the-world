@@ -1,6 +1,11 @@
+---
+
+description: 'Knowledge against information: why Chapter 2 calls information entropic and knowledge negentropic.'
+---
+
 # Knowledge vs information (*savoir* / *information*); entropy and negentropy
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **knowledge vs information**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **knowledge vs information**
 
 ## Definition (the book's usage)
 
@@ -8,10 +13,10 @@ The central distinction of [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignor
 
 ## Where it appears
 
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) "Knowledge (*Savoir*) and information" (p. 77), "Knowledge and memory, or reign of ignorance?" (p. 79), "Cognitive saturation and 'knowledge management'" (p. 83). Lotz cites p. 23 for knowledge reduced to "controllable, calculative" information, though that page falls in the 2010 Manifesto.
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) §3: capitalism liquidates knowledge and produces **entropy** and disgust. Individuation is **negentropic** (footnote definition).
-- [Tunis motion](../chapters/06-tunis-motion.md): knowledge is essentially "shared and shareable".
 - [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 3: can there be "knowledge without spirit"?
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) §3: capitalism tends "to produce entropy and distaste" and liquidates knowledge (p. 33). N. 12: negentropy fights entropy, "the equalization and indifferentiation of all things", and individuation is essentially negentropic.
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md): adaptation is "deeply entropic" (p. 67). Knowledge is critique and therefore "intrinsically contradictory to adaptation" (p. 72). "Knowledge (*Savoir*) and information" (p. 77) and "Knowledge and memory, or reign of ignorance?" (p. 79): information as commodity is "in its essence entropic"; knowledge is "in its essence negentropic", intensifying (Kant, Thom) and constituting "the time of existence" (pp. 77–79). "Cognitive saturation and 'knowledge management'" (p. 83). Lotz cites p. 23 for knowledge reduced to "controllable, calculative" information, though that page falls in the 2010 Manifesto.
+- [Tunis motion](../chapters/06-tunis-motion.md): knowledge is essentially "shared and shareable".
 
 ## Related terms
 
@@ -25,9 +30,4 @@ The central distinction of [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignor
 
 ## Disagreements
 
-- **Labelled interpretation:** the thermodynamic vocabulary is asserted rather than derived in Ch. 2. Information theory's sense of entropy (Shannon) differs from the economic "decay of value" the chapter has in mind. Stiegler's later work (*The Neganthropocene*, 2018) tries to make the analogy rigorous through Schrödinger, Lotka and Georgescu-Roegen. No source we found offers a critique of the 2006 formulation itself.
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 33: capitalism tends "to produce entropy and distaste"; n. 12: negentropy fights entropy, "the equalization and indifferentiation of all things", and individuation is essentially negentropic.
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) pp. 77–79 (printed text): information as commodity is "in its essence entropic"; knowledge "in its essence negentropic", intensifying (Kant, Thom) and constituting "the time of existence". p. 72: knowledge is critique and therefore "intrinsically contradictory to adaptation". p. 67: adaptation is "deeply entropic".
+- **Labelled interpretation:** the thermodynamic vocabulary is asserted rather than derived in Ch. 2. Information theory's sense of entropy (Shannon) differs from the economic "decay of value" the chapter has in mind. Stiegler's later work (*The Neganthropocene*, 2018) tries to make the analogy rigorous through Schrödinger, Lotka and Georgescu-Roegen.

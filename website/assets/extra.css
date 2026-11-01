@@ -1,0 +1,306 @@
+/* The companion's look: the green of the book's cover, used sparingly (the header rule,
+   links, headings' accents, the home page's cover), on a warm paper ground; Source Serif 4
+   for reading, Fraunces for headings, Inter for the interface. Fonts: main.html. */
+
+:root {
+  --rew-serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+  --rew-display: "Fraunces", "Source Serif 4", Georgia, serif;
+}
+
+/* Light: deep cover green on paper */
+:root > *,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1d5640;
+  --md-primary-fg-color--light: #2f7a5a;
+  --md-primary-fg-color--dark: #123a2b;
+  --md-primary-bg-color: #fbfaf5;
+  --md-accent-fg-color: #2f8a62;
+  --md-accent-fg-color--transparent: rgba(47, 138, 98, 0.1);
+  --md-default-bg-color: #fbfaf5;
+  --md-default-fg-color: #1a2420;
+  --md-default-fg-color--light: #4c5a53;
+  --md-default-fg-color--lighter: #8a958f;
+  --md-default-fg-color--lightest: #e3e6dc;
+  --md-typeset-color: #1f2a25;
+  --md-typeset-a-color: #1f6a4a;
+  --md-code-bg-color: #f1f2ea;
+  --md-footer-bg-color: #12301f;
+  --md-footer-bg-color--dark: #0d2417;
+  --rew-ink: #142a20;
+  --rew-tint: #eef3ec;
+  --rew-tint-strong: #dfe9df;
+  --rew-rule: #d9ded2;
+  --rew-hero-bg: #173f2f;
+  --rew-hero-fg: #f3efe2;
+  --rew-hero-muted: #b9cbbd;
+  --rew-gold: #c9b37a;
+}
+
+/* Dark: the same green, at night */
+[data-md-color-scheme="slate"] {
+  --md-hue: 150;
+  --md-primary-fg-color: #8fd0ad;
+  --md-primary-fg-color--light: #aee0c4;
+  --md-primary-fg-color--dark: #6fb592;
+  --md-primary-bg-color: #0f1714;
+  --md-accent-fg-color: #b4e6c9;
+  --md-accent-fg-color--transparent: rgba(143, 208, 173, 0.12);
+  --md-default-bg-color: #0f1714;
+  --md-default-fg-color: #e2e8e3;
+  --md-default-fg-color--light: #a9b6ae;
+  --md-default-fg-color--lighter: #6f7d75;
+  --md-default-fg-color--lightest: #24302a;
+  --md-typeset-color: #dbe3dd;
+  --md-typeset-a-color: #8fd0ad;
+  --md-code-bg-color: #17221d;
+  --md-footer-bg-color: #0b120f;
+  --md-footer-bg-color--dark: #070d0a;
+  --rew-ink: #d6ecdf;
+  --rew-tint: #15211b;
+  --rew-tint-strong: #1b2b23;
+  --rew-rule: #26332c;
+  --rew-hero-bg: #12281e;
+  --rew-hero-fg: #efeadb;
+  --rew-hero-muted: #9fb8a8;
+  --rew-gold: #cdb880;
+}
+
+body { background-color: var(--md-default-bg-color); }
+
+/* Header: a hairline of green beneath; the site name set in Fraunces */
+.md-header {
+  background-color: color-mix(in srgb, var(--md-default-bg-color) 86%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 45%, var(--rew-rule));
+  box-shadow: none;
+}
+.md-header__topic:first-child .md-ellipsis {
+  font-family: var(--rew-display);
+  font-weight: 560;
+  letter-spacing: -0.01em;
+  font-variation-settings: "opsz" 36;
+}
+.md-header__button.md-logo { color: var(--md-primary-fg-color); }
+
+/* Reading text */
+.md-typeset {
+  font-family: var(--rew-serif);
+  font-size: 0.86rem;
+  line-height: 1.7;
+  font-variation-settings: "opsz" 18;
+  font-feature-settings: "kern", "liga", "onum";
+}
+.md-typeset table, .md-typeset code, .md-typeset kbd { font-feature-settings: "kern", "lnum", "tnum"; }
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
+  font-family: var(--rew-display);
+  color: var(--rew-ink);
+  letter-spacing: -0.012em;
+}
+.md-typeset h1 {
+  font-size: 2.05rem;
+  font-weight: 500;
+  line-height: 1.15;
+  margin-bottom: 0.9rem;
+  font-variation-settings: "opsz" 96;
+}
+.md-typeset h1 em { font-weight: 400; }
+.md-typeset h2 {
+  font-size: 1.32rem;
+  font-weight: 560;
+  margin-top: 2.4em;
+  padding-top: 0.9em;
+  border-top: 1px solid var(--rew-rule);
+  font-variation-settings: "opsz" 48;
+}
+.md-typeset h3 { font-size: 1.06rem; font-weight: 600; }
+.md-typeset h2::before {
+  content: "";
+  display: block;
+  width: 2.2rem;
+  height: 3px;
+  margin: -0.95em 0 0.75em;
+  background: var(--md-primary-fg-color);
+  border-radius: 2px;
+  transform: translateY(-1px);
+}
+
+/* The breadcrumb line under each page title, set small in the interface face */
+.md-typeset h1 + p {
+  font-family: var(--md-text-font-family);
+  font-size: 0.7rem;
+  line-height: 1.6;
+  color: var(--md-default-fg-color--light);
+  margin-top: -0.2rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px dashed var(--rew-rule);
+}
+
+/* Links: green, underlined lightly, darker on hover */
+.md-typeset a {
+  color: var(--md-typeset-a-color);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--md-typeset-a-color) 35%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+.md-typeset a:hover, .md-typeset a:focus {
+  color: var(--md-accent-fg-color);
+  text-decoration-color: currentColor;
+}
+.md-typeset .headerlink { text-decoration: none; }
+
+.md-typeset strong { color: var(--rew-ink); font-weight: 650; }
+
+/* Blockquotes (each page's basis and confidence note): a quiet green card */
+.md-typeset blockquote {
+  margin: 1.2em 0 1.6em;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--md-primary-fg-color);
+  border-radius: 0 0.4rem 0.4rem 0;
+  background: var(--rew-tint);
+  color: var(--md-typeset-color);
+  font-size: 0.8rem;
+}
+.md-typeset blockquote > :first-child { margin-top: 0; }
+.md-typeset blockquote > :last-child { margin-bottom: 0; }
+
+/* Tables: full width, light rules, a tinted header in small capitals */
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+  font-size: 0.74rem;
+  border: 1px solid var(--rew-rule);
+  border-radius: 0.45rem;
+  overflow: hidden;
+  box-shadow: none;
+}
+.md-typeset table:not([class]) th {
+  font-family: var(--md-text-font-family);
+  font-size: 0.64rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--md-primary-fg-color);
+  background: var(--rew-tint);
+  border-bottom: 1px solid var(--rew-rule);
+}
+.md-typeset table:not([class]) td { border-top: 1px solid var(--rew-rule); vertical-align: top; }
+.md-typeset table:not([class]) tbody tr:hover { background: color-mix(in srgb, var(--rew-tint) 60%, transparent); }
+
+.md-typeset hr { border-bottom-color: var(--rew-rule); }
+.md-typeset code { border-radius: 0.25rem; }
+.md-typeset ::selection, ::selection { background: color-mix(in srgb, var(--md-accent-fg-color) 25%, transparent); }
+
+/* Navigation: the current page marked by a green bar */
+.md-nav { font-size: 0.68rem; }
+.md-nav__item--section > .md-nav__link,
+.md-nav__item--section > label.md-nav__link {
+  font-family: var(--md-text-font-family);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+}
+.md-nav__link--active, .md-nav__link--active:hover { color: var(--md-primary-fg-color); font-weight: 600; }
+.md-sidebar--primary .md-nav__link--active { position: relative; }
+.md-sidebar--primary .md-nav__link--active::before {
+  content: "";
+  position: absolute;
+  left: -0.6rem;
+  top: 0.15em;
+  bottom: 0.15em;
+  width: 2px;
+  border-radius: 2px;
+  background: var(--md-primary-fg-color);
+}
+.md-nav__link:hover { color: var(--md-accent-fg-color); }
+
+/* Footer */
+.md-footer-meta { font-size: 0.64rem; }
+.md-footer__title { font-family: var(--rew-display); }
+
+/* The home page: the cover-like hero (main.html), and README.md's heading and citation
+   line hidden, since the hero sets them */
+.rew-hero {
+  position: relative;
+  overflow: hidden;
+  color: var(--rew-hero-fg);
+  background:
+    radial-gradient(120% 140% at 85% -20%, rgba(255, 255, 255, 0.09), transparent 55%),
+    radial-gradient(90% 120% at 0% 120%, rgba(0, 0, 0, 0.25), transparent 60%),
+    var(--rew-hero-bg);
+  border-bottom: 1px solid var(--rew-rule);
+}
+.rew-hero::after {
+  /* a fine double rule along the foot, as on a cloth binding */
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 10px;
+  height: 4px;
+  border-top: 1px solid color-mix(in srgb, var(--rew-gold) 55%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--rew-gold) 30%, transparent);
+}
+.rew-hero__inner { padding: 3.6rem 1.2rem 3.4rem; }
+.rew-hero__eyebrow {
+  margin: 0 0 1rem;
+  font-size: 0.66rem;
+  font-weight: 650;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--rew-gold);
+}
+.rew-hero__title {
+  margin: 0;
+  max-width: 18ch;
+  font-family: var(--rew-display);
+  font-size: clamp(2.1rem, 5.2vw, 3.4rem);
+  font-weight: 420;
+  line-height: 1.04;
+  letter-spacing: -0.02em;
+  font-variation-settings: "opsz" 144, "SOFT" 30;
+  color: var(--rew-hero-fg);
+}
+.rew-hero__subtitle {
+  margin: 0.7rem 0 0;
+  font-family: var(--rew-display);
+  font-style: italic;
+  font-weight: 350;
+  font-size: clamp(1.05rem, 2.2vw, 1.35rem);
+  color: var(--rew-hero-fg);
+  opacity: 0.92;
+}
+.rew-hero__byline {
+  margin: 1.4rem 0 0;
+  font-size: 0.72rem;
+  line-height: 1.6;
+  color: var(--rew-hero-muted);
+}
+.rew-hero__links { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.8rem; }
+.rew-hero__button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 999px;
+  color: var(--rew-hero-fg);
+  border: 1px solid color-mix(in srgb, var(--rew-hero-fg) 35%, transparent);
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.rew-hero__button:hover, .rew-hero__button:focus {
+  color: var(--rew-hero-fg);
+  border-color: var(--rew-hero-fg);
+  background: rgba(255, 255, 255, 0.08);
+}
+.rew-hero__button--primary { background: var(--rew-hero-fg); color: var(--rew-hero-bg); border-color: var(--rew-hero-fg); }
+.rew-hero__button--primary:hover, .rew-hero__button--primary:focus { background: #ffffff; color: var(--rew-hero-bg); }
+
+.rew-home > h1:first-of-type,
+.rew-home > h1:first-of-type + p { display: none; }
+.rew-home > h2:first-of-type { border-top: 0; margin-top: 0.4em; }
+
+@media screen and (max-width: 44.9375em) {
+  .rew-hero__inner { padding: 2.4rem 0.8rem 2.6rem; }
+  .md-typeset h1 { font-size: 1.7rem; }
+}

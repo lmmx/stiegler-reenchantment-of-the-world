@@ -1,18 +1,19 @@
 ---
-title: "Le véritable enjeu du Sommet de Tunis" (motion published in Libération, 14 November 2005)
-author: George Collins, Marc Crépon, Catherine Perret, Bernard Stiegler, Caroline Stiegler (founders of Ars Industrialis)
-venue: arsindustrialis.org (node/2126); originally Libération
-date: 2005-11-14
-url: https://arsindustrialis.org/node/2126
-accessed: 2026-11-01
-language: fr
-type: primary (French original of "A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit — The true stakes of the Tunis summit", English edition pp. 95–100)
-covers: [tunis-motion]
+title: '"Le véritable enjeu du Sommet de Tunis" (motion published in Libération, 14 November 2005)'
+author: 'George Collins, Marc Crépon, Catherine Perret, Bernard Stiegler, Caroline Stiegler (founders of Ars Industrialis)'
+venue: 'arsindustrialis.org (node/2126); originally Libération'
+date: '2005-11-14'
+url: 'https://arsindustrialis.org/node/2126'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'primary (French original of "A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit — The true stakes of the Tunis summit", English edition pp. 95–100)'
+covers: ['tunis-motion']
+description: 'The Tunis motion (French original). Primary text, condensed and rated for this companion.'
 ---
 
 # The Tunis motion (French original)
 
-**Status:** primary. **Excerpt only**: per the book's Introduction (p. 9) and the motion's n. 1 (p. 112), *Libération* published part of it and the book prints the complete motion (pp. 95–100; FR p. 163). The printed version adds the intellectual-property argument, numbered points, three conditions, Porto Alegre, the FCC model, Reding and the French government; see [chapters/06](../chapters/06-tunis-motion.md). The book's subheading "The true stakes of the Tunis summit" (p. 95) translates this page's title. It was published two days before the WSIS second phase (Tunis, 16–18 Nov 2005). The book version may differ slightly. Perlego's preview of p. 93 shows the book's closing phrases, close to this text's call for "a new summit" preceded by "a far-reaching debate" and its ending on "the spirit of Europe". Those phrases suggest the printed version is somewhat expanded.
+The French text of the motion as *Libération* printed it on 14 November 2005, two days before the WSIS second phase (Tunis, 16–18 Nov 2005). It is an **excerpt**: per the book's Introduction (p. 9) and the motion's n. 1 (p. 112), *Libération* published part of it, and the book prints the complete motion (pp. 95–100; FR p. 163), roughly twice as long. The printed version adds the intellectual-property argument, numbered points, three conditions, Porto Alegre, the FCC model, Reding and the French government; see [chapters/06](../chapters/06-tunis-motion.md). The book's subheading "The true stakes of the Tunis summit" (p. 95) translates this page's title.
 
 ## Condensed account
 

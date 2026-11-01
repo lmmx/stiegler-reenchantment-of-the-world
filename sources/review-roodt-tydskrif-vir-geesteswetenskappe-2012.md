@@ -8,11 +8,12 @@ accessed: 2026-11-01
 language: af (English abstract)
 type: review
 covers: [2005-manifesto, 2010-manifesto]
+description: 'Roodt, Tydskrif vir Geesteswetenskappe (2012). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Roodt, Tydskrif vir Geesteswetenskappe (2012)
 
-This is a critical article on the **Ars Industrialis manifestos**, which appear in the book as the "Ars Industrialis 2005 Manifesto" (EN p. 11) and the "2010 Manifesto" (EN p. 17). It does **not** cite *Réenchanter le monde* itself: it uses the web versions of the manifestos (2008 English translation and 2010). It is included because it is the most sustained critique found of the manifestos' key concept. I read the full open-access PDF.
+This is a critical article on the **Ars Industrialis manifestos**, which appear in the book as the "Ars Industrialis 2005 Manifesto" (EN p. 11) and the "2010 Manifesto" (EN p. 17). It does **not** cite *Réenchanter le monde* itself: it uses the web versions of the manifestos (2008 English translation and 2010). It is included because it is the most sustained critique found of the manifestos' key concept.
 
 ## Condensed account
 1. **The claim she examines.** The founding manifesto commits members to an "industrial politics of spirit". Its opening makes clear that "spirit" refers to Hannah Arendt's "life of the mind", which it says is under worldwide threat. Stiegler also calls his own project "a struggle for the life of the spirit" (citing *Mécréance et discrédit* 3, p. 120).

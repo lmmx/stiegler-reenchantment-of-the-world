@@ -9,9 +9,12 @@ language: en
 type: article
 concepts: [spirit, care, pharmakon, otium-negotium, transindividuation]
 mentions_book: no
+description: 'Cohen, "Dare to Care" (2017). Secondary literature, condensed and rated for this companion.'
 ---
 
-I read the author-posted PDF of the published version, mainly the opening sections (pp. 149–153) and the conclusion (pp. 164–166), and skimmed the middle on Foucault's *epimeleia*.
+# Cohen, "Dare to Care" (2017)
+
+An article in the *boundary 2* Stiegler special issue. Page numbers are the journal's.
 
 ## Condensed account
 - **Spirit / Valéry (pp. 150–152).** Cohen reads the phrase "the life of the spirit" as a sign of Stiegler's admiration for Valéry, especially "La liberté de l'esprit" (1939), "to which Stiegler regularly returns". In Valéry, spirit is a "bizarrerie" that estranges humans from the "initial and normal conditions of life". Cohen recasts this in Simondonian and Leroi-Gourhanian terms: the life of the spirit emerges transductively when technical exteriorisation opens the possibility of a psychic *and* collective individuation. He cites the **Ars Industrialis glossary entry "Esprit"** (as "Stiegler 2014b") for the claim that the "and" designates spirit. He adds Simondon's definition of "spirituality" as respect for the relation between the individual and the preindividual (*L'individuation psychique et collective*, pp. 105–6).

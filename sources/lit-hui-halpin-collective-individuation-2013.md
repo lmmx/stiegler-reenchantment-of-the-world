@@ -9,9 +9,12 @@ language: en
 type: chapter
 concepts: [transindividuation, associated-milieu, pharmakon, libidinal-economy, economy-of-contribution]
 mentions_book: no
+description: 'Hui and Halpin, "Collective Individuation" (2013). Secondary literature, condensed and rated for this companion.'
 ---
 
-I read the full text of the author-posted PDF. Page numbers follow the printed reader pages shown in the PDF; the opening pages are approximate. The work came out of the authors' research at IRI (Institut de recherche et d'innovation, Centre Pompidou), which Stiegler directed.
+# Hui and Halpin, "Collective Individuation" (2013)
+
+A chapter in the *Unlike Us Reader*. Page numbers follow the reader's pagination. The work came out of the authors' research at IRI (Institut de recherche et d'innovation, Centre Pompidou), which Stiegler directed.
 
 ## Condensed account
 - **Social networks as atomism (pp. 104–108).** The "social graph" ontology of nodes and links goes back to Moreno's sociometry in the 1930s. Digital platforms such as Facebook industrialise social relationships by treating users as "social atoms" optimised for marketing data. Time and attention are "chopped into smaller pieces". No group is formed through a common project that would invest "attention, libidinal energy, and time". Following Stiegler (*États de choc*), such atoms are "disindividuals" (p. 108).

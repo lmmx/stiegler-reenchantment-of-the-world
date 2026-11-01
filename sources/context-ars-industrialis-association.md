@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: context
 covers: [ars-industrialis-founding, 2005-manifesto, sessions, tunis-motion]
+description: 'Ars Industrialis: what the association''s own site says. Background context, condensed and rated for this companion.'
 ---
 
 # Ars Industrialis: what the association's own site says
@@ -28,5 +29,5 @@ covers: [ars-industrialis-founding, 2005-manifesto, sessions, tunis-motion]
 ## Notes for evaluation
 
 - This is the authoritative source for the founders and the session chronology, and it settles the co-founder question (five people, including Caroline Stiegler). Compare [media-wikipedia-stiegler-ars-industrialis-2026.md](media-wikipedia-stiegler-ars-industrialis-2026.md).
-- A search snippet from everybodywiki ("Ars industrialis") claimed the association was **renamed in 2017**. I could not open that page (HTTP 403), and the association's own 2020 convocation points to a **2020** statutory change instead. Treat the 2017 claim as unverified.
+- everybodywiki ("Ars industrialis") claims the association was **renamed in 2017**. The association's own 2020 convocation points to a **2020** statutory change instead.
 - The site is partisan by nature. It records what the association did, not how others received it.

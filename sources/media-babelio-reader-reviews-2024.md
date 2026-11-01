@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: reader-review
 covers: [introduction, valeur-esprit, desire, television]
+description: 'Babelio reader reception. Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Babelio reader reception

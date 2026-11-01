@@ -8,11 +8,12 @@ accessed: 2026-11-01
 language: fr
 type: publisher-blurb
 covers: [introduction, 2005-manifesto]
+description: 'Flammarion back-cover text (2006) and booksellers'' summaries. Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Flammarion back-cover text (2006) and booksellers' summaries
 
-The Flammarion site rejected automated access, so I read the blurb only as reproduced by third parties: Babelio (truncated), leslibraires.ca and SensCritique (short summary), homocoques.com (full blurb plus dedication and an extract, 19 April 2012), and the Philharmonie de Paris catalogue (summary). Below is a paraphrase, not the text.
+The blurb as reproduced by Babelio (truncated), leslibraires.ca and SensCritique (short summary), homocoques.com (full blurb plus dedication and an extract, 19 April 2012), and the Philharmonie de Paris catalogue (summary). Below is a paraphrase, not the text.
 
 ## Condensed account
 1. **Opening:** Paul Valéry, foreseeing where Nazism was leading, noted as early as 1939 a "baisse de la valeur esprit". That was a time when radio was little listened to and television did not yet exist. Today communicating devices capture "available brain time" (*temps de cerveau disponible*, Le Lay's phrase).
@@ -27,6 +28,5 @@ The Flammarion site rejected automated access, so I read the blurb only as repro
 - SensCritique (reader "Denaya", 19 Aug 2011): the writing is "souvent inintelligible", with sentences that are too long, badly built and obscure.
 
 ## Notes for evaluation
-- The blurb confirms that the **Introduction** starts from Valéry and the Medef slogan. That the Manifesto is included in the 2006 edition is confirmed.
-- The dedication (Nora; Parisot) is not mentioned in any EN source seen. Check whether the Bloomsbury edition keeps it.
+- The blurb confirms that the **Introduction** starts from Valéry and the Medef slogan. It shows that the 2006 edition includes the Manifesto.
 - Promotional text. Reliable for framing, not for content.

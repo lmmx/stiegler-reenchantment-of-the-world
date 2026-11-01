@@ -8,11 +8,12 @@ accessed: 2026-11-01
 language: fr
 type: review
 covers: [introduction, ch1, ch2]
+description: 'Cherrier, lelitteraire.com (2012). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Cherrier, lelitteraire.com (2012)
 
-A short French web review of the 2006 Flammarion edition (172 pp., €12). Read in full via fetch.
+A short French web review of the 2006 Flammarion edition (172 pp., €12).
 
 ## Condensed account
 1. Opens with Valéry's 1939 remark, made as Nazism advanced, on a "baisse de la valeur esprit".

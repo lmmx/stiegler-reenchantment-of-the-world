@@ -1,18 +1,19 @@
 ---
-title: "Bernard Stiegler" (English and French Wikipedia): Ars Industrialis and Réenchanter le monde entries; plus French Wikipedia "Temps de cerveau humain disponible"
-author: Wikipedia contributors
-venue: en.wikipedia.org; fr.wikipedia.org
-date: as accessed 2026-11-01
-url: https://en.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Temps_de_cerveau_humain_disponible
-accessed: 2026-11-01
-language: en, fr
-type: wiki
-covers: [ars-industrialis-founding, bibliography, le-lay]
+title: '"Bernard Stiegler" (English and French Wikipedia): Ars Industrialis and Réenchanter le monde entries; plus French Wikipedia "Temps de cerveau humain disponible"'
+author: 'Wikipedia contributors'
+venue: 'en.wikipedia.org; fr.wikipedia.org'
+date: 'as accessed 2026-11-01'
+url: 'https://en.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Temps_de_cerveau_humain_disponible'
+accessed: '2026-11-01'
+language: 'en, fr'
+type: 'wiki'
+covers: ['ars-industrialis-founding', 'bibliography', 'le-lay']
+description: 'Wikipedia coverage. Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Wikipedia coverage
 
-**Is there a dedicated article?** No. I found no standalone Wikipedia article on **Ars Industrialis** or on the **book**: fr.wikipedia "Ars_Industrialis" and "Ars_industrialis" return 404, and none surfaced in English searches. An "everybodywiki" page, a host for articles deleted from Wikipedia, exists but blocked access (403). The association and the book are covered only inside the Stiegler biographies.
+**Is there a dedicated article?** No. Neither **Ars Industrialis** nor the **book** has a standalone Wikipedia article. Both are covered inside the Stiegler biographies.
 
 ## Condensed account
 

@@ -1,13 +1,14 @@
 ---
-title: "Fiche pédagogique : Le temps de cerveau disponible" (teaching sheet for the 2010 documentary by Christophe Nick and Jean-Robert Viallet)
-author: unsigned (Swiss education resources, plandetudes.ch / BDPER)
-venue: bdper.plandetudes.ch
-date: 2010-08 (file modified 2010-08-20)
-url: https://bdper.plandetudes.ch/uploads/ressources/3474/DP_temps_cerveau_disponible.pdf
-accessed: 2026-11-01
-language: fr
-type: syllabus
-covers: [le-lay, industrial-populism, television, drives]
+title: '"Fiche pédagogique : Le temps de cerveau disponible" (teaching sheet for the 2010 documentary by Christophe Nick and Jean-Robert Viallet)'
+author: 'unsigned (Swiss education resources, plandetudes.ch / BDPER)'
+venue: 'bdper.plandetudes.ch'
+date: '2010-08 (file modified 2010-08-20)'
+url: 'https://bdper.plandetudes.ch/uploads/ressources/3474/DP_temps_cerveau_disponible.pdf'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'syllabus'
+covers: ['le-lay', 'industrial-populism', 'television', 'drives']
+description: 'Swiss teaching sheet on Le Temps de cerveau disponible (2010). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Swiss teaching sheet on *Le Temps de cerveau disponible* (2010)
@@ -24,4 +25,3 @@ A teaching guide for upper-secondary and teacher-training use. It covers the 57-
 
 - This is evidence of the **pedagogical afterlife** of the Le Lay and Stiegler pairing. The "available brain time" critique reached schools via the documentary, not via *Réenchanter le monde* itself, which the sheet does not cite.
 - It is accurate on the Le Lay source (interview in *Les dirigeants face au changement*). It relies on Acrimed.
-- I read it via text extraction of the PDF. The layout is multi-column, so a few sentence joins may be imperfect.
