@@ -161,9 +161,9 @@ features = [
   "search.suggest",
   "toc.follow",
 ]
-# Inter for the interface; the reading text, headings and code are set in
-# website/assets/extra.css (Source Serif 4, Fraunces, JetBrains Mono).
-font.text = "Inter"
+# Barlow for text and Barlow Condensed for headings; both
+# are loaded by website/overrides/main.html and set in website/assets/extra.css.
+font.text = "Barlow"
 font.code = "JetBrains Mono"
 language = "en"
 variant = "modern"

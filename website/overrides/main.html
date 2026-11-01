@@ -18,7 +18,7 @@
   <meta name="twitter:description" content="{{ og_description }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..600&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..600&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;0,900;1,600;1,700&display=swap">
 {% endblock %}
 
 {#- The home page opens on the book's title, set like a cover; README.md's own heading and
@@ -26,9 +26,57 @@
 {% block hero %}
   {%- if page and (page.is_homepage or page.url in ['', '.', './']) %}
   <section class="rew-hero" aria-label="{{ config.site_name }}">
+    {#- The painting: washes and squares of green, and a block arrow rising through them
+        at a slant, all with a faded, stone-washed texture: two turbulence noises, one
+        blotchy and one fine, used as a mask, and a displacement for the ragged edges. -#}
+    <svg class="rew-hero__art" viewBox="0 0 640 520" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+      <defs>
+        <filter id="rew-stone" x="-20%" y="-20%" width="140%" height="140%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="4" seed="7" result="blot"/>
+          <feColorMatrix in="blot" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.7 1.55" result="fade"/>
+          <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="2" result="speck"/>
+          <feColorMatrix in="speck" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.2 1.4" result="grain"/>
+          <feComposite in="fade" in2="grain" operator="arithmetic" k1="1" result="mask"/>
+          <feComposite in="SourceGraphic" in2="mask" operator="in" result="washed"/>
+          <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" seed="3" result="warp"/>
+          <feDisplacementMap in="washed" in2="warp" scale="10" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+        <filter id="rew-stone-solid" x="-20%" y="-20%" width="140%" height="140%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.014" numOctaves="4" seed="21" result="blot"/>
+          <feColorMatrix in="blot" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.1 1.5" result="fade"/>
+          <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="5" result="speck"/>
+          <feColorMatrix in="speck" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -0.9 1.35" result="grain"/>
+          <feComposite in="fade" in2="grain" operator="arithmetic" k1="1" result="mask"/>
+          <feComposite in="SourceGraphic" in2="mask" operator="in" result="washed"/>
+          <feTurbulence type="fractalNoise" baseFrequency="0.025" numOctaves="2" seed="13" result="warp"/>
+          <feDisplacementMap in="washed" in2="warp" scale="8" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+      </defs>
+      <g class="rew-hero__washes" filter="url(#rew-stone)" fill="none" stroke-linecap="round">
+        <path class="w1" d="M 40 560 C 180 380, 330 300, 690 120" stroke="#a8d80f" stroke-width="170"/>
+        <path class="w2" d="M 160 600 C 300 430, 420 380, 700 330" stroke="#23c26b" stroke-width="90" opacity="0.85"/>
+        <path class="w3" d="M 260 -40 C 360 120, 470 160, 700 60" stroke="#d6f55a" stroke-width="80" opacity="0.8"/>
+        <path class="w4" d="M 330 520 C 420 420, 520 330, 660 260" stroke="#0e130c" stroke-width="60" opacity="0.45"/>
+        <path class="w5" d="M 120 120 C 220 150, 300 110, 420 40" stroke="#5fae1c" stroke-width="44" opacity="0.7"/>
+      </g>
+      <g class="rew-hero__squares" filter="url(#rew-stone)">
+        <rect x="150" y="70" width="104" height="104" transform="rotate(14 202 122)" fill="#23c26b" opacity="0.8"/>
+        <rect x="560" y="28" width="62" height="62" transform="rotate(22 591 59)" fill="#a8d80f"/>
+        <rect x="236" y="188" width="54" height="54" transform="rotate(-12 263 215)" fill="none" stroke="#ecff9a" stroke-width="7"/>
+        <rect x="300" y="390" width="78" height="78" transform="rotate(30 339 429)" fill="#0e130c" opacity="0.55"/>
+        <rect x="548" y="344" width="92" height="92" transform="rotate(-9 594 390)" fill="#d6f55a" opacity="0.85"/>
+        <rect x="470" y="232" width="34" height="34" transform="rotate(40 487 249)" fill="#23c26b"/>
+      </g>
+      <g class="rew-hero__arrow">
+        <g transform="rotate(18 482 330)" filter="url(#rew-stone-solid)">
+          <path d="M 432 560 L 432 250 L 362 250 L 482 96 L 602 250 L 532 250 L 532 560 Z" fill="#0e130c" opacity="0.5" transform="translate(16 14)"/>
+          <path d="M 432 560 L 432 250 L 362 250 L 482 96 L 602 250 L 532 250 L 532 560 Z" fill="#ecff9a"/>
+        </g>
+      </g>
+    </svg>
     <div class="rew-hero__inner md-grid">
       <p class="rew-hero__eyebrow">A study companion</p>
-      <h1 class="rew-hero__title">The Re-Enchantment of the World</h1>
+      <h1 class="rew-hero__title">The <span>Re-Enchantment</span><br>of the World</h1>
       <p class="rew-hero__subtitle">The Value of Spirit against Industrial Populism</p>
       <p class="rew-hero__byline">Bernard Stiegler &amp; Ars Industrialis · <i>Réenchanter le monde</i>, Flammarion 2006 · trans. Trevor Arthur, Bloomsbury 2014</p>
       <nav class="rew-hero__links" aria-label="Start reading">
