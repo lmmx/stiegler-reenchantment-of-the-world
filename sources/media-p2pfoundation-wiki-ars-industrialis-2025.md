@@ -1,13 +1,14 @@
 ---
-title: "Ars Industrialis" (P2P Foundation wiki)
-author: P2P Foundation wiki editors (text explicitly "Via Deepseek")
-venue: wiki.p2pfoundation.net
-date: n.d. (AI-generated section; probably 2025)
-url: https://wiki.p2pfoundation.net/Ars_Industrialis
-accessed: 2026-11-01
-language: en
-type: wiki
-covers: [ars-industrialis-founding, 2005-manifesto, 2010-manifesto, psychopower, pharmakon, proletarianization, economy-of-contribution, wikipedia]
+title: '"Ars Industrialis" (P2P Foundation wiki)'
+author: 'P2P Foundation wiki editors (text explicitly "Via Deepseek")'
+venue: 'wiki.p2pfoundation.net'
+date: 'n.d. (AI-generated section; probably 2025)'
+url: 'https://wiki.p2pfoundation.net/Ars_Industrialis'
+accessed: '2026-11-01'
+language: 'en'
+type: 'wiki'
+covers: ['ars-industrialis-founding', '2005-manifesto', '2010-manifesto', 'psychopower', 'pharmakon', 'proletarianization', 'economy-of-contribution', 'wikipedia']
+description: 'P2P Foundation wiki: "Ars Industrialis". Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # P2P Foundation wiki: "Ars Industrialis"

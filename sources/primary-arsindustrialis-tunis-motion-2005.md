@@ -1,13 +1,14 @@
 ---
-title: "Le véritable enjeu du Sommet de Tunis" (motion published in Libération, 14 November 2005)
-author: George Collins, Marc Crépon, Catherine Perret, Bernard Stiegler, Caroline Stiegler (founders of Ars Industrialis)
-venue: arsindustrialis.org (node/2126); originally Libération
-date: 2005-11-14
-url: https://arsindustrialis.org/node/2126
-accessed: 2026-11-01
-language: fr
-type: primary (French original of "A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit — The true stakes of the Tunis summit", English edition pp. 95–100)
-covers: [tunis-motion]
+title: '"Le véritable enjeu du Sommet de Tunis" (motion published in Libération, 14 November 2005)'
+author: 'George Collins, Marc Crépon, Catherine Perret, Bernard Stiegler, Caroline Stiegler (founders of Ars Industrialis)'
+venue: 'arsindustrialis.org (node/2126); originally Libération'
+date: '2005-11-14'
+url: 'https://arsindustrialis.org/node/2126'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'primary (French original of "A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit — The true stakes of the Tunis summit", English edition pp. 95–100)'
+covers: ['tunis-motion']
+description: 'The Tunis motion (French original). Primary text, condensed and rated for this companion.'
 ---
 
 # The Tunis motion (French original)

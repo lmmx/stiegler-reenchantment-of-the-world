@@ -9,7 +9,10 @@ language: en
 type: article
 concepts: [spirit, pharmakon, proletarianization, libidinal-economy, industrial-populism, otium-negotium, economy-of-contribution, tertiary-retention, grammatization, care]
 mentions_book: no
+description: 'Abbinnett, "The Politics of Spirit in Stiegler''s Techno-Pharmacology" (2015). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Abbinnett, "The Politics of Spirit in Stiegler's Techno-Pharmacology" (2015)
 
 I read the full peer-reviewed accepted manuscript. Page numbers below are the manuscript's own (pp. 1–13), not the journal's pagination. Abbinnett later expanded this material into *The Thought of Bernard Stiegler* (Routledge, 2018), which I did not see.
 

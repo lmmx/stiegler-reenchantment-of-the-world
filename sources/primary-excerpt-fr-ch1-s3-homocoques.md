@@ -1,13 +1,14 @@
 ---
-title: "Réenchanter le monde — back-cover text, dedication, and excerpt of ch. 1 §3 (French ed. pp. 42–47) as transcribed on a personal website"
-author: Bernard Stiegler / Ars Industrialis (transcribed and annotated by the site owner, 'hcq')
-venue: homocoques.com (personal site), page dated 19.04.2012
-date: 2006 (text); 2012 (transcription)
-url: http://www.homocoques.com/as1208_ars_industrialishtm.htm
-accessed: 2026-11-01
-language: fr
-type: primary (partial transcription, third-party hosted)
-covers: [french-back-cover, dedication, ch1 (§3: "Hyperindustrial service societies as the destruction of processes of individuation through the control of processes of adoption")]
+title: '"Réenchanter le monde — back-cover text, dedication, and excerpt of ch. 1 §3 (French ed. pp. 42–47) as transcribed on a personal website"'
+author: 'Bernard Stiegler / Ars Industrialis (transcribed and annotated by the site owner, ''hcq'')'
+venue: 'homocoques.com (personal site), page dated 19.04.2012'
+date: '2006 (text); 2012 (transcription)'
+url: 'http://www.homocoques.com/as1208_ars_industrialishtm.htm'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'primary (partial transcription, third-party hosted)'
+covers: ['french-back-cover', 'dedication', 'ch1 (§3: "Hyperindustrial service societies as the destruction of processes of individuation through the control of processes of adoption")']
+description: 'French back cover, dedication, and Ch. 1 §3 (French edition). Primary text, condensed and rated for this companion.'
 ---
 
 # French back cover, dedication, and Ch. 1 §3 (French edition)

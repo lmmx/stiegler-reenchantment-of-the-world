@@ -1,13 +1,14 @@
 ---
-title: "Bernard Stiegler" (English and French Wikipedia): Ars Industrialis and Réenchanter le monde entries; plus French Wikipedia "Temps de cerveau humain disponible"
-author: Wikipedia contributors
-venue: en.wikipedia.org; fr.wikipedia.org
-date: as accessed 2026-11-01
-url: https://en.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Temps_de_cerveau_humain_disponible
-accessed: 2026-11-01
-language: en, fr
-type: wiki
-covers: [ars-industrialis-founding, bibliography, le-lay]
+title: '"Bernard Stiegler" (English and French Wikipedia): Ars Industrialis and Réenchanter le monde entries; plus French Wikipedia "Temps de cerveau humain disponible"'
+author: 'Wikipedia contributors'
+venue: 'en.wikipedia.org; fr.wikipedia.org'
+date: 'as accessed 2026-11-01'
+url: 'https://en.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Bernard_Stiegler ; https://fr.wikipedia.org/wiki/Temps_de_cerveau_humain_disponible'
+accessed: '2026-11-01'
+language: 'en, fr'
+type: 'wiki'
+covers: ['ars-industrialis-founding', 'bibliography', 'le-lay']
+description: 'Wikipedia coverage. Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Wikipedia coverage

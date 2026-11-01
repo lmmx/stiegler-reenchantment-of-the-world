@@ -1,8 +1,13 @@
+---
+
+description: 'Summary of Chapter 1, "The Re-Foundation of Society" (pp. 29–60), section by section, with a gloss of its notes.'
+---
+
 # Chapter 1 — The Re-Foundation of Society (pp. 29–60)
 
-[README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Chapter 1** · prev: [← 2010 Manifesto](03-manifesto-2010.md) · next: [Chapter 2 →](05-ch2-against-the-reign-of-ignorance.md)
+[Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Chapter 1** · prev: [← 2010 Manifesto](03-manifesto-2010.md) · next: [Chapter 2 →](05-ch2-against-the-reign-of-ignorance.md)
 
-> **Basis and confidence: high.** Read in full from photographs of the owner's copy of the English edition (pp. 29–60, with the Chapter 1 notes pp. 104–108), processed by dewarping and OCR. Pages where OCR was incomplete were read from the photographs. See [NOTES-ON-METHOD.md](../NOTES-ON-METHOD.md) §2. Everything below is our paraphrase. Quotations are short and page-referenced.
+> **Basis and confidence: high.** Read in full from photographs of the owner's copy of the English edition (pp. 29–60, with the Chapter 1 notes pp. 104–108), processed by dewarping and OCR. Pages where OCR was incomplete were read from the photographs. See [NOTES-ON-METHOD.md](https://github.com/lmmx/stiegler-reenchantment-of-the-world/blob/master/NOTES-ON-METHOD.md) §2. Everything below is our paraphrase. Quotations are short and page-referenced.
 >
 > **Provenance (from the Introduction, p. 8).** Chapters 1 and 2 are "reformulations and elaborations" of papers Stiegler gave at the first two Ars Industrialis working sessions after the inaugural meeting of 18 June 2005. Chapter 1 was updated to spring 2006: it cites events and press from April 2006.
 
@@ -96,10 +101,3 @@ Each note is summarised in a word or two; "[FR …]" marks the translator's refe
 ## Concepts introduced or used
 
 [hyperindustrial society](../concepts/hyperindustrial-society.md) · [proletarianization](../concepts/proletarianization.md) · [transindividuation / disindividuation](../concepts/transindividuation.md) · [associated milieu](../concepts/associated-milieu.md) · [economy of contribution](../concepts/economy-of-contribution.md) · [libidinal economy](../concepts/libidinal-economy.md) · [grammatization](../concepts/grammatization.md) · [pharmakon](../concepts/pharmakon.md) · [care](../concepts/care.md) · [hypomnemata](../concepts/hypomnemata.md) · [technologies of spirit](../concepts/technologies-of-spirit.md) (R technologies) · [spirit](../concepts/spirit.md) ("enslaved spirit") · [disenchantment](../concepts/disenchantment.md) · [symbolic misery](../concepts/symbolic-misery.md) (spiritual misery) · [industrial populism](../concepts/industrial-populism.md) · [short-termism](../concepts/short-termism.md) · [knowledge vs information](../concepts/knowledge-vs-information.md) (entropy/negentropy) · [otium/negotium](../concepts/otium-negotium.md) (subsistence/existence/consistence)
-
-## Corrections to earlier versions of this file
-
-- "R technologies" was previously listed as unknown. It means **relational technologies** (p. 29).
-- "The plane that enchants me" had been flagged as a possible mistranslation of *plan*. **Withdrawn**: the section is about a *plane* (of consistencies, motifs, enchantment), which is a correct rendering of the French *plan*.
-- The earlier claim that associated milieu, contribution and *pharmakon* were mainly 2010 vocabulary is **wrong for this chapter**. All three are explicit here (pp. 36–37, 47–51).
-- The previous guess that the *sursaut* section engaged the Camdessus report (*Le sursaut*, 2004) is **not supported**. The text does not mention it; the Introduction's notes point instead to *Mécréance et discrédit*.

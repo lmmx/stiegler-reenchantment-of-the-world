@@ -1,6 +1,11 @@
+---
+
+description: 'Technologies of spirit, and the contrast between psychotechnologies and nootechnologies.'
+---
+
 # Technologies of spirit (*technologies de l'esprit*); psychotechnologies vs nootechnologies
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **technologies of spirit**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **technologies of spirit**
 
 ## Definition (the book's usage)
 

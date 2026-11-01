@@ -9,7 +9,10 @@ language: en
 type: article
 concepts: [otium-negotium, symbolic-misery, proletarianization, hyperindustrial-society, disenchantment, spirit]
 mentions_book: no
+description: 'Rossouw, "Bernard Stiegler''s aestheology and the new otium of the people" (2015). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Rossouw, "Bernard Stiegler's aestheology and the new otium of the people" (2015)
 
 **I saw only the abstract, the keywords and the section outline.** The full text was not visible through the fetch tool, so this entry is deliberately short.
 

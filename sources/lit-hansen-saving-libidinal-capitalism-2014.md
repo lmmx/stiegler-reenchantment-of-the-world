@@ -9,7 +9,10 @@ language: en
 type: article
 concepts: [libidinal-economy, proletarianization, pharmakon, short-termism, transindividuation, disenchantment, care]
 mentions_book: no
+description: 'Hansen, "Saving Libidinal Capitalism" (c. 2014). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Hansen, "Saving Libidinal Capitalism" (c. 2014)
 
 This is a short online review of *For a New Critique of Political Economy* (2010) and *What Makes Life Worth Living: On Pharmacology* (2013), both translated by Daniel Ross. I read it through a fetch-and-summarise tool, so the account below is brief. The review has no page numbers.
 

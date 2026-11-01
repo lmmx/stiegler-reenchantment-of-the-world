@@ -1,6 +1,11 @@
+---
+
+description: 'Proletarianization as the loss of knowledge by producers, consumers and knowledge workers.'
+---
+
 # Proletarianization (*prolétarisation*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **proletarianization**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **proletarianization**
 
 ## Definition (the book's usage)
 

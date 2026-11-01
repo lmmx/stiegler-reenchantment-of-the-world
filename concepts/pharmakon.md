@@ -1,6 +1,11 @@
+---
+
+description: 'Pharmakon and pharmacology: every technics as both remedy and poison.'
+---
+
 # Pharmakon / pharmacology
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **pharmakon**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **pharmakon**
 
 ## Definition
 

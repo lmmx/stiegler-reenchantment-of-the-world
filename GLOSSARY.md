@@ -1,6 +1,11 @@
+---
+
+description: 'Short definitions of the book''s terms, each linked to a full concept page.'
+---
+
 # Glossary
 
-[README](README.md) › **Glossary** · full entries in [concepts/](concepts/) · cross-reference in [INDEX.md](INDEX.md)
+[Home](README.md) › **Glossary** · full entries in [concepts/](concepts/README.md) · cross-reference in [INDEX.md](INDEX.md)
 
 Terse definitions as the book uses the terms. Each heading links to a full concept file with locations, related terms, secondary glosses and disagreements.
 

@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: context
 covers: [introduction, ch2, industrial-populism, available-brain-time, television]
+description: 'Le Lay: "Ce que nous vendons à Coca-Cola, c''est du temps de cerveau humain disponible". Background context, condensed and rated for this companion.'
 ---
 
 # Le Lay: "Ce que nous vendons à Coca-Cola, c'est du temps de cerveau humain disponible"

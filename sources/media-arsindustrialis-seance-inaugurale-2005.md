@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: lecture
 covers: [2005-manifesto, libidinal-economy, desublimation, knowledge-societies, tunis-motion, ars-industrialis-founding]
+description: 'Ars Industrialis inaugural session (18 June 2005): minutes. Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Ars Industrialis inaugural session (18 June 2005): minutes

@@ -1,13 +1,14 @@
 ---
-title: "Réenchanter le monde, le programme de Bernard Stiegler, par Didier Heulot" (popular philosophy workshop, 4 sessions)
-author: Didier Heulot (Société bretonne de philosophie)
-venue: Société bretonne de philosophie, Ateliers populaires de philosophie, Rennes (Amphi Donzelot)
-date: 2014-04-14 to 2014-05-26
-url: https://www.societebretonnedephilosophie.fr/2014/05/05/reenchanter-le-monde-le-programme-de-bernard-stiegler-par-didier-heulot/
-accessed: 2026-11-01
-language: fr
-type: lecture (workshop announcement and bibliography; recordings not heard)
-covers: [introduction, ch1, ch2, disenchantment, pharmakon, libidinal-economy]
+title: '"Réenchanter le monde, le programme de Bernard Stiegler, par Didier Heulot" (popular philosophy workshop, 4 sessions)'
+author: 'Didier Heulot (Société bretonne de philosophie)'
+venue: 'Société bretonne de philosophie, Ateliers populaires de philosophie, Rennes (Amphi Donzelot)'
+date: '2014-04-14 to 2014-05-26'
+url: 'https://www.societebretonnedephilosophie.fr/2014/05/05/reenchanter-le-monde-le-programme-de-bernard-stiegler-par-didier-heulot/'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'lecture (workshop announcement and bibliography; recordings not heard)'
+covers: ['introduction', 'ch1', 'ch2', 'disenchantment', 'pharmakon', 'libidinal-economy']
+description: 'Heulot, "Réenchanter le monde, le programme de Bernard Stiegler" (Rennes, 2014). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Heulot, "Réenchanter le monde, le programme de Bernard Stiegler" (Rennes, 2014)

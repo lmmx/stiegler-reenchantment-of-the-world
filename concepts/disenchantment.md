@@ -1,6 +1,11 @@
+---
+
+description: 'Weber''s disenchantment of the world, and what the book means by re-enchanting it.'
+---
+
 # Disenchantment / re-enchantment (*Entzauberung*; *désenchantement* / *réenchantement*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **disenchantment**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **disenchantment**
 
 ## Definition (the book's usage)
 

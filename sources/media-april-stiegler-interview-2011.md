@@ -1,13 +1,14 @@
 ---
-title: "Interview de Bernard Stiegler d'Ars Industrialis" (video, with French transcript)
-author: Bernard Stiegler (interviewee); published by April (French free-software association); interviewer not named
-venue: april.org
-date: 2011-10-28 (recorded, Épineuil-le-Fleuriel); published 2012-03-26
-url: https://april.org/print/interview-de-bernard-stiegler-dars-industrialis
-accessed: 2026-11-01
-language: fr
-type: interview
-covers: [ch1, consumer, proletarianization, savoir-vivre, pharmakon, economy-of-contribution, free-software]
+title: '"Interview de Bernard Stiegler d''Ars Industrialis" (video, with French transcript)'
+author: 'Bernard Stiegler (interviewee); published by April (French free-software association); interviewer not named'
+venue: 'april.org'
+date: '2011-10-28 (recorded, Épineuil-le-Fleuriel); published 2012-03-26'
+url: 'https://april.org/print/interview-de-bernard-stiegler-dars-industrialis'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'interview'
+covers: ['ch1', 'consumer', 'proletarianization', 'savoir-vivre', 'pharmakon', 'economy-of-contribution', 'free-software']
+description: 'Stiegler interviewed for April (2011). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Stiegler interviewed for April (2011)

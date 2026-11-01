@@ -1,6 +1,11 @@
+---
+
+description: 'Trevor Arthur''s Translator''s Preface (pp. vii–ix): why savoir-faire and savoir-vivre stay in French, and why "spirit" falls short of esprit.'
+---
+
 # Translator's Preface (Trevor Arthur), pp. vii–ix
 
-[README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Translator's Preface** · next: [Introduction →](01-introduction-what-is-to-be-done.md)
+[Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Translator's Preface** · next: [Introduction →](01-introduction-what-is-to-be-done.md)
 
 > **Basis:** read in full in the publisher preview ([source](../sources/primary-bloomsbury-preview-2014.md)). Confidence: **high**.
 

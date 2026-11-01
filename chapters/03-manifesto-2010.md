@@ -1,6 +1,11 @@
+---
+
+description: 'Summary of the 2010 Ars Industrialis manifesto (pp. 17–28), printed only in the English edition: pharmacology, care and the economy of contribution.'
+---
+
 # Ars Industrialis: 2010 Manifesto (pp. 17–28)
 
-[README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **2010 Manifesto** · prev: [← 2005 Manifesto](02-manifesto-2005.md) · next: [Chapter 1 →](04-ch1-re-foundation-of-society.md)
+[Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **2010 Manifesto** · prev: [← 2005 Manifesto](02-manifesto-2005.md) · next: [Chapter 1 →](04-ch1-re-foundation-of-society.md)
 
 > **Basis and confidence: high.** Read in the printed English edition (pp. 17–28), from photographs of the owner's copy, with its notes (pp. 102–104). It was also compared against the association's web versions ([source](../sources/primary-arsindustrialis-manifesto-2010.md)). The Introduction's n. 17 (p. 102) confirms that this text is **absent from the 2006 French book** and was added for the English edition. Page numbers below are from the print. Section starts were verified from the OCR (§1 p. 17, §2–3 p. 18, §4 p. 19, §6 p. 23, §7 p. 25, §10 p. 28) and from the photographs (§5 p. 22; §8 and §9 p. 26).
 

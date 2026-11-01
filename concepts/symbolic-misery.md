@@ -1,6 +1,11 @@
+---
+
+description: 'Symbolic misery: the loss of individuation that follows from losing a part in producing symbols.'
+---
+
 # Symbolic misery (*misère symbolique*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **symbolic misery**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **symbolic misery**
 
 ## Definition (the book's usage)
 

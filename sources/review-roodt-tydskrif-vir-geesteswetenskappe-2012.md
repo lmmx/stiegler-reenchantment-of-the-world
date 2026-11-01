@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: af (English abstract)
 type: review
 covers: [2005-manifesto, 2010-manifesto]
+description: 'Roodt, Tydskrif vir Geesteswetenskappe (2012). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Roodt, Tydskrif vir Geesteswetenskappe (2012)

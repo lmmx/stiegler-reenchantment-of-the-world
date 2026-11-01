@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: af (English abstract)
 type: review
 covers: [introduction, 2005-manifesto, 2010-manifesto, ch1, ch2]
+description: 'de Beer, Tydskrif vir Geesteswetenskappe (2012). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # de Beer, Tydskrif vir Geesteswetenskappe (2012)

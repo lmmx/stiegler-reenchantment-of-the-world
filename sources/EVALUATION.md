@@ -1,6 +1,11 @@
+---
+
+description: 'Every source used for the companion, rated for reliability and depth, with cross-source disagreements and a ranked reading list.'
+---
+
 # Evaluation of sources
 
-[README](../README.md) › **Source evaluation** · see also [reception.md](../reception.md) · [NOTES-ON-METHOD.md](../NOTES-ON-METHOD.md)
+[Home](../README.md) › **Source evaluation** · see also [reception.md](../reception.md) · [NOTES-ON-METHOD.md](https://github.com/lmmx/stiegler-reenchantment-of-the-world/blob/master/NOTES-ON-METHOD.md)
 
 Each source in `sources/` is rated on five criteria:
 

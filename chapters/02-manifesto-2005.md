@@ -1,6 +1,11 @@
+---
+
+description: 'Summary of the 2005 Ars Industrialis manifesto (pp. 11–16): an industrial politics of spirit against the capture of attention.'
+---
+
 # Ars Industrialis: 2005 Manifesto (pp. 11–16)
 
-[README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **2005 Manifesto** · prev: [← Introduction](01-introduction-what-is-to-be-done.md) · next: [2010 Manifesto →](03-manifesto-2010.md)
+[Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **2005 Manifesto** · prev: [← Introduction](01-introduction-what-is-to-be-done.md) · next: [2010 Manifesto →](03-manifesto-2010.md)
 
 > **Basis and confidence: high.** Read in the printed English edition (pp. 11–15; p. 16 is blank), from photographs of the owner's copy, together with its notes (p. 102). It was also compared against the association's own web English and French versions ([source](../sources/primary-arsindustrialis-manifesto-2005.md)). The printed text numbers ten "motifs" and then lists the association's goals. Page numbers below are exact.
 

@@ -1,3 +1,8 @@
+---
+
+description: 'The verified contents of the English edition with page numbers, the differences from the French edition, and where each part comes from.'
+---
+
 # Structure of the book (verified)
 
 > **Verification basis.** The English contents and page numbers below are taken directly from the **Bloomsbury publisher preview** (front matter + Contents, pp. v–vi). See [sources/primary-bloomsbury-preview-2014.md](sources/primary-bloomsbury-preview-2014.md). The **owner's copy** (photographed pp. 1–60, 101–108) confirms every page number from p. 1 to p. 60 and the blank pp. 10 and 16. They match the Perlego and Google Books listings (Google lists Introduction p. 1, 2005 Manifesto p. 11, 2010 Manifesto p. 17, Ch. 1 p. 29). Nothing here is reconstructed or guessed. Where something is inferred, it is labelled.
@@ -97,7 +102,7 @@ One snippet places "Le plan qui m'enchante" in a "deuxième partie" (second part
 - **The bibliography (pp. 113–114) contains an error:** *La Révolution technologique de la grammatisation* (Mardaga, 1993) is listed under "Fauré, Christian". The book is by **Sylvain Auroux**, and Ch. 2 n. 40 cites it correctly by title.
 - Ch. 2 n. 20 shows why the French edition is dedicated to Laurence Parisot. Stiegler saw her succession to Seillière at Medef as giving "some hope" for civic responsibility among French employers.
 
-**What is not verified.** We have not seen a complete French table of contents. We therefore cannot confirm whether the French edition has the same two-chapter division or the same section order, or (the motion question is now settled: FR p. 163). See [NOTES-ON-METHOD.md](NOTES-ON-METHOD.md) §Gaps.
+**What is not verified.** We have not seen a complete French table of contents. We therefore cannot confirm whether the French edition has the same two-chapter division or the same section order, or (the motion question is now settled: FR p. 163). See [NOTES-ON-METHOD.md](https://github.com/lmmx/stiegler-reenchantment-of-the-world/blob/master/NOTES-ON-METHOD.md) §Gaps.
 
 ## Genealogy of the parts (where each text comes from)
 

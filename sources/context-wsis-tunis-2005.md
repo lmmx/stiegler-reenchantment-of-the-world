@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: en, fr
 type: context
 covers: [tunis-motion, ch2, information-society, knowledge-societies]
+description: 'WSIS Tunis 2005 and the Ars Industrialis motion. Background context, condensed and rated for this companion.'
 ---
 
 # WSIS Tunis 2005 and the Ars Industrialis motion

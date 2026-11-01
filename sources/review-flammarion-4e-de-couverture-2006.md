@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: publisher-blurb
 covers: [introduction, 2005-manifesto]
+description: 'Flammarion back-cover text (2006) and booksellers'' summaries. Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Flammarion back-cover text (2006) and booksellers' summaries

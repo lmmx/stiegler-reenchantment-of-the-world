@@ -1,6 +1,11 @@
+---
+
+description: 'Hyperindustrial society: industrialization extended to services, culture, attention and knowledge.'
+---
+
 # Hyperindustrial society (*société hyperindustrielle*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **hyperindustrial society**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **hyperindustrial society**
 
 ## Definition (the book's usage)
 

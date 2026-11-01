@@ -1,6 +1,11 @@
+---
+
+description: 'Spirit (esprit) and Valéry''s "value of spirit", the book''s measure of what consumer capitalism lowers.'
+---
+
 # Spirit (*esprit*; *la valeur esprit*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **spirit**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **spirit**
 
 ## Definition (the book's usage)
 

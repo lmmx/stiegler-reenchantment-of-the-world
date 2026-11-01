@@ -9,7 +9,10 @@ language: en
 type: primary-parallel
 concepts: [proletarianization, pharmakon, libidinal-economy, economy-of-contribution, short-termism, care, hyperindustrial-society, spirit]
 mentions_book: no
+description: 'Lemmens, interview with Stiegler, Krisis (2011). Primary text, condensed and rated for this companion.'
 ---
+
+# Lemmens, interview with Stiegler, *Krisis* (2011)
 
 I read the full text from the PDF copy at edepot.wur.nl/194315, which is identical to the Krisis issue. The piece has two parts: Lemmens's introduction (secondary, pp. 33–35) and the interview itself (primary-parallel). Lemmens's introduction says Ars Industrialis "has published two manifestos and two books". *Réenchanter le monde* (2006) is one of those books, but the introduction does not name it.
 

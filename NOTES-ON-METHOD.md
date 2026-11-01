@@ -1,6 +1,6 @@
 # Notes on method
 
-[README](README.md) › **Method**
+[Home](README.md) › **Method**
 
 This file records how the companion was built: what was read, what was not, how claims are sourced, the fair-use stance, and what remains open. Read it before relying on any L3 detail.
 
@@ -9,7 +9,7 @@ This file records how the companion was built: what was read, what was not, how 
 - **Objective account.** The repo reports what the book argues, kept apart from evaluation. Evaluation lives in [reception.md](reception.md) and [sources/EVALUATION.md](sources/EVALUATION.md). Interpretive remarks elsewhere are prefixed **"Labelled interpretation"**.
 - **Progressive disclosure.** [README](README.md) (L0) → [overview.md](overview.md) (L1) → `chapters/` (L2 abstracts and claims) → L3 section tables inside each chapter file. Each layer links down to the next. Cross-cutting [concepts/](concepts/) and [GLOSSARY.md](GLOSSARY.md) sit alongside, and [INDEX.md](INDEX.md) maps across all three.
 - **Markdown only, no code.**
-- **Fair use.** The repo is private and for personal study. It contains **no continuous text of the book**. Summaries are our paraphrase. Direct quotations are short (generally under 40 words), attributed and page-referenced, and used only where wording matters. Third-party sources are stored as condensed accounts with short attributed quotations, never as full copies. Where a source is openly licensed (e.g. the Lotz review, CC BY-NC-ND), we still condense rather than reproduce.
+- **Fair use.** The repo is a public, non-commercial study aid. It contains **no continuous text of the book**. Summaries are our paraphrase. Direct quotations are short (generally under 40 words), attributed and page-referenced, and used only where wording matters. Third-party sources are stored as condensed accounts with short attributed quotations, never as full copies. Where a source is openly licensed (e.g. the Lotz review, CC BY-NC-ND), we still condense rather than reproduce.
 
 ## 2. What original text was consulted (not stored)
 
@@ -83,3 +83,23 @@ Page numbers are to the **English edition (Bloomsbury 2014)** unless marked "FR"
 - Remaining work with the printed book: only the front matter (dedication, epigraph page) and the index are unread. The French edition has not been compared page by page.
 - Add new sources as `sources/<type>-<author>-<slug>-<year>.md` with the same front-matter, then add a row in [sources/EVALUATION.md](sources/EVALUATION.md) and links in [INDEX.md](INDEX.md).
 - Keep your own reading in a separate file or folder (e.g. `notes/`) so the objective layers stay clean.
+
+## 7. Corrections log
+
+### [Chapter 1](chapters/04-ch1-re-foundation-of-society.md), corrections to earlier versions of its file
+
+- "R technologies" was previously listed as unknown. It means **relational technologies** (p. 29).
+- "The plane that enchants me" had been flagged as a possible mistranslation of *plan*. **Withdrawn**: the section is about a *plane* (of consistencies, motifs, enchantment), which is a correct rendering of the French *plan*.
+- The earlier claim that associated milieu, contribution and *pharmakon* were mainly 2010 vocabulary is **wrong for this chapter**. All three are explicit here (pp. 36–37, 47–51).
+- The previous guess that the *sursaut* section engaged the Camdessus report (*Le sursaut*, 2004) is **not supported**. The text does not mention it; the Introduction's notes point instead to *Mécréance et discrédit*.
+
+## 8. The website
+
+The companion is published with [Zensical](https://zensical.org) at <https://lmmx.github.io/stiegler-reenchantment-of-the-world/>, built from the repository root by `.github/workflows/site.yml` (`zensical.toml`; templates, stylesheet and checks in `website/`).
+
+- **What is on it:** every page of the companion. **What is not:** this file, the process record. Pages link to it here on GitHub, by absolute URL, so the links work in both places. `website/check_site.py` fails the build if a page links to it by a relative path.
+- **Links between pages** are ordinary relative `.md` links. They work on GitHub and become page links on the site. `chapters/README.md` and `concepts/README.md` are the index pages of their folders in both places.
+- **Front matter:** each page except `README.md` has a one-line `description:`. It is used for link previews and for the site's `llms.txt`, and must equal the page's entry in the `llmstxt` sections of `zensical.toml`. A new page also needs a `nav` entry there.
+- **llms.txt:** the build writes `llms.txt`, `llms-full.txt` and a Markdown copy of each page.
+- **Locally:** `just docs-serve`, or `just docs-check` for the strict build plus checks.
+

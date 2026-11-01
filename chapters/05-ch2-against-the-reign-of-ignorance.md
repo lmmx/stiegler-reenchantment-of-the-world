@@ -1,6 +1,11 @@
+---
+
+description: 'Summary of Chapter 2, "Against the Reign of Ignorance" (pp. 61–93): knowledge against information, and investing in the value of spirit.'
+---
+
 # Chapter 2: Against the Reign of Ignorance: Investing in an Increase in the Value of "Spirit" (pp. 61–93)
 
-[README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Chapter 2** · prev: [← Chapter 1](04-ch1-re-foundation-of-society.md) · next: [Tunis motion →](06-tunis-motion.md)
+[Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Chapter 2** · prev: [← Chapter 1](04-ch1-re-foundation-of-society.md) · next: [Tunis motion →](06-tunis-motion.md)
 
 > **Basis and confidence: high.** Read in full from photographs of the owner's copy of the English edition (pp. 61–93, with the Chapter 2 notes on pp. 108–112), processed by dewarping and OCR. All of this is our paraphrase, with short page-referenced quotations.
 >

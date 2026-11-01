@@ -9,7 +9,10 @@ language: en
 type: article
 concepts: [pharmakon, proletarianization, associated-milieu, libidinal-economy, grammatization, economy-of-contribution, transindividuation]
 mentions_book: no
+description: 'Lemmens, "The Digital Pharmakon and the (Dis)Empowerment of the General Intellect" (2017). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Lemmens, "The Digital Pharmakon and the (Dis)Empowerment of the General Intellect" (2017)
 
 I read the full open-access text on PubMed Central. The HTML has no page numbers, so sections are named instead. Two published comments on the article (DOIs 10.1007/s10699-015-9469-0 and -9470-7) were not read.
 

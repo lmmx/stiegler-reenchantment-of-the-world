@@ -1,13 +1,14 @@
 ---
-title: "Manifesto 2010" / "Manifeste 2010"
-author: Ars Industrialis (collective)
-venue: arsindustrialis.org
-date: 2010
-url: http://arsindustrialis.org/manifesto-2010 (EN); https://arsindustrialis.org/manifeste-2010 (FR)
-accessed: 2026-11-01
-language: en, fr
-type: primary (reprinted in the English book as "Ars Industrialis: 2010 Manifesto", pp. 17–28; NOT in the 2006 French first edition)
-covers: [2010-manifesto]
+title: '"Manifesto 2010" / "Manifeste 2010"'
+author: 'Ars Industrialis (collective)'
+venue: 'arsindustrialis.org'
+date: '2010'
+url: 'http://arsindustrialis.org/manifesto-2010 (EN); https://arsindustrialis.org/manifeste-2010 (FR)'
+accessed: '2026-11-01'
+language: 'en, fr'
+type: 'primary (reprinted in the English book as "Ars Industrialis: 2010 Manifesto", pp. 17–28; NOT in the 2006 French first edition)'
+covers: ['2010-manifesto']
+description: 'Ars Industrialis 2010 Manifesto (web version). Primary text, condensed and rated for this companion.'
 ---
 
 # Ars Industrialis 2010 Manifesto (web version)

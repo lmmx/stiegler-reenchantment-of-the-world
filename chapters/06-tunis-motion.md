@@ -1,6 +1,11 @@
+---
+
+description: 'Summary of the Ars Industrialis motion addressed to the 2005 World Summit on the Information Society in Tunis (pp. 95–100).'
+---
+
 # A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit (pp. 95–100)
 
-[README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Tunis motion** · prev: [← Chapter 2](05-ch2-against-the-reign-of-ignorance.md)
+[Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Tunis motion** · prev: [← Chapter 2](05-ch2-against-the-reign-of-ignorance.md)
 
 > **Basis and confidence: high.** Read in full from photographs of the owner's copy (pp. 95–100, notes on p. 112). Note 1 confirms that the World Summit on the Information Society (WSIS) was held in Tunis on 16–18 November 2005, and that the motion "had been published in part" by *Libération* on 14 November 2005. The web version ([source](../sources/primary-arsindustrialis-tunis-motion-2005.md)) is that **partial** text. The printed motion is longer: it is numbered, sets out three conditions, and adds passages on intellectual property, Porto Alegre, a European research programme, the US Federal Communications Commission, Viviane Reding and the French government. The French edition prints the motion at FR p. 163 (Ch. 2, n. 6). All of this is our paraphrase.
 

@@ -1,13 +1,14 @@
 ---
-title: "Souffrance et consommation" (Ars Industrialis session, 25 February 2006)
-author: Ars Industrialis (argument unsigned); speakers Bernard Stiegler, Marc Valleur, Jean-Pierre Klein
-venue: arsindustrialis.org (node/1462); Théâtre de la Colline
-date: 2006-02-25
-url: https://arsindustrialis.org/node/1462
-accessed: 2026-11-01
-language: fr
-type: lecture
-covers: [ch1, consumer, addiction, capitalism-of-drives, libidinal-economy]
+title: '"Souffrance et consommation" (Ars Industrialis session, 25 February 2006)'
+author: 'Ars Industrialis (argument unsigned); speakers Bernard Stiegler, Marc Valleur, Jean-Pierre Klein'
+venue: 'arsindustrialis.org (node/1462); Théâtre de la Colline'
+date: '2006-02-25'
+url: 'https://arsindustrialis.org/node/1462'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'lecture'
+covers: ['ch1', 'consumer', 'addiction', 'capitalism-of-drives', 'libidinal-economy']
+description: '"Souffrance et consommation" (25 Feb 2006). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # "Souffrance et consommation" (25 Feb 2006)

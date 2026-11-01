@@ -9,7 +9,10 @@ language: en
 type: primary-parallel
 concepts: [care, libidinal-economy, proletarianization, short-termism, pharmakon, tertiary-retention, otium-negotium, spirit, economy-of-contribution]
 mentions_book: no
+description: 'Stiegler, "Economizing means taking care" (2008). Primary text, condensed and rated for this companion.'
 ---
+
+# Stiegler, "Economizing means taking care" (2008)
 
 I read the web page through a fetch-and-summarise tool. No translator is credited on the page, and the text has no pagination. Hutnyk (2012) cites it as the epigraph source for "psycho-power" (see lit-hutnyk-proletarianisation-2012.md).
 

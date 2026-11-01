@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: lecture
 covers: [introduction, ch2, medef, valeur-esprit, tunis-motion, hypomnemata, cognitive-saturation]
+description: 'Announcement and argument for the 24 September 2005 session. Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Announcement and argument for the 24 September 2005 session

@@ -1,6 +1,11 @@
+---
+
+description: 'Otium and negotium: studious leisure against business, and their link to subsistence, existence and consistence.'
+---
+
 # Otium / negotium
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **otium / negotium**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **otium / negotium**
 
 ## Definition
 
@@ -11,7 +16,7 @@ Latin terms. ***Negotium*** ("not-leisure") is business: the sphere of subsisten
 - **Named in the printed 2005 Manifesto** ([2005 Manifesto](../chapters/02-manifesto-2005.md) p. 13): industrial technologies of spirit, as new hypomnemata like those of the Stoics and Epicureans or of "the Rome in which the Greek *skholè* became the Roman practice of the *otium*", call for new practices. Note 5 cites J.-M. André, *L'Otium dans la vie morale et intellectuelle romaine* (1966). Ch. 1 develops the related scheme of **subsistence, existence and consistence** (pp. 30, 58–60). *(Correction: an earlier version said the term was not attested in the parts we had read.)*
 - Stiegler's *Libération* diary (June 2005), written in the founding weeks of Ars Industrialis, makes otium explicit. Freedom passes "essentially through *otium*", and otium is equated with **spirit** (sacred or profane), linked to Plutarch's "art of living" and to the journal as a practice of self-writing ([source](../sources/primary-parallel-stiegler-liberation-diary-2005.md)).
 - The [2005 Manifesto](../chapters/02-manifesto-2005.md) mentions Foucault's "writing of the self" (*hypomnemata* in Stoic and Epicurean schools), which is the practice of otium.
-- **Gap:** whether Ch. 1's unseen sections (e.g. "The consumer discharged of his existence") use the pair cannot be confirmed. See [NOTES-ON-METHOD.md](../NOTES-ON-METHOD.md).
+- **Gap:** whether Ch. 1's unseen sections (e.g. "The consumer discharged of his existence") use the pair cannot be confirmed. See [NOTES-ON-METHOD.md](https://github.com/lmmx/stiegler-reenchantment-of-the-world/blob/master/NOTES-ON-METHOD.md).
 
 ## Related terms
 

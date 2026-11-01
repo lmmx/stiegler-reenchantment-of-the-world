@@ -1,6 +1,11 @@
+---
+
+description: 'Hypomnemata: memory aids outside the mind, from Plato''s critique of writing to Foucault and digital media.'
+---
+
 # Hypomnemata (*hypomnèse*, *hypomnémata*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **hypomnemata**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **hypomnemata**
 
 ## Definition
 

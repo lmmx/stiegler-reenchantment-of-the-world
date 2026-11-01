@@ -1,6 +1,11 @@
+---
+
+description: 'Care (soin, epimeleia) as the practices and institutions that keep a technical pharmakon from turning toxic.'
+---
+
 # Care (*soin*; *prendre soin*; *epimeleia*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **care**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **care**
 
 ## Definition (the book's usage)
 

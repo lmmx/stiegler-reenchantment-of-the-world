@@ -1,6 +1,11 @@
+---
+
+description: 'Simondon''s associated milieu, and Stiegler''s contrast between associated and dissociated milieus of symbols and knowledge.'
+---
+
 # Associated milieu / dissociated milieu (*milieu associé / dissocié*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **associated milieu**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **associated milieu**
 
 ## Definition
 

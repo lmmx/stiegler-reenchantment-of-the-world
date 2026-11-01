@@ -9,7 +9,10 @@ language: en
 type: primary-parallel
 concepts: [libidinal-economy, pharmakon, proletarianization, transindividuation, associated-milieu, short-termism, disenchantment, tertiary-retention, care, symbolic-misery, spirit]
 mentions_book: no
+description: 'Stiegler, "Pharmacology of Desire" (2011). Primary text, condensed and rated for this companion.'
 ---
+
+# Stiegler, "Pharmacology of Desire" (2011)
 
 I read the full text of the published version (repository PDF). Page numbers are *New Formations* pagination.
 

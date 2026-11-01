@@ -1,6 +1,11 @@
+---
+
+description: 'Grammatization: the discretization of speech, gesture and perception into reproducible marks, from the alphabet to digital code.'
+---
+
 # Grammatization (*grammatisation*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **grammatization**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **grammatization**
 
 ## Definition
 

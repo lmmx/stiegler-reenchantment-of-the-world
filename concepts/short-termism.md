@@ -1,6 +1,11 @@
+---
+
+description: 'Short-termism as the temporal form of drive-based behaviour in finance, media and politics.'
+---
+
 # Short-termism (*court-termisme*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **short-termism**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **short-termism**
 
 ## Definition (the book's usage)
 

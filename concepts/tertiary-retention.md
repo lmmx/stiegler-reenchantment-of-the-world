@@ -1,6 +1,11 @@
+---
+
+description: 'Tertiary retention: memory held outside the living being in artefacts, after Husserl''s primary and secondary retention.'
+---
+
 # Tertiary retention (*rétention tertiaire*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **tertiary retention**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **tertiary retention**
 
 ## Definition
 

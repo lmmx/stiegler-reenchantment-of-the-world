@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: en
 type: notice
 covers: [ch1, ch2]
+description: 'Barker, New Formations 77 (2012). Abstract and issue editorial only. Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Barker, New Formations 77 (2012). Abstract and issue editorial only

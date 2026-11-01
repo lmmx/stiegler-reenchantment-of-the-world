@@ -1,6 +1,11 @@
+---
+
+description: 'The economy of contribution, the model Ars Industrialis proposes to replace consumerism.'
+---
+
 # Economy of contribution (*économie de la contribution*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **economy of contribution**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **economy of contribution**
 
 ## Definition (the book's usage)
 

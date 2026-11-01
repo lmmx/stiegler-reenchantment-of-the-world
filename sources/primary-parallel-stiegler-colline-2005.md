@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: primary-parallel (evident precursor/draft of Chapter 2, "Against the Reign of Ignorance")
 covers: [ch2, tunis-motion, introduction]
+description: 'Stiegler, Ars Industrialis session of 24 September 2005 (Théâtre de la Colline). Primary text, condensed and rated for this companion.'
 ---
 
 # Stiegler, Ars Industrialis session of 24 September 2005 (Théâtre de la Colline)

@@ -9,7 +9,10 @@ language: en
 type: article
 concepts: [spirit, care, pharmakon, otium-negotium, transindividuation]
 mentions_book: no
+description: 'Cohen, "Dare to Care" (2017). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Cohen, "Dare to Care" (2017)
 
 I read the author-posted PDF of the published version, mainly the opening sections (pp. 149–153) and the conclusion (pp. 164–166), and skimmed the middle on Foucault's *epimeleia*.
 

@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: context
 covers: [ars-industrialis-founding, 2005-manifesto, sessions, tunis-motion]
+description: 'Ars Industrialis: what the association''s own site says. Background context, condensed and rated for this companion.'
 ---
 
 # Ars Industrialis: what the association's own site says

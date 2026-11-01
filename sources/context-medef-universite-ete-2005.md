@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: context
 covers: [introduction, medef, valeur-esprit, kessler, seilliere, knowledge-society]
+description: 'The Medef 2005 summer university ("Réenchanter le monde"). Background context, condensed and rated for this companion.'
 ---
 
 # The Medef 2005 summer university ("Réenchanter le monde")

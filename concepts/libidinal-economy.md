@@ -1,6 +1,11 @@
+---
+
+description: 'The libidinal economy: how consumer capitalism channels desire, and how it exhausts desire into drives.'
+---
+
 # Libidinal economy (*économie libidinale*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **libidinal economy**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **libidinal economy**
 
 ## Definition (the book's usage)
 

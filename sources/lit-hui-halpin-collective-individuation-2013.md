@@ -9,7 +9,10 @@ language: en
 type: chapter
 concepts: [transindividuation, associated-milieu, pharmakon, libidinal-economy, economy-of-contribution]
 mentions_book: no
+description: 'Hui and Halpin, "Collective Individuation" (2013). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Hui and Halpin, "Collective Individuation" (2013)
 
 I read the full text of the author-posted PDF. Page numbers follow the printed reader pages shown in the PDF; the opening pages are approximate. The work came out of the authors' research at IRI (Institut de recherche et d'innovation, Centre Pompidou), which Stiegler directed.
 

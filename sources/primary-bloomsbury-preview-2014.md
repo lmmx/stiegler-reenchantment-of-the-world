@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: en
 type: primary (publisher preview, 14 pp.)
 covers: [front-matter, contents, translators-preface, introduction (pp. 1–3 only)]
+description: 'Bloomsbury preview of the English edition. Primary text, condensed and rated for this companion.'
 ---
 
 # Bloomsbury preview of the English edition

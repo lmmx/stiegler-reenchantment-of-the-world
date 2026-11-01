@@ -1,13 +1,14 @@
 ---
-title: "Fiche pédagogique : Le temps de cerveau disponible" (teaching sheet for the 2010 documentary by Christophe Nick and Jean-Robert Viallet)
-author: unsigned (Swiss education resources, plandetudes.ch / BDPER)
-venue: bdper.plandetudes.ch
-date: 2010-08 (file modified 2010-08-20)
-url: https://bdper.plandetudes.ch/uploads/ressources/3474/DP_temps_cerveau_disponible.pdf
-accessed: 2026-11-01
-language: fr
-type: syllabus
-covers: [le-lay, industrial-populism, television, drives]
+title: '"Fiche pédagogique : Le temps de cerveau disponible" (teaching sheet for the 2010 documentary by Christophe Nick and Jean-Robert Viallet)'
+author: 'unsigned (Swiss education resources, plandetudes.ch / BDPER)'
+venue: 'bdper.plandetudes.ch'
+date: '2010-08 (file modified 2010-08-20)'
+url: 'https://bdper.plandetudes.ch/uploads/ressources/3474/DP_temps_cerveau_disponible.pdf'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'syllabus'
+covers: ['le-lay', 'industrial-populism', 'television', 'drives']
+description: 'Swiss teaching sheet on Le Temps de cerveau disponible (2010). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Swiss teaching sheet on *Le Temps de cerveau disponible* (2010)

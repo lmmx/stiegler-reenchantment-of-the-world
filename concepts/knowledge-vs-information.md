@@ -1,6 +1,11 @@
+---
+
+description: 'Knowledge against information: why Chapter 2 calls information entropic and knowledge negentropic.'
+---
+
 # Knowledge vs information (*savoir* / *information*); entropy and negentropy
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **knowledge vs information**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **knowledge vs information**
 
 ## Definition (the book's usage)
 

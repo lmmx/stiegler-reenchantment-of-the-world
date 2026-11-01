@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: lecture
 covers: [ch2, knowledge-management, grammatization, hypomnemata, digital-libraries, tunis-motion]
+description: 'Stiegler, "Cognitive technologies" (Ars Industrialis, 5 Nov 2005). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Stiegler, "Cognitive technologies" (Ars Industrialis, 5 Nov 2005)

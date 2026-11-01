@@ -1,13 +1,14 @@
 ---
-title: "Review of Bernard Stiegler, The Re-Enchantment of the World: The Value of Spirit against Industrial Populism"
-author: Christian Lotz (Michigan State University)
-venue: Marx & Philosophy Review of Books
-date: 2015-03-11
-url: https://marxandphilosophy.org.uk/reviews/7998_the-re-enchantment-of-the-world-review-by-christian-lotz/ (archived PDF copy: https://christianlotz.info/wp-content/uploads/2015/03/lotz-review-stiegler-reenchantement.pdf)
-accessed: 2026-11-01
-language: en
-type: review
-covers: [introduction, 2005-manifesto, 2010-manifesto, ch1, ch2, tunis-motion]
+title: '"Review of Bernard Stiegler, The Re-Enchantment of the World: The Value of Spirit against Industrial Populism"'
+author: 'Christian Lotz (Michigan State University)'
+venue: 'Marx & Philosophy Review of Books'
+date: '2015-03-11'
+url: 'https://marxandphilosophy.org.uk/reviews/7998_the-re-enchantment-of-the-world-review-by-christian-lotz/ (archived PDF copy: https://christianlotz.info/wp-content/uploads/2015/03/lotz-review-stiegler-reenchantement.pdf)'
+accessed: '2026-11-01'
+language: 'en'
+type: 'review'
+covers: ['introduction', '2005-manifesto', '2010-manifesto', 'ch1', 'ch2', 'tunis-motion']
+description: 'Lotz, Marx & Philosophy Review of Books (2015). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Lotz, Marx & Philosophy Review of Books (2015)

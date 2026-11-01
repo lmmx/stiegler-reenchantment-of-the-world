@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: catalogue
 covers: [introduction, 2005-manifesto, ch1, ch2]
+description: 'Catalogue records and French structure, partly reconstructed. Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Catalogue records and French structure, partly reconstructed

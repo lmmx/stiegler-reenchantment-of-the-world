@@ -1,8 +1,13 @@
+---
+
+description: 'Summary of the Introduction, "What Is to Be Done?" (pp. 1–10): Medef''s "re-enchantment" slogan taken at its word, and the founding of Ars Industrialis.'
+---
+
 # Introduction: What Is to Be Done? (pp. 1–10)
 
-[README](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Introduction** · prev: [← Translator's Preface](00-translators-preface.md) · next: [2005 Manifesto →](02-manifesto-2005.md)
+[Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Introduction** · prev: [← Translator's Preface](00-translators-preface.md) · next: [2005 Manifesto →](02-manifesto-2005.md)
 
-> **Basis and confidence: high.** pp. 1–3 come from the publisher preview. pp. 4–9 (the Introduction ends on p. 9; p. 10 is blank) and the Introduction's notes (pp. 101–102) were read from photographs of the owner's copy of the English edition (see [NOTES-ON-METHOD.md](../NOTES-ON-METHOD.md) §2). Everything is our paraphrase; quotations are short. The French back cover ([source](../sources/primary-excerpt-fr-ch1-s3-homocoques.md)) and the 2005 parallel texts ([Colline](../sources/primary-parallel-stiegler-colline-2005.md), [*Libération*](../sources/primary-parallel-stiegler-liberation-diary-2005.md)) are now only context.
+> **Basis and confidence: high.** pp. 1–3 come from the publisher preview. pp. 4–9 (the Introduction ends on p. 9; p. 10 is blank) and the Introduction's notes (pp. 101–102) were read from photographs of the owner's copy of the English edition (see [NOTES-ON-METHOD.md](https://github.com/lmmx/stiegler-reenchantment-of-the-world/blob/master/NOTES-ON-METHOD.md) §2). Everything is our paraphrase; quotations are short. The French back cover ([source](../sources/primary-excerpt-fr-ch1-s3-homocoques.md)) and the 2005 parallel texts ([Colline](../sources/primary-parallel-stiegler-colline-2005.md), [*Libération*](../sources/primary-parallel-stiegler-liberation-diary-2005.md)) are now only context.
 
 ## Abstract (L2)
 

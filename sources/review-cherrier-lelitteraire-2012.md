@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: fr
 type: review
 covers: [introduction, ch1, ch2]
+description: 'Cherrier, lelitteraire.com (2012). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Cherrier, lelitteraire.com (2012)

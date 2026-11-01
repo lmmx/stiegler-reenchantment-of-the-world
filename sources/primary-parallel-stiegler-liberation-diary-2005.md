@@ -1,13 +1,14 @@
 ---
-title: "L'avenir du capitalisme" — Stiegler's week-long diary column in Libération (11–17 June 2005), reposted by Ars Industrialis
-author: Bernard Stiegler
-venue: Libération (18 June 2005 per the repost title); arsindustrialis.org node/1434 (excerpts with "la suite" links)
-date: 2005-06-11 to 2005-06-17
-url: https://arsindustrialis.org/node/1434
-accessed: 2026-11-01
-language: fr
-type: primary-parallel (context for the Introduction and Ch. 1)
-covers: [introduction, ch1, industrial-populism, otium-negotium, libidinal-economy]
+title: '"L''avenir du capitalisme" — Stiegler''s week-long diary column in Libération (11–17 June 2005), reposted by Ars Industrialis'
+author: 'Bernard Stiegler'
+venue: 'Libération (18 June 2005 per the repost title); arsindustrialis.org node/1434 (excerpts with "la suite" links)'
+date: '2005-06-11 to 2005-06-17'
+url: 'https://arsindustrialis.org/node/1434'
+accessed: '2026-11-01'
+language: 'fr'
+type: 'primary-parallel (context for the Introduction and Ch. 1)'
+covers: ['introduction', 'ch1', 'industrial-populism', 'otium-negotium', 'libidinal-economy']
+description: 'Stiegler, "L''avenir du capitalisme" (Libération diary, June 2005). Primary text, condensed and rated for this companion.'
 ---
 
 # Stiegler, "L'avenir du capitalisme" (Libération diary, June 2005)

@@ -8,6 +8,7 @@ accessed: 2026-11-01
 language: en
 type: review
 covers: [translators-preface, 2005-manifesto, 2010-manifesto, ch1, ch2, tunis-motion]
+description: 'Lyons, Critical Inquiry (2014). Review or bibliographic account, condensed and rated for this companion.'
 ---
 
 # Lyons, Critical Inquiry (2014)

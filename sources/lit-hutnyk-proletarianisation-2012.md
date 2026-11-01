@@ -9,7 +9,10 @@ language: en
 type: article
 concepts: [proletarianization, care, short-termism, pharmakon, transindividuation, hyperindustrial-society]
 mentions_book: no
+description: 'Hutnyk, "Proletarianisation" (2012). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Hutnyk, "Proletarianisation" (2012)
 
 I read the full text of the author's eprint PDF. Page numbers below follow the *New Formations* pagination printed in the eprint.
 

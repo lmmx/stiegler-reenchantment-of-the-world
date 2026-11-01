@@ -1,13 +1,14 @@
 ---
-title: "Son[i]a #285 — Bernard Stiegler" (podcast interview)
-author: Antonio Gagliano (interviewer/producer); Bernard Stiegler (guest)
-venue: Ràdio Web MACBA (Museu d'Art Contemporani de Barcelona), Son[i]a series
-date: 2019-04-08
-url: https://rwm.macba.cat/en/podcasts/sonia-285-bernard-stiegler-2
-accessed: 2026-11-01
-language: en
-type: podcast
-covers: [proletarianization, economy-of-contribution, pharmakon, care]
+title: '"Son[i]a #285 — Bernard Stiegler" (podcast interview)'
+author: 'Antonio Gagliano (interviewer/producer); Bernard Stiegler (guest)'
+venue: 'Ràdio Web MACBA (Museu d''Art Contemporani de Barcelona), Son[i]a series'
+date: '2019-04-08'
+url: 'https://rwm.macba.cat/en/podcasts/sonia-285-bernard-stiegler-2'
+accessed: '2026-11-01'
+language: 'en'
+type: 'podcast'
+covers: ['proletarianization', 'economy-of-contribution', 'pharmakon', 'care']
+description: 'Son[i]a #285, Bernard Stiegler (MACBA, 2019). Media, lecture or web source, condensed and rated for this companion.'
 ---
 
 # Son[i]a #285, Bernard Stiegler (MACBA, 2019)

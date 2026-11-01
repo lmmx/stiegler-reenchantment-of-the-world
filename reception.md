@@ -1,6 +1,11 @@
+---
+
+description: 'How the book was received: reviews, lines of critique, errors in circulation, and Stiegler''s own later revision.'
+---
+
 # Reception and critique
 
-[README](README.md) › **Reception** · sources rated in [sources/EVALUATION.md](sources/EVALUATION.md)
+[Home](README.md) › **Reception** · sources rated in [sources/EVALUATION.md](sources/EVALUATION.md)
 
 *Everything in this file is evaluation, by reviewers, critics or (where marked) us. The summaries in `chapters/` and `concepts/` deliberately leave it out.*
 

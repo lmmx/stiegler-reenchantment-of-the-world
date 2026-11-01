@@ -9,7 +9,10 @@ language: en
 type: article
 concepts: [proletarianization, economy-of-contribution, tertiary-retention, pharmakon, short-termism]
 mentions_book: yes
+description: 'Manche, "The problem is proletarianisation, not capitalism" (2021). Secondary literature, condensed and rated for this companion.'
 ---
+
+# Manche, "The problem is proletarianisation, not capitalism" (2021)
 
 I read the full open-access web text through a fetch-and-summarise tool. The web version has no internal page numbers, so references below use the article's note numbers.
 

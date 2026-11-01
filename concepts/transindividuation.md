@@ -1,6 +1,11 @@
+---
+
+description: 'Individuation, transindividuation and disindividuation, after Simondon.'
+---
+
 # Individuation, transindividuation, disindividuation
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **transindividuation**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **transindividuation**
 
 ## Definition
 

@@ -1,6 +1,11 @@
+---
+
+description: 'Industrial populism: the populism produced by marketing and the program industries rather than by political movements.'
+---
+
 # Industrial populism (*populisme industriel*)
 
-[README](../README.md) › [Glossary](../GLOSSARY.md) › **industrial populism**
+[Home](../README.md) › [Glossary](../GLOSSARY.md) › **industrial populism**
 
 ## Definition (the book's usage)
 

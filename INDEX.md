@@ -1,6 +1,11 @@
+---
+
+description: 'Cross-reference tables linking the book''s parts, its concepts, the sources and the printed pages.'
+---
+
 # Index: chapters ↔ concepts ↔ sources
 
-[README](README.md) › **Index**
+[Home](README.md) › **Index**
 
 Abbreviations for parts: **P** [Preface](chapters/00-translators-preface.md) · **I** [Introduction](chapters/01-introduction-what-is-to-be-done.md) · **M05** [2005 Manifesto](chapters/02-manifesto-2005.md) · **M10** [2010 Manifesto](chapters/03-manifesto-2010.md) · **C1** [Ch. 1](chapters/04-ch1-re-foundation-of-society.md) · **C2** [Ch. 2](chapters/05-ch2-against-the-reign-of-ignorance.md) · **T** [Tunis motion](chapters/06-tunis-motion.md)
 
