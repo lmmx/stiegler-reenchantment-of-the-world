@@ -39,6 +39,7 @@ concurrency:
 env:
   # The docs toolchain, pinned (the Justfile's too: change both together).
   DOCS_WITH: --with zensical==0.0.71
+  CARDS_WITH: --with playwright==1.48.0 --with pyyaml
   PAGES_URL: https://lmmx.github.io/stiegler-reenchantment-of-the-world/
 
 jobs:
@@ -78,7 +79,12 @@ jobs:
       # --strict fails on broken links and anchors between pages
       - name: Build
         run: uv run --no-project -p 3.13 ${DOCS_WITH} zensical build --clean --strict
-      - name: Check the nav, internal links and llms.txt
+      # Each page's link-preview card (website/social_cards.py), into site/assets/social/
+      - name: Social cards
+        run: |
+          uv run --no-project -p 3.13 ${CARDS_WITH} python -m playwright install --with-deps chromium
+          uv run --no-project -p 3.13 ${CARDS_WITH} python website/social_cards.py
+      - name: Check the nav, internal links, social cards and llms.txt
         run: uv run --no-project -p 3.13 --with pyyaml python website/check_site.py
       - uses: actions/upload-artifact@v4
         with:
