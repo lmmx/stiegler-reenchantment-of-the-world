@@ -12,7 +12,7 @@ covers: [tunis-motion]
 
 # The Tunis motion (French original)
 
-**Status:** primary. **Excerpt only**: per the book's Introduction (p. 9), *Libération* published excerpts and the book prints the complete motion. The book's subheading "The true stakes of the Tunis summit" (p. 95) translates this page's title. It was published two days before the WSIS second phase (Tunis, 16–18 Nov 2005). The book version may differ slightly. Perlego's preview of p. 93 shows the book's closing phrases, close to this text's call for "a new summit" preceded by "a far-reaching debate" and its ending on "the spirit of Europe". Those phrases suggest the printed version is somewhat expanded.
+**Status:** primary. **Excerpt only**: per the book's Introduction (p. 9) and the motion's n. 1 (p. 112), *Libération* published part of it and the book prints the complete motion (pp. 95–100; FR p. 163). The printed version adds the intellectual-property argument, numbered points, three conditions, Porto Alegre, the FCC model, Reding and the French government; see [chapters/06](../chapters/06-tunis-motion.md). The book's subheading "The true stakes of the Tunis summit" (p. 95) translates this page's title. It was published two days before the WSIS second phase (Tunis, 16–18 Nov 2005). The book version may differ slightly. Perlego's preview of p. 93 shows the book's closing phrases, close to this text's call for "a new summit" preceded by "a far-reaching debate" and its ending on "the spirit of Europe". Those phrases suggest the printed version is somewhat expanded.
 
 ## Condensed account
 

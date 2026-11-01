@@ -28,3 +28,7 @@ The term appears **explicitly** in the Introduction's n. 2 (p. 101): the psychic
 
 - No disagreement over the definition was found.
 - **Labelled interpretation:** Ch. 2's anti-Platonic argument (writing is memory's condition, not its death) is the clearest application in the book. Its target is Michel Serres's view that externalizing memory to machines frees us for pure knowledge. For Stiegler, there is no knowledge outside its retentional supports.
+
+## In the printed text (owner's copy, read Nov 2026)
+
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 79: living memory exceeds its "retentional finitude" by exteriorization. p. 88: memory as retention is selection, and industrializing it defines new criteria of selection.

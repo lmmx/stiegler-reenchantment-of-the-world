@@ -30,3 +30,4 @@ The central distinction of [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignor
 ## In the printed text (owner's copy, read Nov 2026)
 
 - [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 33: capitalism tends "to produce entropy and distaste"; n. 12: negentropy fights entropy, "the equalization and indifferentiation of all things", and individuation is essentially negentropic.
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) pp. 77–79 (printed text): information as commodity is "in its essence entropic"; knowledge "in its essence negentropic", intensifying (Kant, Thom) and constituting "the time of existence". p. 72: knowledge is critique and therefore "intrinsically contradictory to adaptation". p. 67: adaptation is "deeply entropic".
