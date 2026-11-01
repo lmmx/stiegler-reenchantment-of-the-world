@@ -1,0 +1,13 @@
+# Minimal on purpose: two read-only syntax checks (the workflow YAML and zensical.toml).
+# Nothing here rewrites files, and pre-commit.ci neither autofixes nor opens PRs.
+ci:
+  autofix_prs: false
+  autoupdate_schedule: quarterly
+  autoupdate_commit_msg: "chore(pre-commit): autoupdate hooks"
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-yaml
+      - id: check-toml
