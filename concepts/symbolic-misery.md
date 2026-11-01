@@ -14,8 +14,8 @@ Symbolic misery is the loss of individuation that results from losing **particip
 ## Where it appears
 
 - Implicit throughout. The [2005 Manifesto](../chapters/02-manifesto-2005.md) on the destruction of singular objects of desire and symbolic practices.
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) §3: malaise, self-disgust and the insipid world (the *sapere*/*sapide* pun). P. 39: "absolute spiritual misery" (the Nice case, end of 2005). P. 58: a century of aesthetics in the service of production and consumption yields "profound symbolic and spiritual misery".
 - [Tunis motion](../chapters/06-tunis-motion.md): "**spiritual misery**" (*misère spirituelle*) striking the industrial world.
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) §3: malaise, self-disgust and the insipid world (the *sapere*/*sapide* pun).
 - Stiegler's *Libération* diary (June 2005): the ruin of symbolic exchange as "the great symbolic misery in which desire in general collapses" ([source](../sources/primary-parallel-stiegler-liberation-diary-2005.md)).
 
 ## Related terms
@@ -31,9 +31,4 @@ Symbolic misery is the loss of individuation that results from losing **particip
 
 ## Disagreements
 
-- No source found disputes the concept directly.
 - **Labelled interpretation:** the term is used more than it is explained in this book. A reader new to Stiegler will need *Symbolic Misery* vol. 1, ch. 1–2, to see why aesthetic participation is the model for all participation. The *Libération* diary cites Leroi-Gourhan's "one must participate in order to feel".
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 39: "absolute spiritual misery" (the Nice case, end of 2005); p. 58: a century of aesthetics in the service of production and consumption yields "profound symbolic and spiritual misery".

@@ -7,8 +7,6 @@ description: 'Trevor Arthur''s Translator''s Preface (pp. vii–ix): why savoir-
 
 [Home](../README.md) › [Overview](../overview.md) › [Structure](../STRUCTURE.md) › **Translator's Preface** · next: [Introduction →](01-introduction-what-is-to-be-done.md)
 
-> **Basis:** read in full in the publisher preview ([source](../sources/primary-bloomsbury-preview-2014.md)). Confidence: **high**.
-
 ## Abstract (L2)
 
 A three-page note by the American translator. It explains two choices that shape how English readers meet the book: leaving ***savoir-faire*** and ***savoir-vivre*** untranslated, and the inadequacy of "spirit" for ***esprit***. On the way it gives a compact gloss of the book's problem: **industrial populism** proletarianizes us twice, as workers and as consumers. Its remedy is the **value of spirit**.

@@ -20,10 +20,10 @@ Ch. 1 §3 gives the short form: the proletarian is one who **loses their knowled
 ## Where it appears
 
 - [Translator's Preface](../chapters/00-translators-preface.md): *savoir-faire*, *savoir-vivre*, double proletarianization.
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) §3 (pp. 31–33): generalized proletarianization through service capitalism's control of adoption; also "The consumer discharged of his existence" (p. 30).
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 71: losses of *savoir-faire* and *savoir-vivre* as losses of individuation.
-- [2010 Manifesto](../chapters/03-manifesto-2010.md) §5–6: definition; "disapprenticeship"; free software as **de-proletarianization**.
 - Not in the [2005 Manifesto](../chapters/02-manifesto-2005.md) as a term.
+- [2010 Manifesto](../chapters/03-manifesto-2010.md) §5–6: definition; "disapprenticeship"; free software as **de-proletarianization**.
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md): "The consumer discharged of his existence" (p. 30). §3 (pp. 31–35): generalized proletarianization through service capitalism's control of adoption. "One who has lost his ways of knowing has been proletarianized". The producer loses *savoir-faire* and becomes labour power (*force de travail*); the consumer loses *savoir-vivre*, which becomes a mode of employment, and becomes purchasing power (*pouvoir d'achat*). Fordism generalizes this, masked by making the producer a consumer. P. 51: machines (Taylor), then appliances, exteriorize knowledge into algorithms, giving proletarianization and loss of *savoir-faire*, *savoir-vivre* and contemplation.
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) pp. 71–72: losses of *savoir-faire* and *savoir-vivre* over a few decades, as losses of individuation. P. 74: digital instrumentalization proletarianizes researchers and dissociates cognitive milieus.
 
 ## Related terms
 
@@ -41,8 +41,3 @@ Ch. 1 §3 gives the short form: the proletarian is one who **loses their knowled
 - **Marxist critics** (Hutnyk 2012; Manche 2021; Lotz): redefining the proletariat by **loss of knowledge** rather than **dispossession and wage-labour** sidelines class, exploitation and accumulation. Manche's title puts it sharply: "The problem is proletarianisation, not capitalism" ([Hutnyk](../sources/lit-hutnyk-proletarianisation-2012.md), [Manche](../sources/lit-manche-proletarianisation-not-capitalism-2021.md)).
 - **Sympathetic readers** (Ross, Lemmens) reply that Stiegler is returning to an earlier sense found in Marx's *Grundrisse* (knowledge absorbed into fixed capital) and in Simondon ([Lemmens](../sources/lit-lemmens-digital-pharmakon-general-intellect-2017.md)).
 - **Labelled interpretation:** the concept explains the book's otherwise surprising politics. If the problem is loss of knowledge rather than ownership, the remedy is de-proletarianization through new practices and instruments, which leaves the question of property in second place.
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) pp. 32–35: "One who has lost his ways of knowing has been proletarianized". The producer loses *savoir-faire* and becomes labour power (*force de travail*); the consumer loses *savoir-vivre*, which becomes a mode of employment, and becomes purchasing power (*pouvoir d'achat*). Fordism generalizes this, masked by making the producer a consumer. p. 51: machines (Taylor), then appliances, exteriorize knowledge into algorithms, giving proletarianization and loss of *savoir-faire*, *savoir-vivre* and contemplation.
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 74: digital instrumentalization proletarianizes researchers and dissociates cognitive milieus. p. 72: losses of *savoir-faire* and *savoir-vivre* over a few decades.

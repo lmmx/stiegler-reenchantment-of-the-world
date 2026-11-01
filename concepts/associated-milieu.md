@@ -13,9 +13,9 @@ description: 'Simondon''s associated milieu, and Stiegler''s contrast between as
 
 ## Where it appears
 
-- [2010 Manifesto](../chapters/03-manifesto-2010.md) §3: on the internet, contributors "form what one calls an **associated milieu**—thereby taking up a concept from Gilbert Simondon". §7: digital infrastructure as an "industrial and technogeographical associated milieu". Its footnote 9 refers back to *Réenchanter le monde* (2006) for the concept, though the page number is left blank in the web draft.
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md): **central**. Simondon's concept and the Guimbal turbine (p. 36); language as the model associated milieu (pp. 34, 49); the internet "structurally constitutes an associated milieu", unlike earlier industrial apparatuses (p. 37); dissociated milieus are "ANTISOCIAL" (p. 36); the *polis* reconstitutes an "as-sociated milieu" through literal writing (p. 49); public power and the European way of life (pp. 53–55); the American revival of associated milieus (p. 45).
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 91: "societies of authors and readers" against the split of transmitters and receivers.
+- [2010 Manifesto](../chapters/03-manifesto-2010.md) §3: on the internet, contributors "form what one calls an **associated milieu**—thereby taking up a concept from Gilbert Simondon". §7: digital infrastructure as an "industrial and technogeographical associated milieu". Its note 9 refers back to *Réenchanter le monde* (2006) for the concept.
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md): **central**. Language as the model associated milieu (pp. 34, 49); Simondon's concept and the Guimbal turbine (p. 36); dissociated milieus are "ANTISOCIAL" (p. 36); the internet "structurally constitutes an associated milieu", unlike earlier industrial apparatuses (p. 37); the American revival of associated milieus (p. 45); the *polis* reconstitutes an "as-sociated milieu" through literal writing (p. 49); public power and the European way of life (pp. 53–55).
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md): **Minitel** "inaugurated the age of associated milieus founded upon an industrial technology" (p. 61). Tele-cracy is "the perfect accomplishment of the dissociated milieu" (p. 62). Only associated milieus let "the life of the spirit" blossom (p. 67). The knowledge society is "the generalization of associated milieus" (p. 69). Associated milieus are "the a priori condition of any society worthy of the name" (p. 75). Push vs pull in TV/IP convergence (pp. 81–82). The library is an associated milieu par excellence (p. 86). "Societies of authors and readers" against the split of transmitters and receivers (p. 91). N. 3: a human milieu is only ever *relatively* associated.
 
 ## Related terms
 
@@ -32,8 +32,3 @@ description: 'Simondon''s associated milieu, and Stiegler''s contrast between as
 
 - **Stiegler against his 2006–2010 self:** later (2018, p. 100) he argues the reticulated web has become "a systemically dissociating milieu, because it is hyper-proletarianizing". The book's hope is thus revised by its author.
 - **Labelled interpretation:** whether a platform is "associated" turns on who sets the rules (reciprocity, the reader able to write). That is why the 2010 Manifesto ties the concept to free software rather than to "Web 2.0" in general.
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- The 2006 text confirms Stiegler's later citation (*The Neganthropocene*, notes 271 and 449) of this book as his analysis of the digital evolution of associated milieus.
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md): **Minitel** "inaugurated the age of associated milieus founded upon an industrial technology" (p. 61). Tele-cracy is "the perfect accomplishment of the dissociated milieu" (p. 62). Only associated milieus let "the life of the spirit" blossom (p. 67). The knowledge society is "the generalization of associated milieus" (p. 69). Associated milieus are "the a priori condition of any society worthy of the name" (p. 75). Push vs pull in TV/IP convergence (pp. 81–82). The library is an associated milieu par excellence (p. 86). Ch. 2 n. 3: a human milieu is only ever *relatively* associated.

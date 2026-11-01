@@ -14,9 +14,10 @@ Short-termism is the systematic sacrifice of the long term to the short term in 
 ## Where it appears
 
 - [2005 Manifesto](../chapters/02-manifesto-2005.md): market criteria favour "short-term financial investments"; shareholders want returns "never below 15%".
+- [2010 Manifesto](../chapters/03-manifesto-2010.md) §1: "neo-liberal short-termism" leads to disinvestment. The speculator is "a capitalist who no longer invests". §5: guarantee the short term in order to reach and **reverse** it in the long term.
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 40: economic actors draw short-term private profit from dissociation and so have no interest in change, "wrong… regarding their own long-term interests". P. 52: financier capitalism dominates and paralyses the long-term initiatives of industrial capitalism.
 - [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 66: Medef's "continuous adaptation" is an entropic vicious circle. Industrial policy for technologies of spirit can only be **long-term**, led by a new public power.
 - [Tunis motion](../chapters/06-tunis-motion.md): public and private funds should not seek "short-term returns on investment".
-- [2010 Manifesto](../chapters/03-manifesto-2010.md) §1: "neo-liberal short-termism" leads to disinvestment. The speculator is "a capitalist who no longer invests". §5: guarantee the short term in order to reach and **reverse** it in the long term.
 
 ## Related terms
 
@@ -32,7 +33,3 @@ Short-termism is the systematic sacrifice of the long term to the short term in 
 ## Disagreements
 
 - Little disagreement on the diagnosis. The **critics' question** is about agency: who will impose the long term? Stiegler's answer, a "new public power" with industry, is what Lotz and Manche find reformist and Lemmens finds statist ([reception.md](../reception.md)).
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 40: economic actors draw short-term private profit from dissociation and so have no interest in change, "wrong… regarding their own long-term interests". p. 52: financier capitalism dominates and paralyses the long-term initiatives of industrial capitalism.

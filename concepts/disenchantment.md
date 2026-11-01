@@ -19,10 +19,11 @@ There is also a literal play: *savoir*/*sapere*/*sapide*. A world without knowle
 
 ## Where it appears
 
-- Title. [Introduction](../chapters/01-introduction-what-is-to-be-done.md) pp. 2–3; epigraph by **Ulrich Beck** (what capitalism disenchants are pre-modern traditions, which stopped regenerating after the 1950s).
-- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) "Re-enchanting the world faced with the unhappy destiny of consumption" (p. 33); "The plane [or *plan*?] that enchants me" (p. 58).
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 64 ("on the possibility of 're-enchanting the world'"); p. 71 ("Information society, disenchantment, demotivation…").
+- Title. [Introduction](../chapters/01-introduction-what-is-to-be-done.md) pp. 2–3; epigraph by **Ulrich Beck** (what capitalism disenchants are pre-modern traditions, which stopped regenerating after the 1950s). P. 5: Medef's slogan refers to Weber. Capitalism unleashes disenchantment "with a stroke of enchantment": the Protestant spirit, tied to the printing press as a "techno-logy" of spirit. Rationalization (reason as *ratio*) then lowers the value of spirit, and the present low calls for a **sursaut**.
 - [2010 Manifesto](../chapters/03-manifesto-2010.md) §4.4: reason replaced by **rationalization** (Weber, Adorno, Marcuse, Habermas).
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) "Re-enchanting the world faced with the unhappy destiny of consumption" (p. 33); "The plane that enchants me" (p. 58). The "plane of motifs" is "the plane of enchantment" (p. 58). Enchantment is motivation, which requires incalculable singularities (pp. 58–60).
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 64 ("on the possibility of 're-enchanting the world'"); p. 71 ("Information society, disenchantment, demotivation…"). Pp. 71–72: talk of "enchantment" is possible because the economy is libidinal; motives are projected onto "the plane that enchants me" (n. 17); cognitive capitalism brings Weber's disenchantment to its climax.
+- [Motion](../chapters/06-tunis-motion.md) p. 96: spiritual misery and Weber's disenchantment.
 
 ## Related terms
 
@@ -37,11 +38,6 @@ There is also a literal play: *savoir*/*sapere*/*sapide*. A world without knowle
 
 ## Disagreements
 
-- **Rossouw (2015, abstract only):** re-enchantment as a secularized Christian (theological) project ([source](../sources/lit-rossouw-aestheology-new-otium-2015.md)).
+- **Rossouw (2015):** re-enchantment as a secularized Christian (theological) project ([source](../sources/lit-rossouw-aestheology-new-otium-2015.md)).
 - **Lotz (2015):** "new spirit of capitalism" talk veils the real restructuring needed ([source](../sources/review-lotz-marx-and-philosophy-2015.md)).
 - **Labelled interpretation:** the book does *not* call for re-sacralization. The Tunis motion explicitly warns against locating spirit only in religion. Its "enchantment" is closer to motivation, desire and meaning sustained by knowledge.
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 5: Medef's slogan refers to Weber. Capitalism unleashes disenchantment "with a stroke of enchantment": the Protestant spirit, tied to the printing press as a "techno-logy" of spirit. Rationalization (reason as *ratio*) then lowers the value of spirit, and the present low calls for a **sursaut**. [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 58: the "plane of motifs" is "the plane of enchantment"; pp. 58–60: enchantment is motivation, which requires incalculable singularities.
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) pp. 71–72: talk of "enchantment" is possible because the economy is libidinal; motives are projected onto "the plane that enchants me" (n. 17); cognitive capitalism brings Weber's disenchantment to its climax. [Motion](../chapters/06-tunis-motion.md) p. 96: spiritual misery and Weber's disenchantment.

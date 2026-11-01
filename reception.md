@@ -12,10 +12,10 @@ description: 'How the book was received: reviews, lines of critique, errors in c
 ## 1. Publication history and audience
 
 - **2006 (FR).** Published by Flammarion in October as a short, cheap book co-signed with the new association. It was one of four Stiegler books that year, alongside *Mécréance et discrédit 2–3* and *La Télécratie contre la démocratie*, and it was the most programmatic of them. Reissued in Flammarion's Champs paperback series in 2008, which is the source of the "2008" date that some sites give ([Babelio](sources/media-babelio-reader-reviews-2024.md), [catalogue records](sources/review-bnf-catalogue-records-2006.md)).
-- **French reception** found online is thin. It consists of a bookseller note ([Charybde](sources/review-hugues-charybde27-2024.md)), a short web review that finds the book "peu accessible aux non-initiés" ([Cherrier](sources/review-cherrier-lelitteraire-2012.md)), and reader pages. A 2007 review in *Spirale* exists but could not be read. Ars Industrialis's own sessions (2005–07) were the book's main French context ([context](sources/context-ars-industrialis-association.md)).
+- **French reception** is thin. It consists of a bookseller note ([Charybde](sources/review-hugues-charybde27-2024.md)), a short web review that finds the book "peu accessible aux non-initiés" ([Cherrier](sources/review-cherrier-lelitteraire-2012.md)), and reader pages. A 2007 review appeared in *Spirale*. Ars Industrialis's own sessions (2005–07) were the book's main French context ([context](sources/context-ars-industrialis-association.md)).
 - **Early English circulation** came before the translation, via tactical-media and net-art milieus ([Holmes 2007](sources/media-holmes-empyre-what-is-to-be-done-2007.md)), and via two sections translated by Stephen Barker in *New Formations* (2012) ([Barker](sources/review-barker-new-formations-2012.md)).
 - **South African reception (2012).** A pair of Afrikaans articles in *Tydskrif vir Geesteswetenskappe*: de Beer's enthusiastic review-article and Roodt's Arendtian critique of the manifestos ([de Beer](sources/review-debeer-tydskrif-vir-geesteswetenskappe-2012.md), [Roodt](sources/review-roodt-tydskrif-vir-geesteswetenskappe-2012.md)).
-- **2014 English edition.** Reviewed by Patrick Lyons in *Critical Inquiry* and Christian Lotz in *Marx & Philosophy Review of Books* (2015). No review was found in TCS, Radical Philosophy, Parrhesia or NDPR ([Lyons](sources/review-lyons-critical-inquiry-2014.md), [Lotz](sources/review-lotz-marx-and-philosophy-2015.md)).
+- **2014 English edition.** Reviewed by Patrick Lyons in *Critical Inquiry* and Christian Lotz in *Marx & Philosophy Review of Books* (2015). ([Lyons](sources/review-lyons-critical-inquiry-2014.md), [Lotz](sources/review-lotz-marx-and-philosophy-2015.md)).
 
 ## 2. Lines of critique
 
@@ -34,7 +34,7 @@ The manifestos and motion call for a "new form of public power" with industry, a
 - **Roodt (Arendtian):** the 2005 Manifesto invokes Arendt's *Life of the Mind*, but by treating mind as libido and as a function of economic forces it loses Arendt's distinction between thinking and doing.
 - **De Beer:** embraces the spirit vocabulary in a quasi-spiritual, Heideggerian register.
 - **Abbinnett:** a Derridean reading. Spirit must pass through technical memory, against Beardsworth's "futural" reading ([Abbinnett](sources/lit-abbinnett-politics-of-spirit-2015.md)).
-- **Rossouw (abstract):** re-enchantment and the "new otium" as Christianity by other means ([Rossouw](sources/lit-rossouw-aestheology-new-otium-2015.md)).
+- **Rossouw:** re-enchantment and the "new otium" as Christianity by other means ([Rossouw](sources/lit-rossouw-aestheology-new-otium-2015.md)).
 - **Cohen:** the Valéry genealogy; care as Foucauldian *epimeleia* ([Cohen](sources/lit-cohen-dare-to-care-2017.md)).
 
 ### 2.5 Media-theory reception
@@ -56,7 +56,7 @@ In *The Neganthropocene* (2018), Stiegler cites this book as his analysis of Sim
 - **"Available brain time"** became a French classroom topic, via documentary rather than this book ([fiche](sources/media-plandetudes-fiche-temps-de-cerveau-2010.md)).
 - Recent readers find the book prescient about attention economies and AI ([Goodreads](sources/media-goodreads-reader-reviews-2026.md)).
 
-## 5. Errors in circulation (verified against primary sources)
+## 5. Errors in circulation
 
 | Claim | Where | Correct |
 |---|---|---|
@@ -68,9 +68,9 @@ In *The Neganthropocene* (2018), Stiegler cites this book as his analysis of Sim
 | The 2010 Manifesto is part of *Réenchanter le monde* | implied by the EN packaging | Added in the English edition only |
 | Same book as Maffesoli's *Le Réenchantement du monde* (2007) or Landy & Saler (2009) | search conflation | Unrelated books |
 
-## 7. What the printed text adds to the debate (owner's copy, pp. 1–60)
+## 6. What the book's own text says on these debates
 
-*Evaluation, labelled.* Reading the Introduction and Chapter 1 in full sharpens several of the disputes above.
+*Evaluation, labelled.* The text of the book bears directly on several of the disputes above.
 
 - **Reformism is explicit, with a hedge.** Capitalism "to this day does not have a credible alternative" (Introduction, p. 6). The aim is to make "the revolution of a capitalism that is on the road to collapse" together with "revolutionary capitalists", likened to the French bourgeoisie of the late eighteenth century (p. 53). Public opinion should back *industrial* capitalism against *financier* capitalism (p. 7). This supports Lotz, Hutnyk and Manche on the reformist reading. Yet Stiegler also writes of a new spirit of capitalism "while waiting for the replacement of the latter by another form of society" (p. 37), and of no future "of capitalism, or a beyond of capitalism, which is certainly not eternal" (p. 60). His position is therefore post-capitalist in horizon and reformist in strategy, not simply pro-capitalist.
 - **"Only Wikipedia" is too strong.** Lotz says Wikipedia is the book's only example of cooperative knowledge instruments. Chapter 1 already rests its alternative on open-source software, Linux and the IP network as an associated milieu (pp. 36–37), and the 2010 Manifesto adds free software, smart grids and AMAP.
@@ -78,17 +78,13 @@ In *The Neganthropocene* (2018), Stiegler cites this book as his analysis of Sim
 - **The labour objection.** Lotz says labour control "evaporates". Chapter 1 does address labour: Taylorism as the grammatization of gesture (n. 38); de-industrialization as offshoring to "very poorly remunerated workers, if not… slaves" (p. 29); and the proletarianized producer turned consumer under Fordism (p. 35). But it subordinates exploitation of labour to the loss of knowledge and the exhaustion of libido, which is just what the Marxist critics object to.
 - **The decline narrative.** Chapter 1's evidence for "spiritual misery" is largely anecdotal and drawn from the press: a Nice crime, Skyblogs, the Durn and Brunerie cases, the November 2005 riots, an Inserm study on attention disorders (pp. 39, 57–58). This bears out Hutnyk's methodological complaint, though it is consistent with the book's genre as an engaged manifesto.
 - **The pharmakon reading** (Lyons) is supported by the 2006 text itself (pp. 47–51), not just by the 2010 Manifesto.
-- **Lotz's page citations check out.** pp. 1–4, 6–7, 23–24, 33 ("enslaved spirit"), 57 (short-circuiting transindividuation) and 58 ("lost the feeling of existing") all match the printed text.
-
-## 8. From the printed Chapter 2 and the motion
-
-*Evaluation, labelled.*
+- **Lotz's page citations are accurate.** His references to pp. 1–4, 6–7, 23–24, 33 ("enslaved spirit"), 57 (short-circuiting transindividuation) and 58 ("lost the feeling of existing") all match the text.
 - **Property.** The complete motion (p. 95) calls knowledge a common good that "does not belong to anyone" and accepts only *temporary* limits from intellectual property. That is a sharper challenge to property relations than the Marxist reviews allow. Ch. 2 still frames the aim as "the reconstitution of a capitalist future" (p. 67).
 - **State and the US model.** The motion praises American federal industrial strategy (the internet, the FCC, the State with universities and the military) as a model for Europe (pp. 98–99). This supports Lemmens's charge of statism, but it is a strategic, not a nationalist, statism.
 - **Concreteness.** Ch. 2 names specific projects (INA 1997, IRCAM, IRI, the 1989–92 computer-assisted-reading prototype, the 1996 Nord-Pas-de-Calais report). The "abstract remedy" charge fits the philosophical framing better than the policy content.
-- **Hindsight.** The judgement that Lisbon "will have been a total failure" (p. 91) may be a later revision. That has not been checked against the French.
+- **Hindsight.** The judgement that Lisbon "will have been a total failure" (p. 91) may be a later revision for the English edition.
 
-## 6. Room for your own reading
+## 7. Open questions
 
 These are open questions the sources leave undecided. They are posed neutrally and are not answered here:
 

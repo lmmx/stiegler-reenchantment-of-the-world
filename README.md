@@ -2,7 +2,7 @@
 
 *Bernard Stiegler & Ars Industrialis, **Réenchanter le monde. La valeur esprit contre le populisme industriel** (Flammarion, 2006); **The Re-Enchantment of the World: The Value of Spirit against Industrial Populism**, trans. Trevor Arthur (Bloomsbury Academic, 2014).*
 
-> A fair-use companion. It holds condensed summaries and evaluated third-party accounts. It does **not** reproduce the book. How it was made and what is still uncertain: [NOTES-ON-METHOD.md](https://github.com/lmmx/stiegler-reenchantment-of-the-world/blob/master/NOTES-ON-METHOD.md). Read it as a website at [lmmx.github.io/stiegler-reenchantment-of-the-world](https://lmmx.github.io/stiegler-reenchantment-of-the-world/).
+> A fair-use companion of condensed summaries, short attributed quotations and evaluated third-party accounts. It does **not** reproduce the book. Read it as a website at [lmmx.github.io/stiegler-reenchantment-of-the-world](https://lmmx.github.io/stiegler-reenchantment-of-the-world/).
 
 ## The thesis in one sentence
 
@@ -19,10 +19,10 @@ In 2005 the French employers' federation, Medef, held its summer university unde
 | **L0** | this page | thesis and one-paragraph overview |
 | **L1** | [overview.md](overview.md) | the argument arc in six steps, place in Stiegler's corpus, the Ars Industrialis project |
 | **L2** | each file in [chapters/](chapters/README.md), from the "Abstract" down to "Concepts" | per part: abstract, core claims, argumentative moves, concepts introduced |
-| **L3** | the "Section-by-section" table in each chapter file | section-level paraphrase with English-edition page numbers and confidence labels |
+| **L3** | the "Section-by-section" table in each chapter file | section-level paraphrase with English-edition page numbers |
 | ↔ | [concepts/](concepts/README.md) and [GLOSSARY.md](GLOSSARY.md) | definitions, where each term appears, cross-links, how secondary sources gloss it |
 | ↔ | [INDEX.md](INDEX.md) | chapters ↔ concepts ↔ sources |
-| meta | [STRUCTURE.md](STRUCTURE.md) | verified table of contents, FR/EN differences, where each part came from |
+| meta | [STRUCTURE.md](STRUCTURE.md) | table of contents, FR/EN differences, where each part came from |
 | meta | [reception.md](reception.md) | critiques and reception, kept apart from the summaries |
 | meta | [sources/EVALUATION.md](sources/EVALUATION.md) | every third-party account rated, plus a ranked reading list |
 
@@ -35,14 +35,3 @@ In 2005 the French employers' federation, Medef, held its summer university unde
 4. [Ch. 1, The Re-Foundation of Society](chapters/04-ch1-re-foundation-of-society.md) (pp. 29–60)
 5. [Ch. 2, Against the Reign of Ignorance](chapters/05-ch2-against-the-reign-of-ignorance.md) (pp. 61–93)
 6. [Motion on the Eve of the Tunis Summit](chapters/06-tunis-motion.md) (pp. 95–100)
-
-### Confidence at a glance
-
-| Part | Basis | Confidence |
-|---|---|---|
-| Preface | publisher preview | high |
-| Introduction (pp. 1–9) | publisher preview + owner's copy | high |
-| Manifestos (pp. 11–28) | owner's copy, checked against the association's web versions | high |
-| Tunis motion (pp. 95–100) | owner's copy, complete printed text | high |
-| Ch. 2 (pp. 61–93) | owner's copy, read in full with notes; compared with its 2005 precursor talk | high |
-| Ch. 1 | owner's copy, read in full (pp. 29–60, notes) | high |

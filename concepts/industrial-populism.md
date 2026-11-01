@@ -13,10 +13,11 @@ Industrial populism is a populism produced **by the organization of the economy*
 
 ## Where it appears
 
-- Subtitle; [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 1 (definition), pp. 2–3 (Seillière/Le Lay).
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) "Enterprises, public power, and industrial populism" (p. 66): evidence from Le Lay; contrast with a knowledge society.
-- [Tunis motion](../chapters/06-tunis-motion.md): TV must become "an instrument of knowledge" rather than of industrial populism.
+- Subtitle; [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 1 (definition), pp. 2–3 (Seillière/Le Lay). P. 5: nearly all social life is controlled by the "industry of available brain-time", i.e. industrial populism. P. 7: **financier capitalism** is "the true underwriter of industrial populism".
 - [2010 Manifesto](../chapters/03-manifesto-2010.md) §9.6: media policy against an industrial populism "induced by the drive-based becoming of consumerism".
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 50: industrial populism and tele-cratic television as a process of disindividuation (Berlusconi's "tele-cracy").
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 62: tele-cracy "leads ineluctably to populism". "Enterprises, public power, and industrial populism" (p. 66): evidence from Le Lay; contrast with a knowledge society. P. 69: the model of dissociated milieus "inevitably leads to industrial populism". P. 75: tele-cracy is "the Italian name for industrial populism" (Berlusconi).
+- [Tunis motion](../chapters/06-tunis-motion.md) p. 97: TV must become an instrument of knowledge "and no longer the instrument of debasement and of industrial populism".
 - Already in Stiegler's *Libération* diary (June 2005): industrial populism produces **desublimation**, which is "the enemy" ([source](../sources/primary-parallel-stiegler-liberation-diary-2005.md)).
 
 ## Related terms
@@ -31,13 +32,8 @@ Industrial populism is a populism produced **by the organization of the economy*
 - **Abbinnett (2015):** uses the term as shorthand for the "disorientated life" of consumer culture ([source](../sources/lit-abbinnett-politics-of-spirit-2015.md)).
 - **Context:** the exact wording and source of Le Lay's statement is in [context-le-lay-temps-de-cerveau-2004.md](../sources/context-le-lay-temps-de-cerveau-2004.md).
 
-## Disagreements and gaps
+## Disagreements
 
-- The secondary literature **uses the term but rarely analyses it**. No source found offers a sustained critique of the concept itself.
+- The secondary literature **uses the term but rarely analyses it**.
 - **Labelled interpretation:** in 2005–06 the concept is *television-centred* (Le Lay, *Star Academy*). Readers such as a Goodreads reviewer note that the remedies are correspondingly TV-focused ([source](../sources/media-goodreads-reader-reviews-2026.md)). Its extension to platforms and social media is a later move by Stiegler (2010 Manifesto §4; *The Neganthropocene*).
 - The French term differs from the Anglo-American political-science use of "populism". Stiegler's claim is causal: economic organization comes first, political populism second.
-
-## In the printed text (owner's copy, read Nov 2026)
-
-- [Introduction](../chapters/01-introduction-what-is-to-be-done.md) p. 5: nearly all social life is controlled by the "industry of available brain-time", i.e. industrial populism. p. 7: **financier capitalism** is "the true underwriter of industrial populism". [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) p. 50: industrial populism and tele-cratic television as a process of disindividuation (Berlusconi's "tele-cracy").
-- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 62: tele-cracy "leads ineluctably to populism". p. 69: the model of dissociated milieus "inevitably leads to industrial populism". p. 75: tele-cracy is "the Italian name for industrial populism" (Berlusconi). [Motion](../chapters/06-tunis-motion.md) p. 97: TV must become an instrument of knowledge "and no longer the instrument of debasement and of industrial populism".

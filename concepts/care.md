@@ -13,9 +13,11 @@ Care is attention to and concern for oneself, others and the world, sustained by
 
 ## Where it appears
 
-- [2010 Manifesto](../chapters/03-manifesto-2010.md) §2 (carelessness of the addicted; care to the heart of political economy), §4.2 (system of care), §5 (a new industrial economy "founded on care"), §7 (care as the "ethics" of contributory business).
 - [Translator's Preface](../chapters/00-translators-preface.md): *savoir-vivre* as "care for oneself and for sociality".
-- **In the 2006 chapters** (corrected after reading Ch. 1): care is the "political question par excellence", understood as **socio-therapy**, the care taken of individuation (p. 47). Traditional societies "take care" of libidinal energy (*philia*, *eros*, *agape*, *caritas*, *mana*) (p. 43). The stakes are "(a) founding then (b) caring for" individuation (p. 51). Public power is the care of the social dynamic (p. 54). Consistencies must be treated "with the greatest care" by a libidinal *eco-nomy* (p. 60). Ch. 2 adds responsibility, attention and the school (pp. 79–91). *Prendre soin* (2008) systematizes the theme but did not introduce it.
+- [2010 Manifesto](../chapters/03-manifesto-2010.md) §2 (carelessness of the addicted; care to the heart of political economy), §4.2 (system of care), §5 (a new industrial economy "founded on care"), §7 (care as the "ethics" of contributory business).
+- [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md): traditional societies "take care" of libidinal energy (*philia*, *eros*, *agape*, *caritas*, *mana*) (p. 43). Care is the "political question par excellence", understood as **socio-therapy**, the care taken of individuation (p. 47). The stakes are "(a) founding then (b) caring for" individuation (p. 51). Public power is the care of the social dynamic (p. 54). Consistencies must be treated "with the greatest care" by a libidinal *eco-nomy* (p. 60).
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) adds responsibility, attention and the school (pp. 79–91).
+- *Prendre soin* (2008) systematizes the theme; it does not introduce it.
 
 ## Related terms
 
