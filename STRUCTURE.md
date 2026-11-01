@@ -37,7 +37,7 @@ Repo file for each part in the right-hand column.
 | &nbsp;&nbsp;Making the revolution of capitalism | 51 | |
 | &nbsp;&nbsp;A European way of life | 53 | |
 | &nbsp;&nbsp;The plane that enchants me | 58 | |
-| **2 Against the Reign of Ignorance: Investing in an Increase in the Value of "Spirit"** | 61–94 | [chapters/05-ch2-against-the-reign-of-ignorance.md](chapters/05-ch2-against-the-reign-of-ignorance.md) |
+| **2 Against the Reign of Ignorance: Investing in an Increase in the Value of "Spirit"** | 61–93 (p. 94 blank) | [chapters/05-ch2-against-the-reign-of-ignorance.md](chapters/05-ch2-against-the-reign-of-ignorance.md) |
 | &nbsp;&nbsp;From the "informatization of society" to the "society of information" | 61 | |
 | &nbsp;&nbsp;From the "information society" to "societies of knowledge"—or, on the possibility of "re-enchanting the world" | 64 | |
 | &nbsp;&nbsp;Enterprises, public power, and industrial populism | 66 | |
@@ -52,7 +52,7 @@ Repo file for each part in the right-hand column.
 | &nbsp;&nbsp;Being and becoming in "technoscience" | 89 | |
 | &nbsp;&nbsp;The crisis of education | 90 | |
 | &nbsp;&nbsp;Practical consequences | 91 | |
-| **A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit** | 95–100 | [chapters/06-tunis-motion.md](chapters/06-tunis-motion.md) |
+| **A Motion Adopted by Ars Industrialis on the Eve of the Tunis Summit** | 95–100 (complete text; *Libération* printed part) | [chapters/06-tunis-motion.md](chapters/06-tunis-motion.md) |
 | &nbsp;&nbsp;The true stakes of the Tunis summit | 95 | |
 | Notes | 101–112 | — |
 | Bibliography | 113–114 | — |
@@ -91,7 +91,13 @@ One snippet places "Le plan qui m'enchante" in a "deuxième partie" (second part
 - "**Le sursaut : entreprendre autrement**" may be a *parent* heading in French with "Grammatisation et individuation hier, aujourd'hui et demain" nested under it. The English lists both as flat sections, and gives the subtitle as "starting over again" rather than "undertaking/enterprising otherwise". If confirmed, the English contents flatten a two-level French structure, and the subtitle loses the pun on *entreprendre*/*entreprise* (business). *(Text check: the English section turns on *entreprendre*, "UNDERTAKE A FOUNDATION (ENTREPRENDRE DE FONDER)", p. 46, so the French subtitle "entreprendre autrement" fits the content. The heading's place in the French hierarchy remains unverified.)*
 - ~~"Le plan qui m'enchante" suggests a mistranslation~~ **Withdrawn after reading the text.** "Plan" here means *plane* ("the plane of motifs… the plane of enchantment", p. 58; "a plane other than that of the calculable", p. 59). The English is correct.
 
-**What is not verified.** We have not seen a complete French table of contents. We therefore cannot confirm whether the French edition has the same two-chapter division or the same section order, or whether it prints the Tunis motion (plausible, since the motion dates from Nov 2005). See [NOTES-ON-METHOD.md](NOTES-ON-METHOD.md) §Gaps.
+**Verified from the owner's copy (second batch: pp. 61–100, notes pp. 108–112, bibliography pp. 113–114).**
+- **The French edition prints the Tunis motion, at FR p. 163.** Chapter 2's n. 6 gives this page. The open question about whether the motion appears in the French book is settled.
+- Chapter 2 runs pp. 61–93, with all 14 section start pages matching the contents. The motion runs pp. 95–100, and its notes are on p. 112.
+- **The bibliography (pp. 113–114) contains an error:** *La Révolution technologique de la grammatisation* (Mardaga, 1993) is listed under "Fauré, Christian". The book is by **Sylvain Auroux**, and Ch. 2 n. 40 cites it correctly by title.
+- Ch. 2 n. 20 shows why the French edition is dedicated to Laurence Parisot. Stiegler saw her succession to Seillière at Medef as giving "some hope" for civic responsibility among French employers.
+
+**What is not verified.** We have not seen a complete French table of contents. We therefore cannot confirm whether the French edition has the same two-chapter division or the same section order, or (the motion question is now settled: FR p. 163). See [NOTES-ON-METHOD.md](NOTES-ON-METHOD.md) §Gaps.
 
 ## Genealogy of the parts (where each text comes from)
 

@@ -33,7 +33,7 @@ In 2005 the French employers' federation, Medef, held its summer university unde
 2. [Ars Industrialis: 2005 Manifesto](chapters/02-manifesto-2005.md) (pp. 11–16)
 3. [Ars Industrialis: 2010 Manifesto](chapters/03-manifesto-2010.md) (pp. 17–28), English edition only
 4. [Ch. 1, The Re-Foundation of Society](chapters/04-ch1-re-foundation-of-society.md) (pp. 29–60)
-5. [Ch. 2, Against the Reign of Ignorance](chapters/05-ch2-against-the-reign-of-ignorance.md) (pp. 61–94)
+5. [Ch. 2, Against the Reign of Ignorance](chapters/05-ch2-against-the-reign-of-ignorance.md) (pp. 61–93)
 6. [Motion on the Eve of the Tunis Summit](chapters/06-tunis-motion.md) (pp. 95–100)
 
 ### Confidence at a glance
@@ -43,8 +43,8 @@ In 2005 the French employers' federation, Medef, held its summer university unde
 | Preface | publisher preview | high |
 | Introduction (pp. 1–9) | publisher preview + owner's copy | high |
 | Manifestos (pp. 11–28) | owner's copy, checked against the association's web versions | high |
-| Tunis motion | *Libération* excerpt (the book prints the complete text, not photographed) | medium-high |
-| Ch. 2 | its 2005 precursor talk, whose headings match the chapter's, plus page-cited reviews | medium-high |
+| Tunis motion (pp. 95–100) | owner's copy, complete printed text | high |
+| Ch. 2 (pp. 61–93) | owner's copy, read in full with notes; compared with its 2005 precursor talk | high |
 | Ch. 1 | owner's copy, read in full (pp. 29–60, notes) | high |
 
 ## Your own reading

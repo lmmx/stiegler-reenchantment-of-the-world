@@ -40,3 +40,4 @@ Ch. 1 §3 gives the short form: the proletarian is one who **loses their knowled
 ## In the printed text (owner's copy, read Nov 2026)
 
 - [Ch. 1](../chapters/04-ch1-re-foundation-of-society.md) pp. 32–35: "One who has lost his ways of knowing has been proletarianized". The producer loses *savoir-faire* and becomes labour power (*force de travail*); the consumer loses *savoir-vivre*, which becomes a mode of employment, and becomes purchasing power (*pouvoir d'achat*). Fordism generalizes this, masked by making the producer a consumer. p. 51: machines (Taylor), then appliances, exteriorize knowledge into algorithms, giving proletarianization and loss of *savoir-faire*, *savoir-vivre* and contemplation.
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md) p. 74: digital instrumentalization proletarianizes researchers and dissociates cognitive milieus. p. 72: losses of *savoir-faire* and *savoir-vivre* over a few decades.

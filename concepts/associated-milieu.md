@@ -31,3 +31,4 @@
 ## In the printed text (owner's copy, read Nov 2026)
 
 - The 2006 text confirms Stiegler's later citation (*The Neganthropocene*, notes 271 and 449) of this book as his analysis of the digital evolution of associated milieus.
+- [Ch. 2](../chapters/05-ch2-against-the-reign-of-ignorance.md): **Minitel** "inaugurated the age of associated milieus founded upon an industrial technology" (p. 61). Tele-cracy is "the perfect accomplishment of the dissociated milieu" (p. 62). Only associated milieus let "the life of the spirit" blossom (p. 67). The knowledge society is "the generalization of associated milieus" (p. 69). Associated milieus are "the a priori condition of any society worthy of the name" (p. 75). Push vs pull in TV/IP convergence (pp. 81–82). The library is an associated milieu par excellence (p. 86). Ch. 2 n. 3: a human milieu is only ever *relatively* associated.

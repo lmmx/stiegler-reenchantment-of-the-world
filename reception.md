@@ -75,6 +75,14 @@ In *The Neganthropocene* (2018), Stiegler cites this book as his analysis of Sim
 - **The pharmakon reading** (Lyons) is supported by the 2006 text itself (pp. 47–51), not just by the 2010 Manifesto.
 - **Lotz's page citations check out.** pp. 1–4, 6–7, 23–24, 33 ("enslaved spirit"), 57 (short-circuiting transindividuation) and 58 ("lost the feeling of existing") all match the printed text.
 
+## 8. From the printed Chapter 2 and the motion
+
+*Evaluation, labelled.*
+- **Property.** The complete motion (p. 95) calls knowledge a common good that "does not belong to anyone" and accepts only *temporary* limits from intellectual property. That is a sharper challenge to property relations than the Marxist reviews allow. Ch. 2 still frames the aim as "the reconstitution of a capitalist future" (p. 67).
+- **State and the US model.** The motion praises American federal industrial strategy (the internet, the FCC, the State with universities and the military) as a model for Europe (pp. 98–99). This supports Lemmens's charge of statism, but it is a strategic, not a nationalist, statism.
+- **Concreteness.** Ch. 2 names specific projects (INA 1997, IRCAM, IRI, the 1989–92 computer-assisted-reading prototype, the 1996 Nord-Pas-de-Calais report). The "abstract remedy" charge fits the philosophical framing better than the policy content.
+- **Hindsight.** The judgement that Lisbon "will have been a total failure" (p. 91) may be a later revision. That has not been checked against the French.
+
 ## 6. Room for your own reading
 
 These are open questions the sources leave undecided. They are posed neutrally and are not answered here:

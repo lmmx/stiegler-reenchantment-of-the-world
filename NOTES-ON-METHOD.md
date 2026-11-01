@@ -24,7 +24,9 @@ This file records how the companion was built: what was read, what was not, how 
 | Perlego listing (contents; preview fragment of p. 93) | perlego.com | Cross-check of contents; ending of Ch. 2 / motion |
 | **The owner's own copy of the English edition**: 66 photographs of pp. 1–9, 11–15, 17–60 and Notes pp. 101–108 (blank pp. 10 and 16 not photographed) | Supplied by the repo owner (Nov 2026); processed outside the repo (see below) | **Introduction pp. 4–9, both manifestos (exact pages), all of Chapter 1, notes to Introduction, manifestos and Ch. 1** |
 
-**Not consulted:** the printed English Chapter 2 (pp. 61–94), the printed Tunis motion (pp. 95–100), the Chapter 2 and motion notes (pp. 108–112) and the Bibliography. The French edition as a whole was not consulted either. No full text was obtained from shadow libraries. Pirate copies surfaced in search results and were deliberately not opened. Automated access to Google Books was blocked, and we did not try to get around that.
+**Second batch (Nov 2026):** 46 more photographs of the owner's copy. They cover pp. 61–100 (Chapter 2 and the complete Tunis motion; p. 94 is blank and was not photographed), the notes on pp. 108–112, and the bibliography on pp. 113–114. They went through the same pipeline: four-way orientation including 180° (the even pages were shot upside down), batch dewarp (46/46 succeeded, about 46 s), and OCR with layout ordering. Mean confidence is 0.91–0.99 per page. p. 93 (mostly blank) was rerun to 0.953 on its text lines. Every page was matched to its printed number by the OCR'd page number, or where that was misread, by sequence and headings.
+
+**Now consulted in print:** everything from p. 1 to p. 114 except the front matter beyond the preview (pp. v–x), the blank pp. 10, 16 and 94, and the index. The French edition as a whole was not consulted either. No full text was obtained from shadow libraries. Pirate copies surfaced in search results and were deliberately not opened. Automated access to Google Books was blocked, and we did not try to get around that.
 
 The web versions of the manifestos are the association's own translations, not Trevor Arthur's. The manifesto files now take their page numbers and wording checks from the printed text.
 
@@ -56,7 +58,7 @@ Page numbers are to the **English edition (Bloomsbury 2014)** unless marked "FR"
 ## 5. Gaps and open questions
 
 1. ~~Chapter 1 body text~~ **Resolved** with the owner's copy: "R technologies" are relational technologies (p. 29); "the plane that enchants me" is the plane of consistencies or motifs (pp. 58–60), and the earlier mistranslation flag is withdrawn; the *sursaut* is the re-founding of the "human enterprise" (*entreprendre de fonder*, p. 46), with no mention of the Camdessus report.
-2. **Chapter 2 additions.** The book version extends the 2005 talk (Wikipedia, judgement, collective intelligence). The extent of the revision is unknown.
+2. ~~Chapter 2 additions~~ **Resolved:** the printed chapter was read in full. A list of what it adds to the 2005 talk is in [chapters/05](chapters/05-ch2-against-the-reign-of-ignorance.md).
 3. ~~Introduction pp. 4–10~~ **Resolved** (pp. 4–9 read; p. 10 blank). The Introduction also states the book's provenance (p. 8) and that the motion is printed complete (p. 9).
 4. **The French table of contents** has not been seen complete. We do not know whether the French edition titles the Introduction "Que faire ?", whether it prints the Tunis motion, or where its chapter breaks fall.
 5. **Dedication** (Simon Nora; Laurence Parisot): attested for the French edition by one transcription. Whether it is in the English edition is still unknown, since the front matter was not photographed. Simon Nora is in any case cited in Ch. 1 (p. 48, n. 37).
@@ -78,6 +80,6 @@ Page numbers are to the **English edition (Bloomsbury 2014)** unless marked "FR"
 
 ## 6. How to extend this repo
 
-- Remaining work with the printed book: Chapter 2 (pp. 61–94) against its 2005 precursor, and the complete Tunis motion (pp. 95–100). Use the same pipeline: photograph, dewarp, OCR, then summarize.
+- Remaining work with the printed book: only the front matter (dedication, epigraph page) and the index are unread. The French edition has not been compared page by page.
 - Add new sources as `sources/<type>-<author>-<slug>-<year>.md` with the same front-matter, then add a row in [sources/EVALUATION.md](sources/EVALUATION.md) and links in [INDEX.md](INDEX.md).
 - Keep your own reading in a separate file or folder (e.g. `notes/`) so the objective layers stay clean.

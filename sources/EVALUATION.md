@@ -22,7 +22,7 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 | [primary-arsindustrialis-manifesto-2005](primary-arsindustrialis-manifesto-2005.md) | 2005 Manifesto (association's EN + FR) | M05 | high | Not Arthur's translation |
 | [primary-arsindustrialis-manifesto-2010](primary-arsindustrialis-manifesto-2010.md) | 2010 Manifesto (EN web draft + FR) | M10 | high | Footnotes unfinished in web draft |
 | [primary-arsindustrialis-tunis-motion-2005](primary-arsindustrialis-tunis-motion-2005.md) | Motion, *Libération* 14 Nov 2005 | T | high | Printed version slightly longer |
-| [primary-parallel-stiegler-colline-2005](primary-parallel-stiegler-colline-2005.md) | Stiegler's talk of 24 Sept 2005 | **C2** (precursor), I | high (as precursor) | Headings match C2 one-to-one; the book adds material |
+| [primary-parallel-stiegler-colline-2005](primary-parallel-stiegler-colline-2005.md) | Stiegler's talk of 24 Sept 2005 | **C2** (precursor), I | high (as precursor) | Headings match C2; checked against the printed chapter (Nov 2026), which is substantially expanded (Minitel history, associated milieus, Wikipedia, Passet, Mallarmé/Husserl) |
 | [primary-excerpt-fr-ch1-s3-homocoques](primary-excerpt-fr-ch1-s3-homocoques.md) | Amateur transcription: FR back cover, dedication, Ch. 1 §3 | C1 §3 | medium | Garbled encoding; only direct access to C1 |
 | [primary-parallel-stiegler-liberation-diary-2005](primary-parallel-stiegler-liberation-diary-2005.md) | *Libération* diary, June 2005 | I, C1 (context) | high (as Stiegler) | Only opening paragraphs read |
 | [primary-parallel-stiegler-uncontrollable-societies-nja-2013](primary-parallel-stiegler-uncontrollable-societies-nja-2013.md) | 2006 text (Disbelief & Discredit 2 intro), trans. Ross | spirit, industrial populism, Medef | high | **Best free contemporaneous parallel** |
@@ -114,6 +114,13 @@ These are not "accounts" of the book; they are the book's own texts or Stiegler'
 - **Holmes (2007)**: the Introduction is "Que faire ?", consistent with the English "What Is to Be Done?".
 - **EN Wikipedia** (three co-authors) is wrong. The Introduction (p. 6) and the manifesto signatures (p. 15) name five founders.
 - Our own earlier inferences, now corrected: "R technologies" = relational; plane, not plan; contribution, associated milieu and pharmakon are present in 2006; *otium* appears in the 2005 Manifesto; tertiary retention is in the Introduction's n. 2.
+
+## F3. Checked against the printed Chapter 2 and motion (owner's copy, second batch)
+
+- **Lotz**: the Ch. 2 citations hold. Wikipedia is indeed the instance he cites at p. 87, but the chapter also cites Minitel as the first industrial associated milieu (p. 61), and Web 2.0 (pp. 81, 93).
+- **Colline talk**: a faithful precursor in skeleton and theses, but it lacks about a third of the printed chapter.
+- **Tunis motion, web version**: an excerpt; the printed motion is roughly twice as long.
+- **The English edition's bibliography** misattributes Auroux's *La Révolution technologique de la grammatisation* to "Christian Fauré".
 
 ## G. Ranked reading list
 
