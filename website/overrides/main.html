@@ -18,7 +18,7 @@
   <meta name="twitter:description" content="{{ og_description }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..600&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..600&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&display=swap">
 {% endblock %}
 
 {#- The home page opens on the book's title, set like a cover; README.md's own heading and
@@ -26,9 +26,10 @@
 {% block hero %}
   {%- if page and (page.is_homepage or page.url in ['', '.', './']) %}
   <section class="rew-hero" aria-label="{{ config.site_name }}">
+    <div class="rew-hero__planes" aria-hidden="true"></div>
     <div class="rew-hero__inner md-grid">
       <p class="rew-hero__eyebrow">A study companion</p>
-      <h1 class="rew-hero__title">The Re-Enchantment of the World</h1>
+      <h1 class="rew-hero__title">The <span>Re-Enchantment</span><br>of the World</h1>
       <p class="rew-hero__subtitle">The Value of Spirit against Industrial Populism</p>
       <p class="rew-hero__byline">Bernard Stiegler &amp; Ars Industrialis · <i>Réenchanter le monde</i>, Flammarion 2006 · trans. Trevor Arthur, Bloomsbury 2014</p>
       <nav class="rew-hero__links" aria-label="Start reading">
