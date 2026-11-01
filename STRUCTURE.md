@@ -75,7 +75,18 @@ Page ranges for whole parts are the start of one part to the page before the nex
 9. **Editions:** BnF FRBNF40245952 (Flammarion 2006, 172 pp.); Champs paperback reissue, 3 Oct 2008, 176 pp. (EAN 978-2-08-121784-3); e-book 2013. See [sources/review-bnf-catalogue-records-2006.md](sources/review-bnf-catalogue-records-2006.md).
 10. **An earlier partial English translation exists.** Two sections were translated by Stephen Barker in *New Formations* (2012): "Grammatisation and Individuation Yesterday, Today, and Tomorrow" (= Ch. 1, p. 47) and "The Risk of Disindividuation as the Increase of Ignorance Rather Than Knowledge" (= Ch. 2, p. 81). See [sources/review-barker-new-formations-2012.md](sources/review-barker-new-formations-2012.md).
 
-**Provisional: French headings seen only in a retailer search snippet (Eyrolles), not verified in context.**
+**Provisional: French headings from retailer listings (Eyrolles for the 2008 Champs printing; Furet du Nord), seen as search-result snippets and not as a full page.** Independent snippets agree on these French headings:
+
+| French heading (as listed) | English equivalent | Observation |
+|---|---|---|
+| "**Refonder la société**" | Ch. 1 "The Re-Foundation of Society" | the French uses a verb ("re-found society") |
+| "**Le sursaut : entreprendre autrement**" | "The jumpstart (*le sursaut*): starting over again" (p. 44) | "entreprendre autrement" = "undertaking / doing business otherwise", whereas the English has "starting over again" |
+| "**Faire la révolution du capitalisme**" | "Making the revolution of capitalism" (p. 51) | matches |
+| "**A european way of life**" (in English in the French original) | "A European way of life" (p. 53) | Stiegler used the English phrase; the translation keeps it |
+| "**Le plan qui m'enchante**" | "The plane that enchants me" (p. 58) | *plan* ≠ *plane* (see below) |
+| "**Contre le règne de l'ignorance – investir dans l'augmentation de la valeur esprit**" | Ch. 2 title (p. 61) | matches ("increase" = *augmentation*) |
+
+One snippet places "Le plan qui m'enchante" in a "deuxième partie" (second part). That would mean the French has a part-level structure, perhaps with "Le sursaut" heading a second part, which the English contents flatten into Ch. 1. This cannot be confirmed without the book.
 
 - "**Le sursaut : entreprendre autrement**" may be a *parent* heading in French with "Grammatisation et individuation hier, aujourd'hui et demain" nested under it. The English lists both as flat sections, and gives the subtitle as "starting over again" rather than "undertaking/enterprising otherwise". If confirmed, the English contents flatten a two-level French structure, and the subtitle loses the pun on *entreprendre*/*entreprise* (business).
 - "**Le plan qui m'enchante**" against the English "**The plane that enchants me**". If the French reads *plan*, the English "plane" is probably a **mistranslation**: "the plan that enchants me", which would fit a closing section presenting a programme. This is unverified; the snippet may be garbled. It is the most consequential open question about Ch. 1's ending.
