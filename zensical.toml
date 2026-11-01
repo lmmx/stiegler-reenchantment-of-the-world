@@ -161,9 +161,9 @@ features = [
   "search.suggest",
   "toc.follow",
 ]
-# Archivo throughout (its width axis gives the condensed headings); the variable font
-# is loaded by website/overrides/main.html and set in website/assets/extra.css.
-font.text = "Archivo"
+# Barlow for text and Barlow Condensed for headings; both
+# are loaded by website/overrides/main.html and set in website/assets/extra.css.
+font.text = "Barlow"
 font.code = "JetBrains Mono"
 language = "en"
 variant = "modern"

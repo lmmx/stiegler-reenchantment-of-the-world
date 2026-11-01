@@ -18,7 +18,7 @@
   <meta name="twitter:description" content="{{ og_description }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;0,900;1,600;1,700&display=swap">
 {% endblock %}
 
 {#- The home page opens on the book's title, set like a cover; README.md's own heading and
@@ -26,6 +26,53 @@
 {% block hero %}
   {%- if page and (page.is_homepage or page.url in ['', '.', './']) %}
   <section class="rew-hero" aria-label="{{ config.site_name }}">
+    {#- The painting: washes of green laid with a dry brush, and a block arrow rising
+        through them. Drawn here in SVG; the bristle
+        texture is turbulence noise used as a mask, the ragged edges a displacement. -#}
+    <svg class="rew-hero__art" viewBox="0 0 640 520" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+      <defs>
+        <filter id="rew-bristle" x="-20%" y="-20%" width="140%" height="140%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.004 0.32" numOctaves="3" seed="7" result="streaks"/>
+          <feColorMatrix in="streaks" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -3.2 2.05" result="mask"/>
+          <feComposite in="SourceGraphic" in2="mask" operator="in" result="dry"/>
+          <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="3" result="warp"/>
+          <feDisplacementMap in="dry" in2="warp" scale="16" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+        <filter id="rew-block" x="-20%" y="-20%" width="140%" height="140%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.003 0.22" numOctaves="3" seed="21" result="streaks"/>
+          <feColorMatrix in="streaks" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.7 1.85" result="mask"/>
+          <feComposite in="SourceGraphic" in2="mask" operator="in" result="dry"/>
+          <feTurbulence type="fractalNoise" baseFrequency="0.025" numOctaves="2" seed="13" result="warp"/>
+          <feDisplacementMap in="dry" in2="warp" scale="14" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+        <filter id="rew-rough" x="-20%" y="-20%" width="140%" height="140%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="11" result="warp"/>
+          <feDisplacementMap in="SourceGraphic" in2="warp" scale="9" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+      </defs>
+      <g transform="rotate(-30 320 260)" filter="url(#rew-bristle)"><g class="rew-hero__washes" transform="rotate(30 320 260)" fill="none" stroke-linecap="round">
+        <path class="w1" d="M 40 560 C 180 380, 330 300, 690 120" stroke="#a8d80f" stroke-width="170"/>
+        <path class="w2" d="M 160 600 C 300 430, 420 380, 700 330" stroke="#23c26b" stroke-width="90" opacity="0.85"/>
+        <path class="w3" d="M 260 -40 C 360 120, 470 160, 700 60" stroke="#d6f55a" stroke-width="80" opacity="0.8"/>
+        <path class="w4" d="M 330 520 C 420 420, 520 330, 660 260" stroke="#0e130c" stroke-width="60" opacity="0.45"/>
+        <path class="w5" d="M 120 120 C 220 150, 300 110, 420 40" stroke="#5fae1c" stroke-width="44" opacity="0.7"/>
+      </g></g>
+      <g class="rew-hero__arrow">
+        <g transform="rotate(-90 470 280)" filter="url(#rew-block)">
+          <g transform="rotate(90 470 280)">
+            <path class="a-shadow" d="M 432 540 L 432 250 L 362 250 L 482 96 L 602 250 L 532 250 L 532 540 Z" fill="#0e130c" opacity="0.5" transform="translate(16 14)"/>
+            <path class="a-body" d="M 432 540 L 432 250 L 362 250 L 482 96 L 602 250 L 532 250 L 532 540 Z" fill="#ecff9a"/>
+          </g>
+        </g>
+      </g>
+      <g class="rew-hero__flecks" filter="url(#rew-rough)">
+        <circle cx="560" cy="250" r="7" fill="#f7ffd9"/>
+        <circle cx="590" cy="214" r="4" fill="#d6f55a"/>
+        <circle cx="236" cy="330" r="5" fill="#d6f55a"/>
+        <circle cx="600" cy="420" r="9" fill="#23c26b"/>
+        <circle cx="470" cy="470" r="5" fill="#f7ffd9"/>
+      </g>
+    </svg>
     <div class="rew-hero__inner md-grid">
       <p class="rew-hero__eyebrow">A study companion</p>
       <h1 class="rew-hero__title">The <span>Re-Enchantment</span><br>of the World</h1>
